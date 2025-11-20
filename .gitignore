@@ -1,2 +1,2 @@
-# Don't push cleaned data csv
-data/cleaned-food-csv
+# Don't push image folder
+data/images
