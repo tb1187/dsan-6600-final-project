@@ -120,22 +120,23 @@ def download_images(df):
 def clean_filter_dataset(df):
 
     ## Drop unnecessary columns
-    df = df.drop(columns=["camera_or_phone_prob", "food_prob", "sub_dt", "cooking_method"])
+    df = df.drop(columns=["camera_or_phone_prob", "food_prob", "sub_dt", "food_type", "cooking_method"])
     
     ## Standardize dish name column; drop where it is unknown
     df["dish_name"] = df["dish_name"].apply(normalize_text)
     df = df[df["dish_name"] != "unknown"].reset_index(drop=True)
 
-    # Filter dataset to only include 500 most popular dish names; keep only 5 images for each dish
-    top_500 = (df["dish_name"].value_counts().nlargest(500).index)
+    # Filter dataset to only include 300 most popular dish names; keep only 50 images for each dish
+    top_500 = (df["dish_name"].value_counts().nlargest(300).index)
     df = df[df["dish_name"].isin(top_500)].reset_index(drop=True)
-    df = (df.groupby("dish_name").head(5).reset_index(drop=True))
+    df = (df.groupby("dish_name").head(50).reset_index(drop=True))
 
     # Parse ingredients
     df["ingredients"] = df["ingredients"].apply(lambda x: literal_eval(x))
 
     # Extract portion data; break into a dictionary of grams per part and total grams
     df["portion_dict"], df["portion_total_g"] = zip(*df["portion_size"].map(parse_portion))
+    df = df.drop(columns=["portion_size"])
 
     # Clean nutritional profile (break up dictionary into individual columns)
     df["nutritional_profile"] = df["nutritional_profile"].apply(ensure_dict)
