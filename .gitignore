@@ -1,2 +1,6 @@
 # Don't push image folder
 data/images
+data/data/
+data/data/*
+data/data
+
