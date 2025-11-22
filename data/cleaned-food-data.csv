@@ -998,7 +998,7 @@ chocolate_cake_0003.jpg,chocolate_cake,"['flour', 'sugar', 'cocoa powder', 'eggs
 noodle_soup_0040.jpg,noodle_soup,"['noodles', 'beef', 'broth', 'bean sprouts', 'green onions']","{'noodles': 300.0, 'beef': 100.0, 'broth': 200.0}",600.0,15.0,30.0,600.0,80.0
 beef_stew_0004.jpg,beef_stew,"['beef', 'onions', 'sauce']","{'beef': 300.0, 'onions': 100.0}",400.0,25.0,30.0,450.0,20.0
 braised_pork_belly_0009.jpg,braised_pork_belly,"['pork belly', 'soy sauce', 'sugar', 'green onions']","{'pork belly': 300.0, 'sauce': 50.0, 'green onions': 10.0}",360.0,30.0,25.0,500.0,20.0
-dumplings_0031.jpg,dumplings,"['flour', 'water', 'meat', 'vegetables']",{'dumpling': 100.0},100.0,8.0,10.0,250.0,35.0
+https://file.b18a.io/7914545812600109062_850094_.jpg,dumplings,"['flour', 'water', 'meat', 'vegetables']",{'dumpling': 100.0},100.0,8.0,10.0,250.0,35.0
 noodle_salad_0004.jpg,noodle_salad,"['noodles', 'cucumbers', 'sauce', 'carrots']","{'noodles': 300.0, 'cucumbers': 100.0, 'sauce': 50.0}",450.0,10.0,15.0,600.0,100.0
 meat_and_vegetable_soup_0003.jpg,meat_and_vegetable_soup,"['meat', 'carrots', 'corn', 'potatoes', 'broth']","{'meat': 200.0, 'vegetables': 150.0}",350.0,15.0,25.0,350.0,30.0
 cooked_white_rice_0004.jpg,cooked_white_rice,['white rice'],{'rice': 300.0},300.0,0.4,4.5,250.0,55.0
@@ -1086,7 +1086,7 @@ spaghetti_and_meatballs_0001.jpg,spaghetti_and_meatballs,"['spaghetti', 'meatbal
 shrimp_and_vegetable_stir_fry_0005.jpg,shrimp_and_vegetable_stir_fry,"['shrimp', 'asparagus', 'mushrooms', 'garlic', 'soy sauce']","{'shrimp': 200.0, 'asparagus': 100.0, 'mushrooms': 50.0}",350.0,10.0,25.0,350.0,30.0
 steamed_fish_with_vegetables_0002.jpg,steamed_fish_with_vegetables,"['fish', 'ginger', 'green onions', 'red chili']","{'fish': 300.0, 'vegetables': 50.0}",350.0,15.0,30.0,350.0,5.0
 bibimbap_0003.jpg,bibimbap,"['rice', 'chicken', 'spinach', 'carrots', 'corn', 'egg', 'seaweed']","{'rice': 200.0, 'chicken': 150.0, 'vegetables': 150.0, 'egg': 50.0}",550.0,30.0,40.0,800.0,100.0
-dumplings_0032.jpg,dumplings,"['flour', 'water', 'meat filling']",{'dumplings': 300.0},300.0,10.0,12.0,300.0,45.0
+dumplings_0031.jpg,dumplings,"['flour', 'water', 'meat filling']",{'dumplings': 300.0},300.0,10.0,12.0,300.0,45.0
 spicy_beef_stir_fry_0004.jpg,spicy_beef_stir_fry,"['beef', 'green onions', 'red chili', 'garlic', 'lime']","{'beef': 200.0, 'vegetables': 150.0, 'sauce': 50.0}",400.0,30.0,40.0,600.0,50.0
 stir_fried_greens_0017.jpg,stir_fried_greens,"['greens', 'garlic', 'oil']",{'greens': 300.0},300.0,5.0,4.0,150.0,25.0
 fresh_peaches_0003.jpg,fresh_peaches,['peach'],{'peach': 150.0},150.0,0.4,1.0,68.0,17.0
@@ -1359,7 +1359,7 @@ watermelon_0015.jpg,watermelon,['watermelon'],{'watermelon': 300.0},300.0,0.2,0.
 braised_pork_trotters_0003.jpg,braised_pork_trotters,"['pork trotters', 'soy sauce', 'ginger', 'garlic', 'green onions']","{'pork trotters': 300.0, 'sauce': 100.0}",400.0,40.0,30.0,600.0,20.0
 boiled_egg_0003.jpg,boiled_egg,['egg'],{'egg': 70.0},70.0,11.0,13.0,155.0,1.0
 watermelon_slices_0005.jpg,watermelon_slices,['watermelon'],{'watermelon': 500.0},500.0,0.6,2.4,120.0,30.2
-dumplings_0033.jpg,dumplings,"['dumpling wrappers', 'meat filling', 'sesame seeds', 'spicy sauce']","{'dumplings': 250.0, 'sauce': 50.0}",300.0,10.0,15.0,300.0,40.0
+dumplings_0032.jpg,dumplings,"['dumpling wrappers', 'meat filling', 'sesame seeds', 'spicy sauce']","{'dumplings': 250.0, 'sauce': 50.0}",300.0,10.0,15.0,300.0,40.0
 spicy_noodles_0008.jpg,spicy_noodles,"['noodles', 'green onions', 'garlic', 'chili sauce']","{'noodles': 200.0, 'vegetables': 100.0, 'sauce': 50.0}",350.0,15.0,10.0,400.0,60.0
 shrimp_0008.jpg,shrimp,"['shrimp', 'soy sauce', 'garlic']",{'shrimp': 300.0},300.0,5.0,30.0,250.0,2.0
 snack_0006.jpg,snack,"['corn starch', 'sugar', 'oil', 'flavoring']",{'snack': 30.0},30.0,7.0,1.0,150.0,22.0
@@ -1397,7 +1397,7 @@ fish_soup_0001.jpg,fish_soup,"['fish', 'broth', 'green onions']","{'fish': 200.0
 ice_cream_0003.jpg,ice_cream,"['ice cream', 'wafer cone']","{'ice cream': 200.0, 'cone': 30.0}",230.0,10.0,4.0,250.0,36.0
 mixed_asian_cuisine_0013.jpg,mixed_asian_cuisine,"['shrimp', 'lobster', 'vegetables', 'noodles', 'crab', 'spring rolls']","{'shrimp': 200.0, 'lobster': 150.0, 'vegetables': 300.0, 'noodles': 200.0}",850.0,70.0,100.0,1500.0,150.0
 tomato_0004.jpg,tomato,['tomato'],{'tomato': 150.0},150.0,0.2,0.9,18.0,3.9
-dumplings_0034.jpg,dumplings,"['flour', 'meat', 'vegetables']",{'dumplings': 300.0},300.0,10.0,15.0,300.0,45.0
+dumplings_0033.jpg,dumplings,"['flour', 'meat', 'vegetables']",{'dumplings': 300.0},300.0,10.0,15.0,300.0,45.0
 spicy_crawfish_0010.jpg,spicy_crawfish,"['crawfish', 'spices', 'vegetables']","{'crawfish': 500.0, 'sauce': 50.0}",550.0,10.0,25.0,300.0,5.0
 fish_soup_0002.jpg,fish_soup,"['fish', 'tomatoes', 'dill', 'green onions']","{'fish': 200.0, 'vegetables': 100.0}",300.0,10.0,20.0,250.0,15.0
 stir_fried_noodles_0024.jpg,stir_fried_noodles,"['noodles', 'zucchini', 'carrots', 'peanuts', 'sauce']","{'noodles': 300.0, 'vegetables': 100.0, 'sauce': 50.0}",450.0,15.0,20.0,600.0,85.0
@@ -1410,7 +1410,7 @@ fried_chicken_and_fries_0006.jpg,fried_chicken_and_fries,"['fries', 'fried chick
 hamburger_0003.jpg,hamburger,"['beef patty', 'bun', 'lettuce', 'tomato', 'cheese']","{'beef patty': 150.0, 'bun': 100.0, 'lettuce': 20.0, 'tomato': 30.0, 'cheese': 20.0}",320.0,25.0,30.0,500.0,40.0
 vegetable_stir_fry_0013.jpg,vegetable_stir_fry,"['eggplant', 'tomato', 'bell pepper', 'garlic', 'soy sauce']","{'eggplant': 150.0, 'tomato': 100.0, 'bell pepper': 100.0}",350.0,10.0,5.0,250.0,35.0
 birthday_cake_0010.jpg,birthday_cake,"['flour', 'sugar', 'butter', 'eggs', 'cream', 'decorative icing']",{'cake': 150.0},150.0,15.0,4.0,350.0,50.0
-dumplings_0035.jpg,dumplings,"['dumplings', 'chili sauce']","{'dumplings': 250.0, 'sauce': 50.0}",300.0,10.0,15.0,300.0,40.0
+dumplings_0034.jpg,dumplings,"['dumplings', 'chili sauce']","{'dumplings': 250.0, 'sauce': 50.0}",300.0,10.0,15.0,300.0,40.0
 beef_noodle_soup_0012.jpg,beef_noodle_soup,"['noodles', 'beef', 'broth', 'cilantro', 'green onions']","{'noodles': 200.0, 'beef': 100.0, 'broth': 0, 'herbs': 20.0}",320.0,15.0,25.0,450.0,55.0
 stir_fried_green_beans_0006.jpg,stir_fried_green_beans,"['green beans', 'oil', 'tomatoes', 'spices']","{'green beans': 300.0, 'oil': 20.0, 'tomatoes': 50.0}",370.0,7.0,5.0,150.0,20.0
 strawberries_0009.jpg,strawberries,['strawberries'],{'strawberries': 150.0},150.0,0.3,0.7,32.0,7.7
@@ -1420,7 +1420,7 @@ chicken_rice_bowl_0002.jpg,chicken_rice_bowl,"['chicken', 'rice', 'egg', 'green 
 roasted_chicken_0012.jpg,roasted_chicken,"['chicken', 'seasoning']",{'chicken': 350.0},350.0,20.0,35.0,400.0,0.0
 braised_pork_0010.jpg,braised_pork,"['pork', 'soy sauce', 'sugar', 'spices']","{'pork': 300.0, 'sauce': 50.0}",350.0,40.0,30.0,600.0,10.0
 roasted_chicken_with_vegetables_0004.jpg,roasted_chicken_with_vegetables,"['roasted chicken', 'bell peppers', 'carrots', 'potatoes']","{'chicken': 300.0, 'vegetables': 200.0}",500.0,45.0,60.0,800.0,50.0
-dumplings_0036.jpg,dumplings,"['dumplings', 'sesame seeds', 'spicy sauce']","{'dumplings': 250.0, 'sauce': 50.0}",300.0,10.0,15.0,300.0,40.0
+dumplings_0035.jpg,dumplings,"['dumplings', 'sesame seeds', 'spicy sauce']","{'dumplings': 250.0, 'sauce': 50.0}",300.0,10.0,15.0,300.0,40.0
 beef_noodle_soup_0013.jpg,beef_noodle_soup,"['noodles', 'beef', 'vegetables', 'broth', 'spices']","{'noodles': 200.0, 'beef': 100.0, 'vegetables': 50.0}",350.0,20.0,30.0,600.0,70.0
 mixed_platter_0003.jpg,mixed_platter,"['meat', 'tofu', 'noodles', 'vegetables', 'dipping sauce']","{'meat': 200.0, 'tofu': 150.0, 'noodles': 100.0, 'vegetables': 100.0}",550.0,40.0,50.0,800.0,60.0
 pizza_0021.jpg,pizza,"['cheese', 'pizza dough', 'toppings']",{'pizza': 150.0},150.0,10.0,12.0,250.0,30.0
@@ -1486,7 +1486,7 @@ fried_rice_0024.jpg,fried_rice,"['rice', 'ham', 'egg', 'green onions']","{'rice'
 apple_0021.jpg,apple,['apple'],{'apple': 182.0},182.0,0.3,0.5,95.0,25.0
 stir_fried_meat_with_rice_0004.jpg,stir_fried_meat_with_rice,"['meat', 'rice', 'onions', 'green onions', 'sauce']","{'meat': 300.0, 'rice': 200.0}",500.0,40.0,50.0,800.0,70.0
 steamed_fish_with_vegetables_0003.jpg,steamed_fish_with_vegetables,"['fish', 'vegetables', 'noodles', 'sauce']","{'fish': 300.0, 'vegetables': 100.0, 'noodles': 200.0}",600.0,25.0,40.0,600.0,50.0
-dumplings_0037.jpg,dumplings,"['flour', 'meat', 'vegetables', 'water']",{'dumplings': 300.0},300.0,10.0,12.0,300.0,45.0
+dumplings_0036.jpg,dumplings,"['flour', 'meat', 'vegetables', 'water']",{'dumplings': 300.0},300.0,10.0,12.0,300.0,45.0
 custard_tarts_0004.jpg,custard_tarts,"['pastry', 'custard', 'sugar', 'eggs', 'vanilla']",{'tart': 100.0},100.0,15.0,6.0,300.0,40.0
 chocolate_cake_0005.jpg,chocolate_cake,"['flour', 'sugar', 'cocoa powder', 'butter', 'eggs', 'chocolate frosting']",{'cake': 100.0},100.0,10.0,3.0,250.0,40.0
 chicken_salad_0005.jpg,chicken_salad,"['chicken', 'lettuce', 'tomatoes', 'croutons', 'cheese']","{'chicken': 150.0, 'lettuce': 100.0, 'tomatoes': 50.0, 'croutons': 50.0, 'cheese': 30.0}",380.0,15.0,25.0,350.0,30.0
@@ -1545,7 +1545,7 @@ watermelon_slice_0003.jpg,watermelon_slice,['watermelon'],{'watermelon': 150.0},
 steamed_dumplings_0007.jpg,steamed_dumplings,"['dumplings', 'vegetables', 'sauce']",{'dumplings': 300.0},300.0,10.0,5.0,250.0,35.0
 bubble_tea_0002.jpg,bubble_tea,"['tapioca pearls', 'milk', 'sugar']","{'tapioca pearls': 100.0, 'milk': 0, 'sugar': 30.0}",130.0,5.0,2.0,300.0,60.0
 watermelon_slices_0006.jpg,watermelon_slices,['watermelon'],{'watermelon': 500.0},500.0,0.4,2.5,120.0,30.0
-dumplings_0038.jpg,dumplings,"['flour', 'meat', 'vegetables']",{'dumplings': 300.0},300.0,10.0,12.0,250.0,30.0
+dumplings_0037.jpg,dumplings,"['flour', 'meat', 'vegetables']",{'dumplings': 300.0},300.0,10.0,12.0,250.0,30.0
 vegetable_pizza_0003.jpg,vegetable_pizza,"['pizza dough', 'cheese', 'tomato sauce', 'bell peppers', 'onions', 'corn', 'olives']",{'pizza': 200.0},200.0,12.0,15.0,300.0,36.0
 tofu_stir_fry_0002.jpg,tofu_stir_fry,"['tofu', 'green onions', 'spices']","{'tofu': 200.0, 'green onions': 50.0}",250.0,15.0,20.0,250.0,10.0
 lemon_0004.jpg,lemon,['lemon'],{'lemon': 100.0},100.0,0.2,1.1,17.0,5.4
@@ -1635,7 +1635,7 @@ iced_coffee_0001.jpg,iced_coffee,"['coffee', 'sugar', 'cream']","{'coffee': 0, '
 hot_pot_0034.jpg,hot_pot,"['beef', 'pork', 'tofu', 'vegetables', 'sauce']","{'meat': 300.0, 'vegetables': 200.0, 'sauce': 50.0}",550.0,40.0,50.0,800.0,60.0
 mango_0004.jpg,mango,['mango'],{'mango': 300.0},300.0,0.6,1.5,150.0,35.0
 sliced_beef_0003.jpg,sliced_beef,['beef'],{'beef': 300.0},300.0,15.0,25.0,250.0,0.0
-dumplings_0039.jpg,dumplings,"['dumpling wrappers', 'vegetables', 'eggs']",{'dumplings': 300.0},300.0,10.0,12.0,300.0,45.0
+dumplings_0038.jpg,dumplings,"['dumpling wrappers', 'vegetables', 'eggs']",{'dumplings': 300.0},300.0,10.0,12.0,300.0,45.0
 baked_oysters_0003.jpg,baked_oysters,"['oysters', 'butter', 'cheese', 'lemon']","{'oysters': 200.0, 'butter': 20.0, 'cheese': 30.0}",250.0,20.0,25.0,300.0,5.0
 vegetable_stir_fry_0015.jpg,vegetable_stir_fry,"['green beans', 'red peppers', 'spices']",{'vegetables': 300.0},300.0,5.0,3.0,150.0,25.0
 steamed_dumplings_0008.jpg,steamed_dumplings,"['flour', 'meat', 'vegetables', 'sesame seeds', 'sauce']","{'dumpling': 200.0, 'sauce': 20.0}",220.0,10.0,8.0,300.0,45.0
@@ -1666,7 +1666,7 @@ vegetable_stir_fry_0016.jpg,vegetable_stir_fry,"['eggplant', 'bell pepper', 'tom
 spicy_crawfish_0013.jpg,spicy_crawfish,"['crawfish', 'spices', 'sauce']",{'crawfish': 400.0},400.0,10.0,25.0,300.0,5.0
 steamed_fish_0009.jpg,steamed_fish,"['fish', 'sauce', 'green onions', 'spices']","{'fish': 400.0, 'sauce': 100.0}",500.0,30.0,50.0,600.0,20.0
 hamburger_0005.jpg,hamburger,"['beef patty', 'bun', 'lettuce', 'tomato', 'onion']","{'beef patty': 150.0, 'bun': 100.0, 'lettuce': 20.0, 'tomato': 30.0, 'onion': 20.0}",320.0,25.0,30.0,500.0,40.0
-dumplings_0040.jpg,dumplings,"['dumplings', 'green onions']","{'dumplings': 250.0, 'green onions': 20.0}",270.0,10.0,15.0,300.0,40.0
+dumplings_0039.jpg,dumplings,"['dumplings', 'green onions']","{'dumplings': 250.0, 'green onions': 20.0}",270.0,10.0,15.0,300.0,40.0
 vegetable_pizza_0004.jpg,vegetable_pizza,"['pizza dough', 'cheese', 'tomato', 'onion', 'green pepper', 'spices']",{'pizza': 300.0},300.0,10.5,12.0,285.0,36.0
 stir_fried_meat_and_vegetables_0013.jpg,stir_fried_meat_and_vegetables,"['meat', 'vegetables', 'spices']","{'meat': 200.0, 'vegetables': 150.0}",350.0,20.0,30.0,450.0,40.0
 roasted_chicken_0013.jpg,roasted_chicken,"['roasted chicken', 'mixed vegetables', 'sauce']","{'chicken': 300.0, 'vegetables': 150.0, 'sauce': 50.0}",500.0,45.0,60.0,800.0,30.0
@@ -1689,7 +1689,7 @@ cooked_white_rice_0008.jpg,cooked_white_rice,['white rice'],{'rice': 200.0},200.
 grilled_beef_0004.jpg,grilled_beef,['beef'],{'beef': 200.0},200.0,15.0,25.0,250.0,0.0
 oranges_0008.jpg,oranges,['orange'],{'orange': 200.0},200.0,0.2,1.2,62.0,15.4
 roasted_chicken_0014.jpg,roasted_chicken,"['chicken', 'sesame seeds', 'seasoning']",{'chicken': 300.0},300.0,20.0,30.0,350.0,0.0
-dumplings_0041.jpg,dumplings,"['dumpling dough', 'meat filling', 'sauce']","{'dumplings': 250.0, 'sauce': 50.0}",300.0,10.0,15.0,300.0,40.0
+dumplings_0040.jpg,dumplings,"['dumpling dough', 'meat filling', 'sauce']","{'dumplings': 250.0, 'sauce': 50.0}",300.0,10.0,15.0,300.0,40.0
 noodles_0003.jpg,noodles,['noodles'],{'noodles': 100.0},100.0,1.0,7.0,200.0,42.0
 fried_eggs_0004.jpg,fried_eggs,"['eggs', 'oil']",{'eggs': 200.0},200.0,20.0,18.0,300.0,10.0
 stir_fried_noodles_0029.jpg,stir_fried_noodles,"['noodles', 'meat', 'green onions', 'carrots']","{'noodles': 200.0, 'meat': 100.0, 'vegetables': 50.0}",350.0,20.0,30.0,600.0,70.0
@@ -1762,7 +1762,7 @@ steamed_clams_0001.jpg,steamed_clams,"['clams', 'garlic', 'butter', 'spices']",{
 noodle_soup_with_meat_0007.jpg,noodle_soup_with_meat,"['noodles', 'meat', 'vegetables', 'broth']","{'noodles': 200.0, 'meat': 150.0, 'vegetables': 50.0}",400.0,20.0,30.0,600.0,70.0
 tacos_0004.jpg,tacos,"['beef', 'taco shell', 'lettuce', 'tomato', 'sour cream']","{'beef': 150.0, 'taco shell': 50.0, 'lettuce': 30.0, 'tomato': 20.0, 'sour cream': 20.0}",270.0,15.0,20.0,350.0,30.0
 grilled_steak_with_vegetables_0003.jpg,grilled_steak_with_vegetables,"['steak', 'broccoli', 'bell peppers', 'cauliflower']","{'steak': 250.0, 'mixed vegetables': 150.0}",400.0,40.0,50.0,600.0,20.0
-dumplings_0042.jpg,dumplings,"['dumpling dough', 'pork filling', 'soy sauce']","{'dumplings': 250.0, 'sauce': 20.0}",270.0,10.0,15.0,300.0,40.0
+dumplings_0041.jpg,dumplings,"['dumpling dough', 'pork filling', 'soy sauce']","{'dumplings': 250.0, 'sauce': 20.0}",270.0,10.0,15.0,300.0,40.0
 crawfish_boil_0009.jpg,crawfish_boil,"['crawfish', 'spices', 'vegetables']","{'crawfish': 500.0, 'spices': 50.0}",550.0,10.0,25.0,300.0,15.0
 watermelon_slices_0007.jpg,watermelon_slices,['watermelon'],{'watermelon': 200.0},200.0,0.2,0.6,30.0,7.6
 lychee_0031.jpg,lychee,['lychee'],{'lychee': 100.0},100.0,0.4,0.8,66.0,16.5
@@ -1806,9 +1806,9 @@ fried_eggs_0005.jpg,fried_eggs,['eggs'],{'eggs': 100.0},100.0,14.0,12.0,180.0,1.
 fried_chicken_wings_0007.jpg,fried_chicken_wings,"['chicken wings', 'bread crumbs', 'seasoning']","{'chicken wings': 300.0, 'breading': 50.0}",350.0,25.0,30.0,400.0,20.0
 layered_cake_0005.jpg,layered_cake,"['cake', 'cream', 'fruit puree']","{'cake': 150.0, 'cream': 20.0}",170.0,15.0,5.0,350.0,50.0
 steamed_buns_0014.jpg,steamed_buns,"['flour', 'water', 'yeast', 'filling (meat/vegetables)', 'soy sauce']","{'buns': 300.0, 'soy sauce': 20.0}",320.0,10.0,12.0,400.0,70.0
-dumplings_0043.jpg,dumplings,"['dumpling wrappers', 'ground meat', 'vegetables']",{'dumplings': 300.0},300.0,10.0,15.0,300.0,40.0
+dumplings_0042.jpg,dumplings,"['dumpling wrappers', 'ground meat', 'vegetables']",{'dumplings': 300.0},300.0,10.0,15.0,300.0,40.0
 sandwich_0006.jpg,sandwich,"['bread', 'chicken', 'cabbage', 'sauce']","{'bread': 200.0, 'meat': 100.0, 'vegetables': 50.0}",350.0,25.0,30.0,600.0,60.0
-dumplings_0044.jpg,dumplings,"['dough', 'pork', 'vegetables']",{'dumplings': 200.0},200.0,10.0,15.0,300.0,40.0
+dumplings_0043.jpg,dumplings,"['dough', 'pork', 'vegetables']",{'dumplings': 200.0},200.0,10.0,15.0,300.0,40.0
 steamed_buns_0015.jpg,steamed_buns,"['flour', 'vegetables', 'meat', 'seasonings']",{'buns': 300.0},300.0,5.0,8.0,250.0,45.0
 zongzi_0004.jpg,zongzi,"['rice', 'meat', 'mushrooms', 'chestnuts']","{'rice': 200.0, 'filling': 50.0}",250.0,5.0,10.0,250.0,45.0
 hamburger_0006.jpg,hamburger,"['beef patty', 'bun', 'lettuce', 'pickles', 'mayonnaise']","{'beef patty': 150.0, 'bun': 100.0, 'lettuce': 20.0, 'pickles': 30.0, 'mayonnaise': 10.0}",310.0,25.0,30.0,500.0,40.0
@@ -1822,7 +1822,7 @@ stir_fried_greens_0024.jpg,stir_fried_greens,"['bok choy', 'spinach']",{'greens'
 beef_noodle_soup_0019.jpg,beef_noodle_soup,"['beef', 'noodles', 'bean sprouts', 'mushrooms', 'broth']","{'beef': 200.0, 'noodles': 150.0, 'vegetables': 100.0}",450.0,25.0,40.0,600.0,50.0
 bubble_tea_0003.jpg,bubble_tea,"['milk', 'sugar', 'tea']","{'milk': 300.0, 'sugar': 30.0}",330.0,5.0,2.0,200.0,35.0
 steamed_buns_0016.jpg,steamed_buns,"['flour', 'vegetables', 'meat', 'seasonings']",{'buns': 300.0},300.0,5.0,8.0,250.0,45.0
-dumplings_0045.jpg,dumplings,"['dumpling wrappers', 'meat filling', 'vegetables', 'soy sauce']",{'dumplings': 300.0},300.0,10.0,15.0,300.0,40.0
+dumplings_0044.jpg,dumplings,"['dumpling wrappers', 'meat filling', 'vegetables', 'soy sauce']",{'dumplings': 300.0},300.0,10.0,15.0,300.0,40.0
 cherries_0008.jpg,cherries,['cherries'],{'cherries': 200.0},200.0,0.2,1.0,50.0,12.0
 glazed_chicken_wings_0007.jpg,glazed_chicken_wings,"['chicken wings', 'lemon', 'glaze']","{'chicken wings': 300.0, 'lemon': 50.0}",350.0,25.0,30.0,400.0,5.0
 dumplings_in_broth_0001.jpg,dumplings_in_broth,"['dumplings', 'broth', 'herbs']","{'dumplings': 200.0, 'broth': 150.0}",350.0,5.0,10.0,300.0,50.0
@@ -1850,7 +1850,7 @@ noodle_stir_fry_0011.jpg,noodle_stir_fry,"['noodles', 'cilantro', 'green onions'
 spicy_noodle_soup_0011.jpg,spicy_noodle_soup,"['noodles', 'chicken', 'vegetables', 'spicy broth']","{'noodles': 300.0, 'chicken': 100.0, 'vegetables': 50.0}",450.0,20.0,25.0,600.0,80.0
 fish_soup_0003.jpg,fish_soup,"['fish', 'cabbage', 'tomato', 'green onions', 'seaweed']","{'fish': 200.0, 'vegetables': 150.0}",350.0,15.0,25.0,350.0,30.0
 pepperoni_pizza_0004.jpg,pepperoni_pizza,"['pizza dough', 'cheese', 'pepperoni', 'tomato sauce']",{'pizza_slice': 100.0},100.0,12.0,12.0,285.0,36.0
-dumplings_0046.jpg,dumplings,"['dumpling wrappers', 'meat', 'vegetables']",{'dumplings': 300.0},300.0,10.0,15.0,300.0,45.0
+dumplings_0045.jpg,dumplings,"['dumpling wrappers', 'meat', 'vegetables']",{'dumplings': 300.0},300.0,10.0,15.0,300.0,45.0
 stir_fried_eggplant_0006.jpg,stir_fried_eggplant,"['eggplant', 'garlic', 'soy sauce', 'oil']","{'eggplant': 300.0, 'oil': 20.0}",320.0,10.0,2.0,150.0,15.0
 braised_pork_0012.jpg,braised_pork,"['pork', 'soy sauce', 'spices']",{'pork': 400.0},400.0,40.0,50.0,600.0,0.0
 steamed_fish_0013.jpg,steamed_fish,"['fish', 'soy sauce', 'ginger', 'scallions', 'chili']","{'fish': 300.0, 'sauce': 50.0}",350.0,15.0,30.0,350.0,10.0
@@ -1869,7 +1869,7 @@ noodle_stir_fry_0012.jpg,noodle_stir_fry,"['noodles', 'beef', 'green peppers', '
 grilled_shrimp_0002.jpg,grilled_shrimp,"['shrimp', 'seasoning']",{'shrimp': 300.0},300.0,5.0,30.0,250.0,0.0
 fried_chicken_meal_0004.jpg,fried_chicken_meal,"['fried chicken', 'fries']","{'fried chicken': 250.0, 'fries': 100.0}",350.0,20.0,25.0,400.0,30.0
 grilled_steak_with_vegetables_0006.jpg,grilled_steak_with_vegetables,"['steak', 'broccoli', 'carrot', 'onion']","{'steak': 250.0, 'broccoli': 100.0, 'carrot': 50.0, 'onion': 50.0}",450.0,30.0,50.0,600.0,20.0
-dumplings_0047.jpg,dumplings,"['dumplings', 'onions', 'sauce']","{'dumplings': 250.0, 'onions': 50.0}",300.0,10.0,12.0,300.0,45.0
+dumplings_0046.jpg,dumplings,"['dumplings', 'onions', 'sauce']","{'dumplings': 250.0, 'onions': 50.0}",300.0,10.0,12.0,300.0,45.0
 assorted_snacks_0003.jpg,assorted_snacks,"['snack1', 'snack2', 'drink1', 'drink2']","{'snack1': 200.0, 'snack2': 150.0, 'drink1': 0, 'drink2': 0}",350.0,30.0,25.0,800.0,100.0
 beef_noodle_soup_0020.jpg,beef_noodle_soup,"['noodles', 'beef', 'broth', 'green onions', 'cilantro']","{'noodles': 200.0, 'beef': 150.0, 'vegetables': 50.0}",400.0,20.0,30.0,600.0,70.0
 mango_0005.jpg,mango,['mango'],{'mango': 500.0},500.0,0.5,1.5,150.0,37.0
@@ -1877,7 +1877,7 @@ fruit_salad_0009.jpg,fruit_salad,"['mango', 'coconut', 'pineapple', 'cherry toma
 ice_cream_0004.jpg,ice_cream,['ice cream'],{'ice cream': 100.0},100.0,7.0,3.0,150.0,20.0
 mixed_chinese_dishes_0017.jpg,mixed_chinese_dishes,"['noodles', 'chicken', 'beef', 'vegetables', 'soup']","{'noodles': 200.0, 'meat': 300.0, 'vegetables': 150.0, 'soup': 250.0}",900.0,60.0,80.0,1200.0,100.0
 hot_pot_0039.jpg,hot_pot,"['meat', 'vegetables', 'broth', 'spices']","{'meat': 200.0, 'vegetables': 150.0, 'broth': 250.0}",600.0,30.0,40.0,600.0,50.0
-dumplings_0048.jpg,dumplings,"['dumpling wrappers', 'shrimp', 'pork', 'vegetables', 'broth']",{'dumplings': 300.0},300.0,10.0,15.0,300.0,40.0
+dumplings_0047.jpg,dumplings,"['dumpling wrappers', 'shrimp', 'pork', 'vegetables', 'broth']",{'dumplings': 300.0},300.0,10.0,15.0,300.0,40.0
 steamed_bun_0005.jpg,steamed_bun,"['flour', 'filling (meat or vegetable)', 'water', 'yeast']",{'bun': 150.0},150.0,5.0,8.0,250.0,45.0
 fried_chicken_0022.jpg,fried_chicken,"['chicken', 'oil', 'seasoning']",{'chicken': 200.0},200.0,15.0,20.0,250.0,5.0
 iced_coffee_0002.jpg,iced_coffee,"['coffee', 'milk', 'sugar']","{'coffee': 0, 'milk': 0, 'sugar': 20.0}",20.0,20.0,10.0,550.0,70.0
@@ -1892,14 +1892,14 @@ hot_pot_0040.jpg,hot_pot,"['beef', 'chicken', 'tofu', 'vegetables', 'rice']","{'
 birthday_cake_0011.jpg,birthday_cake,"['flour', 'sugar', 'butter', 'eggs', 'frosting']",{'cake': 200.0},200.0,15.0,4.0,350.0,50.0
 sashimi_0004.jpg,sashimi,"['salmon', 'parsley', 'edible flower']",{'salmon': 300.0},300.0,20.0,30.0,350.0,0.0
 fruit_salad_0010.jpg,fruit_salad,"['orange', 'pear', 'plum']","{'orange': 200.0, 'pear': 150.0, 'plum': 100.0}",450.0,0.5,2.0,150.0,38.0
-dumplings_0049.jpg,dumplings,"['dumplings', 'sour cream', 'herbs']","{'dumplings': 250.0, 'sour cream': 50.0}",300.0,10.0,15.0,300.0,40.0
+dumplings_0048.jpg,dumplings,"['dumplings', 'sour cream', 'herbs']","{'dumplings': 250.0, 'sour cream': 50.0}",300.0,10.0,15.0,300.0,40.0
 cooked_white_rice_0010.jpg,cooked_white_rice,['rice'],{'rice': 150.0},150.0,0.3,2.7,130.0,28.7
 stir_fried_green_beans_0008.jpg,stir_fried_green_beans,"['green beans', 'oil', 'spices']","{'green beans': 300.0, 'oil': 10.0}",310.0,5.0,4.0,150.0,25.0
 fried_chicken_with_rice_0004.jpg,fried_chicken_with_rice,"['fried chicken', 'rice', 'vegetable side']","{'fried chicken': 200.0, 'rice': 250.0, 'vegetable side': 100.0}",550.0,30.0,40.0,800.0,100.0
 spicy_crawfish_0014.jpg,spicy_crawfish,"['crawfish', 'lemon', 'chili peppers', 'cilantro', 'garlic']","{'crawfish': 300.0, 'vegetables': 50.0}",350.0,15.0,25.0,350.0,30.0
 roast_duck_0002.jpg,roast_duck,"['duck', 'sauce']",{'duck': 250.0},250.0,20.0,30.0,350.0,0.0
 potato_chips_0003.jpg,potato_chips,"['potatoes', 'oil', 'salt']",{'potato chips': 50.0},50.0,8.0,2.0,150.0,18.0
-dumplings_0050.jpg,dumplings,"['dumplings', 'cilantro']","{'dumplings': 300.0, 'cilantro': 50.0}",350.0,10.0,15.0,250.0,30.0
+dumplings_0049.jpg,dumplings,"['dumplings', 'cilantro']","{'dumplings': 300.0, 'cilantro': 50.0}",350.0,10.0,15.0,250.0,30.0
 meat_stew_0010.jpg,meat_stew,"['meat', 'spices', 'sauce']","{'meat': 400.0, 'sauce': 100.0}",500.0,40.0,50.0,600.0,10.0
 fried_rice_0030.jpg,fried_rice,"['rice', 'carrots', 'peas', 'egg', 'green onions']","{'rice': 300.0, 'vegetables': 100.0, 'egg': 50.0}",450.0,10.0,12.0,450.0,70.0
 egg_tart_0009.jpg,egg_tart,"['pastry', 'egg', 'milk', 'sugar']","{'pastry': 100.0, 'custard': 100.0}",200.0,15.0,6.0,300.0,35.0
@@ -6091,7 +6091,7 @@ mixed_asian_meal_0049.jpg,mixed_asian_meal,"['rice', 'bok choy', 'chicken', 'sou
 grilled_beef_0014.jpg,grilled_beef,['beef'],{'beef': 200.0},200.0,20.0,25.0,250.0,0.0
 roasted_chicken_0040.jpg,roasted_chicken,"['whole chicken', 'fried vegetables', 'sauce']","{'chicken': 800.0, 'fried vegetables': 100.0}",900.0,50.0,60.0,800.0,20.0
 cheese_pizza_0017.jpg,cheese_pizza,"['pizza dough', 'cheese', 'sauce']",{'pizza_slice': 150.0},150.0,10.5,12.0,285.0,36.0
-spicy_chicken_wings_0010.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'pepper']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
+https://file.b18a.io/7832699767200100984_426972_.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'pepper']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
 cucumber_0019.jpg,cucumber,['cucumber'],{'cucumber': 300.0},300.0,0.1,0.7,16.0,3.6
 dim_sum_0010.jpg,dim_sum,"['shrimp', 'pork', 'dumpling wrapper', 'sweet dessert', 'drink']","{'dumplings': 200.0, 'dessert': 150.0, 'drink': 250.0}",600.0,20.0,25.0,600.0,80.0
 crawfish_0039.jpg,crawfish,"['crawfish', 'spices']",{'crawfish': 500.0},500.0,5.0,20.0,250.0,0.0
@@ -6625,7 +6625,7 @@ shrimp_fried_rice_0018.jpg,shrimp_fried_rice,"['rice', 'shrimp', 'peas', 'carrot
 vegetable_soup_0048.jpg,vegetable_soup,"['carrots', 'tomatoes', 'broth', 'seasonings']","{'vegetables': 200.0, 'broth': 300.0}",500.0,5.0,7.0,150.0,20.0
 pears_0008.jpg,pears,['Pears'],{'Pears': 500.0},500.0,0.3,0.5,100.0,27.0
 spring_rolls_0024.jpg,spring_rolls,"['lettuce', 'chicken', 'rice paper', 'carrots', 'cucumber']","{'lettuce': 100.0, 'chicken': 150.0, 'rice paper': 50.0}",300.0,10.0,15.0,300.0,40.0
-spicy_chicken_wings_0011.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sesame seeds']",{'chicken wings': 400.0},400.0,50.0,60.0,800.0,10.0
+spicy_chicken_wings_0010.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sesame seeds']",{'chicken wings': 400.0},400.0,50.0,60.0,800.0,10.0
 glazed_chicken_wings_0023.jpg,glazed_chicken_wings,"['chicken wings', 'lemon', 'glaze']","{'chicken wings': 300.0, 'lemon': 50.0}",350.0,25.0,30.0,400.0,5.0
 fish_soup_0019.jpg,fish_soup,"['fish', 'vegetables', 'broth', 'spices']","{'fish': 200.0, 'vegetables': 100.0}",300.0,10.0,15.0,250.0,30.0
 braised_short_ribs_0016.jpg,braised_short_ribs,"['beef ribs', 'soy sauce', 'sugar', 'garlic', 'ginger']","{'beef ribs': 400.0, 'sauce': 50.0}",450.0,40.0,50.0,600.0,10.0
@@ -6967,7 +6967,7 @@ roasted_chicken_0046.jpg,roasted_chicken,"['chicken', 'seasoning']",{'chicken': 
 mixed_meat_platter_0024.jpg,mixed_meat_platter,"['beef', 'chicken', 'green vegetables']","{'beef': 300.0, 'chicken': 200.0, 'vegetables': 100.0}",600.0,50.0,60.0,800.0,20.0
 melon_0012.jpg,melon,['melon'],{'melon': 300.0},300.0,0.2,1.5,50.0,13.0
 grilled_steak_with_vegetables_0037.jpg,grilled_steak_with_vegetables,"['steak', 'bell peppers', 'zucchini', 'seasoning']","{'steak': 250.0, 'mixed vegetables': 150.0}",400.0,40.0,50.0,600.0,20.0
-spicy_chicken_wings_0012.jpg,spicy_chicken_wings,"['chicken', 'spicy sauce', 'green onions', 'red chili']","{'chicken': 300.0, 'sauce': 50.0}",350.0,15.0,25.0,350.0,10.0
+spicy_chicken_wings_0011.jpg,spicy_chicken_wings,"['chicken', 'spicy sauce', 'green onions', 'red chili']","{'chicken': 300.0, 'sauce': 50.0}",350.0,15.0,25.0,350.0,10.0
 boiled_egg_0020.jpg,boiled_egg,['egg'],{'egg': 50.0},50.0,5.0,6.0,70.0,1.0
 grilled_meat_0031.jpg,grilled_meat,"['beef', 'seasoning']",{'meat': 200.0},200.0,15.0,25.0,250.0,0.0
 vegetable_noodles_0043.jpg,vegetable_noodles,"['noodles', 'green peppers', 'tomatoes', 'black fungus', 'green onions']","{'noodles': 200.0, 'vegetables': 150.0}",350.0,10.0,15.0,450.0,70.0
@@ -7897,7 +7897,7 @@ seafood_stir_fry_0032.jpg,seafood_stir_fry,"['shrimp', 'corn', 'broccoli', 'nood
 sashimi_0024.jpg,sashimi,"['raw fish', 'kale', 'bell peppers']","{'fish': 300.0, 'vegetables': 50.0}",350.0,10.0,50.0,300.0,5.0
 beef_noodles_0019.jpg,beef_noodles,"['noodles', 'beef', 'bell peppers', 'green onions', 'dried chili']","{'noodles': 400.0, 'beef': 150.0, 'vegetables': 100.0}",650.0,20.0,30.0,800.0,100.0
 meat_stew_0046.jpg,meat_stew,"['meat', 'carrots', 'cabbage', 'cilantro', 'spices']","{'meat': 300.0, 'vegetables': 200.0}",500.0,30.0,40.0,600.0,50.0
-egg_0015.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+https://file.b18a.io/7955934947900109322_728957_.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 vegetable_fried_rice_0021.jpg,vegetable_fried_rice,"['rice', 'cabbage', 'carrots', 'green onions', 'chicken']","{'rice': 300.0, 'vegetables': 100.0, 'chicken': 50.0}",450.0,10.0,12.0,450.0,70.0
 mixed_vegetable_and_meat_dish_0012.jpg,mixed_vegetable_and_meat_dish,"['meat', 'green beans', 'carrots', 'sauce', 'potatoes']","{'meat': 200.0, 'vegetables': 150.0, 'sauce': 50.0}",400.0,20.0,30.0,600.0,70.0
 cucumber_salad_0006.jpg,cucumber_salad,"['cucumbers', 'peanuts', 'chili peppers', 'soy sauce']","{'cucumbers': 300.0, 'peanuts': 50.0}",350.0,10.0,3.0,150.0,15.0
@@ -8657,7 +8657,7 @@ spicy_tofu_0019.jpg,spicy_tofu,"['tofu', 'spicy sauce', 'green onions', 'pickled
 flatbread_0036.jpg,flatbread,"['flour', 'water', 'salt', 'oil']","{'flour': 200.0, 'water': 100.0}",300.0,8.0,6.0,250.0,40.0
 chicken_soup_0036.jpg,chicken_soup,"['chicken', 'broth', 'green onions', 'red chili', 'noodles']","{'chicken': 200.0, 'vegetables': 150.0}",350.0,20.0,30.0,450.0,40.0
 fish_soup_0026.jpg,fish_soup,"['fish', 'tomatoes', 'peppers', 'green onions', 'broth']","{'fish': 200.0, 'vegetables': 150.0}",350.0,10.0,25.0,300.0,15.0
-egg_0016.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0015.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 sweet_and_sour_pork_0025.jpg,sweet_and_sour_pork,"['pork', 'sweet and sour sauce', 'bell peppers', 'green onions']","{'pork': 200.0, 'sauce': 50.0, 'vegetables': 50.0}",300.0,20.0,25.0,350.0,15.0
 sweet_and_sour_pork_0026.jpg,sweet_and_sour_pork,"['pork', 'pineapple', 'bell pepper', 'sweet and sour sauce']","{'pork': 200.0, 'pineapple': 100.0, 'bell pepper': 50.0}",350.0,15.0,20.0,400.0,50.0
 sandwich_0037.jpg,sandwich,"['bread', 'ham', 'lettuce', 'tomato', 'sauce']","{'bread': 150.0, 'ham': 50.0, 'vegetables': 100.0, 'sauce': 30.0}",330.0,20.0,25.0,450.0,40.0
@@ -8708,7 +8708,7 @@ banana_0050.jpg,banana,['banana'],{'banana': 120.0},120.0,0.3,1.3,105.0,27.0
 chicken_rice_bowl_0018.jpg,chicken_rice_bowl,"['chicken', 'rice', 'bok choy', 'sesame seeds', 'green onions']","{'chicken': 200.0, 'rice': 150.0, 'vegetables': 100.0}",450.0,20.0,30.0,600.0,70.0
 potato_chips_0041.jpg,potato_chips,"['potatoes', 'oil', 'salt']",{'potato chips': 100.0},100.0,30.0,6.0,500.0,60.0
 fried_meat_0014.jpg,fried_meat,"['meat', 'spices', 'oil']","{'meat': 300.0, 'spices': 50.0}",350.0,30.0,25.0,600.0,50.0
-spicy_chicken_wings_0013.jpg,spicy_chicken_wings,"['chicken', 'spicy sauce']","{'chicken': 800.0, 'sauce': 100.0}",900.0,80.0,100.0,1200.0,30.0
+spicy_chicken_wings_0012.jpg,spicy_chicken_wings,"['chicken', 'spicy sauce']","{'chicken': 800.0, 'sauce': 100.0}",900.0,80.0,100.0,1200.0,30.0
 crawfish_boil_0047.jpg,crawfish_boil,"['crawfish', 'green onions', 'seasoning']","{'crawfish': 300.0, 'seasoning': 50.0}",350.0,10.0,20.0,250.0,5.0
 avocado_0015.jpg,avocado,['avocado'],{'avocado': 300.0},300.0,22.0,3.0,240.0,12.0
 noodles_0021.jpg,noodles,"['noodles', 'vegetables', 'sauce']","{'noodles': 300.0, 'sauce': 50.0}",350.0,10.0,12.0,400.0,60.0
@@ -8824,7 +8824,7 @@ mixed_vegetable_and_meat_dish_0014.jpg,mixed_vegetable_and_meat_dish,"['meat', '
 fried_snack_0027.jpg,fried_snack,"['fried batter', 'seasoning']","{'fried_item1': 200.0, 'fried_item2': 200.0}",400.0,20.0,10.0,400.0,50.0
 pear_0018.jpg,pear,['pear'],{'pear': 178.0},178.0,0.2,0.6,102.0,27.6
 seafood_noodle_soup_0045.jpg,seafood_noodle_soup,"['noodles', 'shrimp', 'mussels', 'broccoli', 'chili']","{'noodles': 200.0, 'shrimp': 100.0, 'mussels': 100.0, 'broccoli': 50.0}",450.0,15.0,35.0,600.0,80.0
-stir_fried_green_vegetables_0020.jpg,stir_fried_green_vegetables,"['green bell pepper', 'bok choy']","{'green bell pepper': 200.0, 'bok choy': 150.0}",350.0,5.0,3.0,150.0,25.0
+https://file.b18a.io/7832630014500104781_787796_.jpg,stir_fried_green_vegetables,"['green bell pepper', 'bok choy']","{'green bell pepper': 200.0, 'bok choy': 150.0}",350.0,5.0,3.0,150.0,25.0
 bread_rolls_0023.jpg,bread_rolls,"['flour', 'water', 'yeast', 'sugar', 'salt']",{'bread roll': 200.0},200.0,8.0,6.0,300.0,50.0
 garlic_shrimp_0019.jpg,garlic_shrimp,"['shrimp', 'garlic', 'oil', 'spices']","{'shrimp': 300.0, 'garlic': 50.0, 'oil': 10.0}",360.0,5.0,30.0,250.0,2.0
 stir_fried_cabbage_0028.jpg,stir_fried_cabbage,"['cabbage', 'green onion', 'red pepper']","{'cabbage': 300.0, 'green onion': 50.0, 'red pepper': 20.0}",370.0,5.0,3.0,150.0,25.0
@@ -8857,7 +8857,7 @@ noodle_salad_0042.jpg,noodle_salad,"['noodles', 'zucchini', 'green onions', 'ses
 pears_0022.jpg,pears,['pear'],{'pear': 300.0},300.0,0.3,0.6,102.0,27.6
 korean_bbq_0008.jpg,korean_bbq,"['grilled meat', 'rice', 'salad', 'sauces']","{'grilled meat': 200.0, 'rice': 300.0, 'salad': 100.0}",600.0,40.0,50.0,800.0,70.0
 noodles_0023.jpg,noodles,"['noodles', 'sauce']","{'noodles': 300.0, 'sauce': 50.0}",350.0,10.0,12.0,400.0,60.0
-spicy_chicken_wings_0014.jpg,spicy_chicken_wings,"['chicken', 'spices', 'sauce']",{'chicken wings': 250.0},250.0,20.0,25.0,300.0,5.0
+spicy_chicken_wings_0013.jpg,spicy_chicken_wings,"['chicken', 'spices', 'sauce']",{'chicken wings': 250.0},250.0,20.0,25.0,300.0,5.0
 whole_milk_0033.jpg,whole_milk,['whole milk'],{'milk': 0},0.0,8.0,8.0,150.0,12.0
 fried_chicken_and_fries_0040.jpg,fried_chicken_and_fries,"['fried chicken', 'fries']","{'fried chicken': 200.0, 'fries': 150.0}",350.0,30.0,25.0,600.0,60.0
 flatbread_0038.jpg,flatbread,"['flour', 'water', 'salt']","{'flour': 100.0, 'water': 50.0}",150.0,3.5,4.0,150.0,30.0
@@ -9268,7 +9268,7 @@ steamed_chicken_0027.jpg,steamed_chicken,"['chicken', 'lettuce', 'orchid flower'
 stir_fried_pork_with_vegetables_0032.jpg,stir_fried_pork_with_vegetables,"['pork', 'bell peppers', 'carrots', 'dried chilies']","{'pork': 200.0, 'vegetables': 150.0}",350.0,15.0,30.0,400.0,25.0
 grilled_shrimp_0024.jpg,grilled_shrimp,"['shrimp', 'spices', 'oil']",{'shrimp': 400.0},400.0,10.0,25.0,300.0,0.5
 cucumber_salad_0015.jpg,cucumber_salad,"['cucumbers', 'gelatinous substance', 'garlic']","{'cucumbers': 200.0, 'gelatinous substance': 100.0}",300.0,1.5,3.0,150.0,30.0
-stir_fried_green_vegetables_0021.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0020.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
 stir_fried_shrimp_0017.jpg,stir_fried_shrimp,"['shrimp', 'bell peppers', 'onions', 'garlic']","{'shrimp': 300.0, 'vegetables': 100.0}",400.0,15.0,25.0,300.0,10.0
 pears_0027.jpg,pears,['pear'],{'pear': 200.0},200.0,0.2,0.6,102.0,27.6
 mixed_meat_platter_0036.jpg,mixed_meat_platter,"['pork', 'beef', 'liver', 'bread', 'sauces']","{'meat': 500.0, 'bread': 100.0, 'sauce': 50.0}",650.0,50.0,60.0,800.0,30.0
@@ -9352,7 +9352,7 @@ roasted_duck_0043.jpg,roasted_duck,"['duck', 'seasoning']",{'meat': 300.0},300.0
 spicy_shrimp_stir_fry_0020.jpg,spicy_shrimp_stir_fry,"['shrimp', 'dried chili', 'garlic', 'green onions', 'vegetables']","{'shrimp': 300.0, 'vegetables': 100.0}",400.0,20.0,30.0,400.0,15.0
 fruit_cake_0044.jpg,fruit_cake,"['cake', 'cream', 'grapes', 'raspberries', 'blueberries']","{'cake': 200.0, 'fruits': 100.0}",300.0,15.0,5.0,350.0,50.0
 chicken_wings_0020.jpg,chicken_wings,"['chicken wings', 'sauce', 'seasoning']",{'chicken wings': 300.0},300.0,25.0,30.0,400.0,5.0
-egg_0017.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0016.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 fried_meat_0015.jpg,fried_meat,"['meat', 'spices', 'sauce']",{'meat': 400.0},400.0,40.0,30.0,600.0,20.0
 spicy_fish_0038.jpg,spicy_fish,"['fish', 'chili peppers', 'coriander', 'peppercorns']","{'fish': 200.0, 'spices': 50.0}",250.0,15.0,25.0,300.0,10.0
 hamburger_0042.jpg,hamburger,"['beef patty', 'cheese', 'bun', 'lettuce', 'tomato', 'cucumber', 'ketchup']","{'beef patty': 150.0, 'cheese': 30.0, 'bun': 100.0, 'lettuce': 20.0, 'tomato': 30.0, 'cucumber': 20.0, 'ketchup': 10.0}",360.0,25.0,30.0,500.0,40.0
@@ -9462,7 +9462,7 @@ fried_chicken_sandwich_0042.jpg,fried_chicken_sandwich,"['fried chicken', 'sesam
 grilled_fish_0048.jpg,grilled_fish,"['fish', 'sauce', 'vegetables']","{'fish': 200.0, 'sauce': 50.0, 'vegetables': 100.0}",350.0,20.0,25.0,350.0,30.0
 ice_cream_cone_0019.jpg,ice_cream_cone,"['ice cream', 'wafer cone', 'caramel sauce', 'sprinkles', 'Oreo cookie']","{'ice cream': 200.0, 'wafer cone': 50.0, 'toppings': 30.0}",280.0,15.0,5.0,300.0,40.0
 stir_fried_green_beans_0029.jpg,stir_fried_green_beans,"['green beans', 'oil', 'garlic', 'chili']","{'green beans': 300.0, 'oil': 10.0}",310.0,5.0,4.0,150.0,25.0
-egg_0018.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0017.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 stir_fried_cabbage_0030.jpg,stir_fried_cabbage,"['cabbage', 'oil', 'dried red chili', 'garlic']","{'cabbage': 300.0, 'oil': 10.0, 'spices': 5.0}",315.0,7.0,3.0,150.0,20.0
 fried_chicken_sandwich_0043.jpg,fried_chicken_sandwich,"['fried chicken', 'sesame bun', 'lettuce', 'mayonnaise']","{'chicken': 200.0, 'bun': 150.0, 'lettuce': 30.0, 'mayonnaise': 20.0}",400.0,40.0,30.0,800.0,70.0
 orange_0039.jpg,orange,['orange'],{'orange': 130.0},130.0,0.2,1.2,62.0,15.4
@@ -9801,7 +9801,7 @@ sashimi_0033.jpg,sashimi,"['fish', 'salad greens', 'sesame seeds', 'sauce']","{'
 dragon_fruit_0037.jpg,dragon_fruit,['dragon fruit'],{'dragon fruit': 300.0},300.0,0.6,1.2,60.0,13.0
 zongzi_0022.jpg,zongzi,"['rice', 'meat', 'bamboo leaves']","{'rice': 200.0, 'meat': 50.0}",250.0,5.0,10.0,250.0,45.0
 meatball_soup_0044.jpg,meatball_soup,"['meatballs', 'corn', 'green vegetables', 'chili']","{'meatballs': 300.0, 'corn': 100.0, 'vegetables': 50.0}",450.0,20.0,30.0,600.0,50.0
-egg_0019.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0018.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 grilled_chicken_0024.jpg,grilled_chicken,"['chicken', 'garlic', 'lettuce', 'spices']","{'chicken': 300.0, 'lettuce': 50.0}",350.0,25.0,30.0,400.0,5.0
 custard_tarts_0039.jpg,custard_tarts,"['pastry', 'egg', 'milk', 'sugar']","{'pastry': 100.0, 'custard': 50.0}",150.0,15.0,6.0,300.0,35.0
 chicken_soup_0048.jpg,chicken_soup,"['chicken', 'green onions', 'garlic', 'broth']","{'chicken': 200.0, 'vegetables': 50.0}",250.0,10.0,20.0,250.0,5.0
@@ -9910,7 +9910,7 @@ vegetable_fried_rice_0035.jpg,vegetable_fried_rice,"['rice', 'carrots', 'green o
 mixed_salad_0027.jpg,mixed_salad,"['cucumbers', 'meat', 'peppers', 'dressing']","{'cucumbers': 100.0, 'meat': 150.0, 'peppers': 50.0, 'dressing': 20.0}",320.0,15.0,20.0,350.0,30.0
 plums_0027.jpg,plums,['plums'],{'plums': 500.0},500.0,0.5,1.0,200.0,50.0
 stir_fried_chicken_0031.jpg,stir_fried_chicken,"['chicken', 'soy sauce', 'vegetable oil']","{'chicken': 200.0, 'sauce': 50.0}",250.0,10.0,30.0,250.0,5.0
-stir_fried_green_vegetables_0022.jpg,stir_fried_green_vegetables,"['green vegetables', 'oil', 'chili']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0021.jpg,stir_fried_green_vegetables,"['green vegetables', 'oil', 'chili']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
 spicy_shrimp_0027.jpg,spicy_shrimp,"['shrimp', 'spicy sauce', 'green onions']","{'shrimp': 300.0, 'sauce': 50.0}",350.0,10.0,30.0,250.0,5.0
 shrimp_fried_rice_0036.jpg,shrimp_fried_rice,"['rice', 'shrimp', 'peas', 'carrots', 'pineapple', 'egg']","{'rice': 300.0, 'shrimp': 100.0, 'vegetables': 50.0, 'pineapple': 50.0}",500.0,15.0,25.0,600.0,85.0
 spicy_chicken_0033.jpg,spicy_chicken,"['chicken', 'spicy sauce', 'green onions', 'red chili']","{'chicken': 300.0, 'sauce': 50.0}",350.0,15.0,25.0,350.0,10.0
@@ -10116,7 +10116,7 @@ breakfast_platter_0029.jpg,breakfast_platter,"['shrimp', 'bacon', 'egg', 'avocad
 cucumber_salad_0020.jpg,cucumber_salad,"['cucumbers', 'sesame oil', 'garlic']","{'cucumbers': 300.0, 'sesame oil': 10.0, 'garlic': 5.0}",315.0,2.0,1.5,50.0,8.0
 seafood_stir_fry_0049.jpg,seafood_stir_fry,"['crab', 'vegetables', 'spices']","{'crab': 300.0, 'vegetables': 100.0}",400.0,30.0,40.0,600.0,50.0
 spicy_hot_pot_0031.jpg,spicy_hot_pot,"['chicken', 'beef', 'tofu', 'vegetables', 'spices']","{'meat': 500.0, 'vegetables': 200.0, 'sauce': 100.0}",800.0,80.0,60.0,1200.0,100.0
-egg_0020.jpg,egg,['egg'],{'egg': 50.0},50.0,5.0,6.0,70.0,1.0
+egg_0019.jpg,egg,['egg'],{'egg': 50.0},50.0,5.0,6.0,70.0,1.0
 braised_chicken_0038.jpg,braised_chicken,"['chicken', 'soy sauce', 'garlic', 'ginger']","{'chicken': 300.0, 'sauce': 50.0}",350.0,30.0,35.0,450.0,5.0
 french_fries_0038.jpg,french_fries,"['potatoes', 'oil', 'salt']",{'French Fries': 300.0},300.0,25.0,6.0,500.0,70.0
 chicken_noodle_soup_0029.jpg,chicken_noodle_soup,"['noodles', 'chicken', 'meatballs', 'mushrooms', 'vegetables']","{'noodles': 200.0, 'chicken': 150.0, 'meatballs': 100.0, 'vegetables': 50.0}",500.0,20.0,40.0,600.0,60.0
@@ -10475,7 +10475,7 @@ sliced_beef_0023.jpg,sliced_beef,['beef'],{'beef': 200.0},200.0,15.0,25.0,250.0,
 baked_oysters_0025.jpg,baked_oysters,"['oysters', 'breadcrumbs', 'butter', 'garlic', 'green onions']","{'oysters': 300.0, 'topping': 50.0}",350.0,15.0,25.0,300.0,10.0
 strawberry_cake_0018.jpg,strawberry_cake,"['cake base', 'strawberries', 'cream frosting', 'sprinkles']","{'cake': 300.0, 'strawberries': 50.0}",350.0,15.0,5.0,350.0,50.0
 noodles_0034.jpg,noodles,"['noodles', 'seasoning']",{'noodles': 200.0},200.0,10.0,12.0,350.0,50.0
-stir_fried_green_vegetables_0023.jpg,stir_fried_green_vegetables,"['green beans', 'garlic', 'oil', 'spices']",{'green vegetables': 300.0},300.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0022.jpg,stir_fried_green_vegetables,"['green beans', 'garlic', 'oil', 'spices']",{'green vegetables': 300.0},300.0,5.0,3.0,150.0,25.0
 fresh_peaches_0032.jpg,fresh_peaches,['peach'],{'peach': 150.0},150.0,0.4,1.0,60.0,15.0
 meatballs_0023.jpg,meatballs,"['meat', 'flour', 'water', 'seasonings']",{'meatballs': 300.0},300.0,10.0,15.0,300.0,40.0
 rice_porridge_0032.jpg,rice_porridge,"['rice', 'vegetables', 'meat', 'water']","{'rice': 200.0, 'vegetables': 50.0, 'meat': 50.0}",300.0,5.0,10.0,250.0,40.0
@@ -10628,10 +10628,10 @@ sweet_and_sour_pork_0042.jpg,sweet_and_sour_pork,"['pork', 'sweet sauce', 'sesam
 zongzi_0025.jpg,zongzi,"['glutinous rice', 'pork', 'mushrooms', 'bamboo leaves']","{'rice': 200.0, 'meat': 50.0}",250.0,8.0,10.0,250.0,40.0
 braised_pork_trotters_0033.jpg,braised_pork_trotters,"['pork trotters', 'soy sauce', 'ginger', 'garlic', 'green onions']","{'pork trotters': 500.0, 'sauce': 100.0}",600.0,40.0,30.0,600.0,20.0
 spicy_fish_dish_0024.jpg,spicy_fish_dish,"['fish', 'green onions', 'chili peppers', 'onions', 'spices']","{'fish': 500.0, 'vegetables': 100.0}",600.0,30.0,50.0,600.0,20.0
-egg_0021.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0020.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 garlic_shrimp_0024.jpg,garlic_shrimp,"['shrimp', 'garlic', 'green onions', 'sauce']","{'shrimp': 300.0, 'sauce': 50.0}",350.0,15.0,25.0,300.0,10.0
 strawberry_cake_0019.jpg,strawberry_cake,"['cake', 'strawberries', 'cream']","{'cake': 300.0, 'strawberries': 50.0}",350.0,15.0,5.0,350.0,50.0
-egg_0022.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0021.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 melon_0020.jpg,melon,['melon'],{'melon': 200.0},200.0,0.2,0.5,60.0,15.0
 sashimi_platter_0030.jpg,sashimi_platter,"['shrimp', 'salad greens', 'wasabi', 'sauce']","{'shrimp': 300.0, 'salad': 100.0, 'wasabi': 10.0}",410.0,20.0,50.0,600.0,30.0
 braised_pork_trotters_0034.jpg,braised_pork_trotters,"['pork trotters', 'beans', 'green onions', 'sauce']","{'pork trotters': 300.0, 'beans': 100.0}",400.0,40.0,30.0,600.0,20.0
@@ -10660,7 +10660,7 @@ steamed_bun_0046.jpg,steamed_bun,"['flour', 'water', 'yeast', 'sugar']",{'bun': 
 zongzi_0026.jpg,zongzi,"['glutinous rice', 'pork', 'mushrooms', 'chestnuts', 'seasoning']","{'rice': 200.0, 'meat': 100.0, 'seasoning': 50.0}",350.0,10.0,15.0,350.0,50.0
 steamed_chicken_0035.jpg,steamed_chicken,"['chicken', 'coriander', 'sauce']","{'chicken': 300.0, 'coriander': 10.0}",310.0,15.0,30.0,350.0,5.0
 oysters_0033.jpg,oysters,['Oyster'],{'Oyster': 100.0},100.0,2.5,6.0,70.0,3.0
-egg_0023.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0022.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 scrambled_eggs_0022.jpg,scrambled_eggs,"['eggs', 'butter']",{'eggs': 200.0},200.0,15.0,12.0,200.0,1.0
 strawberry_0036.jpg,strawberry,['strawberry'],{'strawberry': 100.0},100.0,0.3,0.7,32.0,7.7
 braised_short_ribs_0036.jpg,braised_short_ribs,"['short ribs', 'spices', 'green onions', 'chili peppers']","{'short ribs': 500.0, 'sauce': 100.0}",600.0,40.0,30.0,600.0,20.0
@@ -10746,7 +10746,7 @@ shrimp_0047.jpg,shrimp,['shrimp'],{'shrimp': 200.0},200.0,1.5,18.0,85.0,0.0
 beef_soup_0031.jpg,beef_soup,"['beef', 'broth', 'vegetables']","{'beef': 100.0, 'broth': 0}",100.0,5.0,10.0,150.0,15.0
 noodle_soup_with_egg_0024.jpg,noodle_soup_with_egg,"['noodles', 'egg', 'green onions', 'vegetables', 'broth']","{'noodles': 200.0, 'egg': 50.0, 'vegetables': 100.0}",350.0,20.0,15.0,450.0,50.0
 sweet_and_sour_pork_0045.jpg,sweet_and_sour_pork,"['pork', 'sweet sauce', 'sesame seeds']","{'pork': 300.0, 'sauce': 50.0}",350.0,30.0,40.0,600.0,20.0
-stir_fried_green_vegetables_0024.jpg,stir_fried_green_vegetables,"['green bell pepper', 'ginger']","{'green vegetables': 300.0, 'ginger': 20.0}",320.0,0.5,1.5,50.0,10.0
+stir_fried_green_vegetables_0023.jpg,stir_fried_green_vegetables,"['green bell pepper', 'ginger']","{'green vegetables': 300.0, 'ginger': 20.0}",320.0,0.5,1.5,50.0,10.0
 dim_sum_0015.jpg,dim_sum,"['dumpling', 'steamed bun', 'green cake', 'vegetable', 'sauce']","{'dumpling': 100.0, 'cake': 50.0, 'bun': 80.0, 'vegetable': 30.0, 'sauce': 10.0}",270.0,10.0,15.0,400.0,60.0
 beef_and_egg_stir_fry_0026.jpg,beef_and_egg_stir_fry,"['beef', 'egg', 'tomato']","{'beef': 200.0, 'egg': 100.0, 'tomato': 50.0}",350.0,25.0,30.0,450.0,20.0
 fried_dough_0022.jpg,fried_dough,"['flour', 'water', 'oil', 'salt']",{'dough': 200.0},200.0,15.0,5.0,300.0,35.0
@@ -10864,7 +10864,7 @@ stir_fried_pork_with_vegetables_0038.jpg,stir_fried_pork_with_vegetables,"['pork
 plums_0033.jpg,plums,['plums'],{'plums': 200.0},200.0,0.2,0.7,70.0,18.0
 stir_fried_noodles_with_vegetables_0023.jpg,stir_fried_noodles_with_vegetables,"['noodles', 'pork', 'carrots', 'green peppers', 'black fungus']","{'noodles': 200.0, 'pork': 150.0, 'vegetables': 100.0}",450.0,20.0,30.0,600.0,70.0
 steamed_clams_0015.jpg,steamed_clams,"['clams', 'green onions', 'garlic', 'soy sauce']","{'clams': 300.0, 'green onions': 50.0, 'garlic': 20.0}",370.0,10.0,20.0,250.0,15.0
-egg_0024.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0023.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 zongzi_0027.jpg,zongzi,"['glutinous rice', 'pork', 'mushrooms', 'bamboo leaves']","{'rice': 250.0, 'pork': 100.0}",350.0,10.0,8.0,350.0,60.0
 sashimi_0039.jpg,sashimi,"['salmon', 'seaweed']",{'salmon': 200.0},200.0,10.0,20.0,200.0,0.0
 bread_rolls_0031.jpg,bread_rolls,"['flour', 'water', 'yeast', 'salt', 'sugar', 'butter']",{'roll': 100.0},100.0,5.0,4.0,150.0,25.0
@@ -10914,7 +10914,7 @@ meat_and_vegetable_stew_0037.jpg,meat_and_vegetable_stew,"['beef', 'chicken', 'c
 sashimi_platter_0031.jpg,sashimi_platter,"['shrimp', 'salmon', 'tuna', 'oysters', 'wasabi', 'seaweed']","{'shrimp': 200.0, 'salmon': 100.0, 'tuna': 100.0, 'oysters': 100.0}",500.0,20.0,50.0,600.0,10.0
 cheese_pizza_0040.jpg,cheese_pizza,"['cheese', 'pizza dough', 'tomato sauce', 'pepperoni', 'vegetables']",{'pizza': 150.0},150.0,12.0,15.0,300.0,36.0
 green_apple_0021.jpg,green_apple,['green apple'],{'apple': 150.0},150.0,0.1,0.5,30.0,8.0
-stir_fried_green_vegetables_0025.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0024.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
 peking_duck_0018.jpg,peking_duck,"['duck', 'pancakes', 'hoisin sauce', 'cucumber', 'scallions']","{'duck': 400.0, 'pancakes': 100.0, 'sauce': 50.0}",550.0,50.0,60.0,800.0,30.0
 mangosteen_0026.jpg,mangosteen,['Mangosteen'],{'Mangosteen': 500.0},500.0,0.6,0.6,73.0,18.0
 mixed_seafood_and_meat_platter_0023.jpg,mixed_seafood_and_meat_platter,"['beef', 'scallops', 'salmon', 'vegetables']","{'meat': 200.0, 'seafood': 150.0, 'vegetables': 100.0}",450.0,40.0,50.0,800.0,60.0
@@ -11054,7 +11054,7 @@ steamed_chicken_0036.jpg,steamed_chicken,"['chicken', 'ginger', 'green onions']"
 spicy_fish_stew_0046.jpg,spicy_fish_stew,"['fish', 'oil', 'dried chilies', 'spices']","{'fish': 300.0, 'oil': 50.0, 'spices': 50.0}",400.0,30.0,40.0,600.0,20.0
 sliced_beef_0025.jpg,sliced_beef,"['beef', 'lettuce']","{'beef': 200.0, 'lettuce': 50.0}",250.0,15.0,25.0,250.0,2.0
 mixed_fruits_0043.jpg,mixed_fruits,"['apricots', 'peaches', 'plums']",{'fruits': 500.0},500.0,1.5,3.0,300.0,75.0
-stir_fried_green_vegetables_0026.jpg,stir_fried_green_vegetables,"['green vegetables', 'egg', 'seasoning']","{'green vegetables': 300.0, 'protein source': 50.0}",350.0,10.0,15.0,250.0,30.0
+stir_fried_green_vegetables_0025.jpg,stir_fried_green_vegetables,"['green vegetables', 'egg', 'seasoning']","{'green vegetables': 300.0, 'protein source': 50.0}",350.0,10.0,15.0,250.0,30.0
 chicken_rice_0040.jpg,chicken_rice,"['chicken', 'rice', 'soy sauce', 'garlic', 'coriander']","{'rice': 200.0, 'chicken': 150.0, 'sauce': 50.0}",400.0,20.0,30.0,600.0,70.0
 steamed_fish_with_vegetables_0039.jpg,steamed_fish_with_vegetables,"['fish', 'green onions', 'soy sauce', 'vegetables']","{'fish': 300.0, 'vegetables': 150.0}",450.0,20.0,40.0,600.0,50.0
 seafood_soup_0042.jpg,seafood_soup,"['noodles', 'shrimp', 'squid', 'vegetables', 'broth']","{'noodles': 150.0, 'seafood': 100.0, 'vegetables': 100.0}",350.0,15.0,20.0,350.0,40.0
@@ -11410,7 +11410,7 @@ stir_fried_cabbage_0040.jpg,stir_fried_cabbage,"['cabbage', 'red pepper', 'garli
 mixed_rice_plate_0017.jpg,mixed_rice_plate,"['rice', 'meat', 'sauce', 'egg']","{'rice': 200.0, 'meat': 150.0, 'sauce': 50.0}",400.0,40.0,50.0,800.0,60.0
 chicken_sandwich_0019.jpg,chicken_sandwich,"['chicken', 'bread', 'sauce']","{'chicken': 150.0, 'bread': 100.0, 'sauce': 20.0}",270.0,15.0,25.0,400.0,45.0
 lemon_0024.jpg,lemon,['lemon'],{'lemon': 200.0},200.0,0.3,1.1,29.0,9.3
-stir_fried_green_vegetables_0027.jpg,stir_fried_green_vegetables,"['green bell pepper', 'garlic', 'water']",{'green vegetables': 300.0},300.0,0.5,1.5,50.0,10.0
+stir_fried_green_vegetables_0026.jpg,stir_fried_green_vegetables,"['green bell pepper', 'garlic', 'water']",{'green vegetables': 300.0},300.0,0.5,1.5,50.0,10.0
 stir_fried_green_peppers_with_meat_0023.jpg,stir_fried_green_peppers_with_meat,"['green peppers', 'meat']","{'green peppers': 200.0, 'meat': 150.0}",350.0,15.0,25.0,350.0,30.0
 stir_fried_noodles_with_meat_0026.jpg,stir_fried_noodles_with_meat,"['noodles', 'beef', 'bell peppers', 'green onions', 'soy sauce']","{'noodles': 300.0, 'meat': 100.0, 'vegetables': 50.0}",450.0,20.0,30.0,600.0,70.0
 spaghetti_and_meatballs_0039.jpg,spaghetti_and_meatballs,"['spaghetti', 'meatballs', 'tomato sauce', 'basil']","{'spaghetti': 200.0, 'meatballs': 150.0, 'sauce': 50.0}",400.0,20.0,30.0,600.0,70.0
@@ -11477,7 +11477,7 @@ stir_fried_chicken_0037.jpg,stir_fried_chicken,"['chicken', 'green onions', 'sau
 fresh_tomatoes_0047.jpg,fresh_tomatoes,['tomatoes'],{'tomatoes': 300.0},300.0,0.2,0.9,18.0,3.9
 plums_0039.jpg,plums,['plums'],{'plums': 300.0},300.0,0.2,0.5,60.0,15.0
 sushi_rolls_0025.jpg,sushi_rolls,"['sushi rice', 'nori', 'fish', 'sauce']","{'sushi': 300.0, 'sauce': 50.0}",350.0,20.0,15.0,600.0,80.0
-egg_0025.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0024.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 saut_ed_greens_0029.jpg,saut_ed_greens,"['leafy greens', 'sauce']","{'leafy greens': 300.0, 'sauce': 50.0}",350.0,5.0,4.0,150.0,20.0
 beef_soup_0033.jpg,beef_soup,"['beef', 'green onions', 'broth', 'vegetables']","{'beef': 300.0, 'vegetables': 100.0, 'broth': 200.0}",600.0,20.0,30.0,450.0,15.0
 meatballs_0025.jpg,meatballs,"['ground beef', 'breadcrumbs', 'egg', 'tomato sauce', 'herbs']",{'meatballs': 300.0},300.0,15.0,20.0,250.0,10.0
@@ -11485,7 +11485,7 @@ meat_and_vegetable_soup_0038.jpg,meat_and_vegetable_soup,"['ground meat', 'winte
 dumplings_in_broth_0029.jpg,dumplings_in_broth,"['dumplings', 'broth']","{'dumplings': 250.0, 'broth': 100.0}",350.0,10.0,15.0,300.0,40.0
 grilled_chicken_0033.jpg,grilled_chicken,"['chicken', 'spices', 'oil']",{'chicken': 300.0},300.0,15.0,25.0,300.0,10.0
 spicy_shrimp_stir_fry_0027.jpg,spicy_shrimp_stir_fry,"['shrimp', 'bell peppers', 'onions', 'garlic', 'spices']","{'shrimp': 300.0, 'vegetables': 50.0}",350.0,15.0,30.0,350.0,10.0
-stir_fried_green_vegetables_0028.jpg,stir_fried_green_vegetables,"['green beans', 'garlic', 'oil']",{'green vegetables': 200.0},200.0,1.0,2.0,50.0,10.0
+stir_fried_green_vegetables_0027.jpg,stir_fried_green_vegetables,"['green beans', 'garlic', 'oil']",{'green vegetables': 200.0},200.0,1.0,2.0,50.0,10.0
 boiled_shrimp_0021.jpg,boiled_shrimp,"['shrimp', 'water', 'seasoning']",{'shrimp': 300.0},300.0,2.0,40.0,200.0,0.0
 chicken_salad_0028.jpg,chicken_salad,"['chicken', 'peanuts', 'sesame seeds', 'cilantro', 'chili']","{'chicken': 200.0, 'nuts': 50.0, 'vegetables': 100.0}",350.0,20.0,30.0,450.0,35.0
 dragon_fruit_0049.jpg,dragon_fruit,['dragon fruit'],{'dragon fruit': 200.0},200.0,0.4,1.2,60.0,13.0
@@ -11628,7 +11628,7 @@ braised_chicken_feet_0046.jpg,braised_chicken_feet,"['chicken feet', 'soy sauce'
 french_fries_0048.jpg,french_fries,"['potatoes', 'oil', 'ketchup']","{'potatoes': 300.0, 'ketchup': 50.0}",350.0,17.0,4.0,365.0,58.0
 mixed_salad_0042.jpg,mixed_salad,"['lettuce', 'tomatoes', 'cucumbers', 'beans', 'dressing']","{'lettuce': 100.0, 'tomatoes': 100.0, 'cucumbers': 100.0, 'beans': 100.0, 'dressing': 50.0}",450.0,15.0,10.0,350.0,45.0
 bread_0039.jpg,bread,"['flour', 'water', 'yeast', 'salt']",{'bread': 150.0},150.0,8.0,6.0,250.0,40.0
-stir_fried_green_vegetables_0029.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0028.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
 chicken_wrap_0018.jpg,chicken_wrap,"['chicken', 'lettuce', 'wrap']","{'chicken': 150.0, 'lettuce': 50.0, 'wrap': 100.0}",300.0,15.0,20.0,350.0,40.0
 tomato_and_egg_stir_fry_0037.jpg,tomato_and_egg_stir_fry,"['eggs', 'tomatoes', 'green onions']","{'eggs': 200.0, 'tomatoes': 100.0, 'green onions': 20.0}",320.0,15.0,12.0,250.0,10.0
 stir_fried_green_peppers_with_meat_0025.jpg,stir_fried_green_peppers_with_meat,"['green peppers', 'meat', 'onions', 'seasoning']","{'green peppers': 200.0, 'meat': 100.0}",300.0,10.0,15.0,250.0,30.0
@@ -11773,7 +11773,7 @@ dim_sum_0024.jpg,dim_sum,"['pork', 'shrimp', 'vegetables', 'dumpling wrappers']"
 scrambled_eggs_with_tomatoes_0038.jpg,scrambled_eggs_with_tomatoes,"['eggs', 'tomatoes']","{'eggs': 200.0, 'tomatoes': 150.0}",350.0,20.0,15.0,300.0,10.0
 meat_and_vegetable_stew_0042.jpg,meat_and_vegetable_stew,"['meat', 'potatoes', 'carrots', 'tomatoes', 'green onions']","{'meat': 200.0, 'potatoes': 150.0, 'carrots': 100.0}",450.0,20.0,30.0,450.0,40.0
 eggs_0037.jpg,eggs,['eggs'],{'eggs': 500.0},500.0,11.0,13.0,155.0,1.0
-spicy_chicken_wings_0015.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'peanuts']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0014.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'peanuts']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
 tacos_0026.jpg,tacos,"['tortillas', 'beef', 'chicken', 'onions', 'cilantro', 'lime']","{'tortilla': 150.0, 'meat': 200.0, 'vegetables': 100.0}",450.0,30.0,40.0,600.0,50.0
 boiled_peanuts_0026.jpg,boiled_peanuts,"['peanuts', 'salt', 'water']",{'peanuts': 300.0},300.0,16.0,8.0,200.0,12.0
 vegetable_fritters_0025.jpg,vegetable_fritters,"['potato', 'flour', 'vegetables', 'oil']","{'potato': 200.0, 'flour': 50.0, 'oil': 30.0}",280.0,15.0,6.0,300.0,35.0
@@ -12013,7 +12013,7 @@ chicken_rice_bowl_0034.jpg,chicken_rice_bowl,"['chicken', 'rice', 'spinach', 'be
 pears_0041.jpg,pears,['pear'],{'pear': 300.0},300.0,0.5,1.0,150.0,39.0
 cucumber_salad_0028.jpg,cucumber_salad,"['cucumbers', 'garlic', 'sesame seeds']",{'cucumbers': 300.0},300.0,0.2,1.5,50.0,11.0
 assorted_snacks_0027.jpg,assorted_snacks,"['snack1', 'snack2']","{'snack1': 100.0, 'snack2': 100.0}",200.0,10.0,5.0,250.0,35.0
-spicy_chicken_wings_0016.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce', 'sesame seeds']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
+spicy_chicken_wings_0015.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce', 'sesame seeds']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
 scrambled_eggs_with_tomatoes_0041.jpg,scrambled_eggs_with_tomatoes,"['eggs', 'tomatoes']","{'eggs': 200.0, 'tomatoes': 100.0}",300.0,20.0,18.0,300.0,10.0
 biryani_0044.jpg,biryani,"['rice', 'meat', 'egg', 'cucumber', 'lime', 'onion', 'green chili']","{'rice': 300.0, 'meat': 100.0, 'egg': 50.0, 'vegetables': 50.0}",500.0,20.0,25.0,600.0,80.0
 milk_0049.jpg,milk,['milk'],{'milk': 0},0.0,8.0,8.0,150.0,12.0
@@ -12033,7 +12033,7 @@ boiled_shrimp_0024.jpg,boiled_shrimp,['shrimp'],{'shrimp': 300.0},300.0,2.0,40.0
 grilled_shrimp_0044.jpg,grilled_shrimp,"['shrimp', 'seasoning']",{'shrimp': 300.0},300.0,10.0,30.0,250.0,0.5
 fried_chicken_with_fries_0030.jpg,fried_chicken_with_fries,"['fried chicken', 'fries', 'cheese sauce', 'ketchup']","{'fried chicken': 200.0, 'fries': 150.0, 'sauce': 50.0}",400.0,40.0,30.0,800.0,80.0
 grilled_beef_0039.jpg,grilled_beef,"['beef', 'bone marrow']",{'beef': 400.0},400.0,40.0,50.0,600.0,0.0
-egg_0026.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0025.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 fried_shrimp_0046.jpg,fried_shrimp,"['shrimp', 'spices', 'oil']","{'shrimp': 250.0, 'oil': 20.0}",270.0,15.0,20.0,300.0,10.0
 sashimi_platter_0038.jpg,sashimi_platter,"['salmon', 'uni', 'shellfish', 'shiso leaves', 'ice']","{'salmon': 150.0, 'uni': 100.0, 'shellfish': 100.0}",350.0,15.0,30.0,350.0,5.0
 fried_dough_0031.jpg,fried_dough,"['flour', 'water', 'oil', 'salt']",{'dough': 200.0},200.0,15.0,5.0,300.0,35.0
@@ -12121,7 +12121,7 @@ cheeseburger_with_fries_0030.jpg,cheeseburger_with_fries,"['beef patty', 'chedda
 eggs_0041.jpg,eggs,['eggs'],{'eggs': 200.0},200.0,11.0,13.0,155.0,1.0
 peking_duck_0022.jpg,peking_duck,"['duck', 'cucumber', 'scallions', 'hoisin sauce', 'pancakes']","{'duck': 300.0, 'vegetables': 100.0, 'sauce': 30.0}",430.0,40.0,50.0,600.0,30.0
 spicy_shrimp_0037.jpg,spicy_shrimp,"['shrimp', 'lime', 'chili', 'garlic', 'vegetables']","{'shrimp': 300.0, 'vegetables': 50.0}",350.0,15.0,25.0,300.0,10.0
-egg_0027.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0026.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 eggs_0042.jpg,eggs,['eggs'],{'eggs': 100.0},100.0,11.0,13.0,155.0,1.0
 stir_fried_green_peppers_with_meat_0028.jpg,stir_fried_green_peppers_with_meat,"['green peppers', 'meat', 'soy sauce', 'garlic']","{'green peppers': 200.0, 'meat': 150.0}",350.0,20.0,25.0,350.0,15.0
 steamed_fish_with_sauce_0023.jpg,steamed_fish_with_sauce,"['fish', 'soy sauce', 'green onions', 'chili peppers', 'ginger']","{'fish': 300.0, 'sauce': 50.0}",350.0,15.0,30.0,350.0,10.0
@@ -12151,7 +12151,7 @@ stir_fried_cabbage_0044.jpg,stir_fried_cabbage,"['cabbage', 'water', 'seasoning'
 fish_stew_0049.jpg,fish_stew,"['fish', 'broth', 'onions', 'spices']","{'fish': 300.0, 'broth': 200.0}",500.0,15.0,20.0,250.0,5.0
 iced_coffee_0045.jpg,iced_coffee,"['coffee', 'milk', 'sugar']","{'coffee': 0, 'milk': 0, 'sugar': 10.0}",10.0,5.0,2.0,120.0,15.0
 fried_shrimp_0047.jpg,fried_shrimp,"['shrimp', 'green onions', 'batter']","{'shrimp': 200.0, 'green onions': 20.0}",220.0,15.0,25.0,300.0,10.0
-stir_fried_green_vegetables_0030.jpg,stir_fried_green_vegetables,"['green vegetables', 'dried chili', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0029.jpg,stir_fried_green_vegetables,"['green vegetables', 'dried chili', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
 sashimi_platter_0039.jpg,sashimi_platter,"['salmon', 'tuna', 'yellowtail']","{'salmon': 200.0, 'tuna': 150.0}",350.0,15.0,40.0,350.0,0.0
 stir_fried_chicken_0045.jpg,stir_fried_chicken,"['chicken', 'bell peppers', 'onions', 'rice']","{'chicken': 200.0, 'vegetables': 100.0, 'rice': 150.0}",450.0,20.0,30.0,450.0,40.0
 fried_tofu_0034.jpg,fried_tofu,"['tofu', 'soy sauce', 'oil']","{'tofu': 200.0, 'sauce': 50.0}",250.0,10.0,5.0,300.0,45.0
@@ -12161,7 +12161,7 @@ chicken_rice_bowl_0035.jpg,chicken_rice_bowl,"['rice', 'chicken', 'sauce', 'sesa
 spicy_fish_0048.jpg,spicy_fish,"['fish', 'chili peppers', 'green onions', 'spices']","{'fish': 200.0, 'vegetables': 50.0, 'sauce': 100.0}",350.0,15.0,25.0,350.0,10.0
 spaghetti_with_tomato_sauce_0022.jpg,spaghetti_with_tomato_sauce,"['spaghetti', 'tomato sauce', 'parmesan cheese', 'basil', 'cherry tomatoes', 'onion', 'garlic']","{'pasta': 200.0, 'tomato sauce': 100.0, 'cheese': 30.0, 'vegetables': 50.0}",380.0,15.0,20.0,600.0,85.0
 braised_short_ribs_0044.jpg,braised_short_ribs,"['short ribs', 'bell peppers', 'green onions', 'sauce']","{'short ribs': 400.0, 'vegetables': 50.0}",450.0,40.0,30.0,600.0,10.0
-egg_0028.jpg,egg,['egg'],{'egg': 50.0},50.0,5.0,6.0,70.0,1.0
+egg_0027.jpg,egg,['egg'],{'egg': 50.0},50.0,5.0,6.0,70.0,1.0
 raw_beef_0022.jpg,raw_beef,['beef'],{'beef': 200.0},200.0,20.0,25.0,250.0,0.0
 seafood_stew_0031.jpg,seafood_stew,"['fish', 'shellfish', 'vegetables', 'spices']","{'fish': 300.0, 'shellfish': 100.0, 'vegetables': 50.0}",450.0,25.0,40.0,600.0,30.0
 fried_tofu_0036.jpg,fried_tofu,"['tofu', 'sauce', 'spices']","{'tofu': 300.0, 'sauce': 50.0}",350.0,20.0,15.0,300.0,20.0
@@ -12187,7 +12187,7 @@ sushi_rolls_0030.jpg,sushi_rolls,"['rice', 'fish', 'seaweed', 'vegetables']","{'
 mixed_grill_platter_0048.jpg,mixed_grill_platter,"['meat', 'broccoli', 'orange', 'sauces']","{'meat': 300.0, 'vegetables': 150.0, 'sauces': 50.0}",500.0,40.0,50.0,800.0,60.0
 beef_noodles_0033.jpg,beef_noodles,"['noodles', 'beef', 'sauce', 'green onions']","{'noodles': 300.0, 'beef': 100.0}",400.0,20.0,30.0,600.0,70.0
 steamed_fish_with_vegetables_0045.jpg,steamed_fish_with_vegetables,"['fish', 'vegetables', 'soup', 'spices']","{'fish': 300.0, 'vegetables': 200.0, 'soup': 250.0}",750.0,30.0,50.0,800.0,70.0
-egg_0029.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0028.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 fast_food_meal_0035.jpg,fast_food_meal,"['fried chicken', 'french fries', 'soda']","{'chicken': 200.0, 'fries': 150.0, 'soda': 0}",350.0,40.0,30.0,800.0,80.0
 shrimp_noodles_0029.jpg,shrimp_noodles,"['shrimp', 'noodles', 'spices', 'cilantro']","{'shrimp': 200.0, 'noodles': 150.0}",350.0,20.0,30.0,600.0,70.0
 chicken_stew_0040.jpg,chicken_stew,"['chicken', 'potatoes', 'green peppers', 'spices', 'sauce']","{'chicken': 300.0, 'potatoes': 100.0, 'green peppers': 50.0}",450.0,30.0,40.0,600.0,50.0
@@ -12248,7 +12248,7 @@ mixed_salad_0046.jpg,mixed_salad,"['lettuce', 'carrots', 'nuts', 'onions', 'dres
 bread_0041.jpg,bread,"['flour', 'water', 'yeast', 'salt']",{'bread': 200.0},200.0,5.0,6.0,250.0,45.0
 grilled_beef_0040.jpg,grilled_beef,['beef'],{'beef': 300.0},300.0,20.0,25.0,250.0,0.0
 fried_snack_0046.jpg,fried_snack,"['flour', 'spices', 'water', 'vegetable oil']",{'batter': 200.0},200.0,15.0,5.0,300.0,35.0
-stir_fried_green_vegetables_0031.jpg,stir_fried_green_vegetables,"['green beans', 'garlic', 'soy sauce']","{'green beans': 200.0, 'garlic': 10.0}",210.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0030.jpg,stir_fried_green_vegetables,"['green beans', 'garlic', 'soy sauce']","{'green beans': 200.0, 'garlic': 10.0}",210.0,5.0,3.0,150.0,25.0
 oysters_0047.jpg,oysters,['Oysters'],{'Oysters': 200.0},200.0,5.0,20.0,200.0,0.0
 scrambled_eggs_with_tomatoes_0044.jpg,scrambled_eggs_with_tomatoes,"['eggs', 'tomatoes']","{'eggs': 200.0, 'tomatoes': 100.0}",300.0,18.0,12.0,250.0,10.0
 grilled_chicken_skewers_0020.jpg,grilled_chicken_skewers,"['chicken', 'bell pepper', 'onion', 'tomato', 'lettuce', 'lemon']","{'chicken': 250.0, 'vegetables': 100.0}",350.0,15.0,30.0,350.0,20.0
@@ -12265,8 +12265,8 @@ stir_fried_green_beans_0050.jpg,stir_fried_green_beans,"['green beans', 'oil', '
 fish_stew_0050.jpg,fish_stew,"['fish', 'carrots', 'corn', 'green onions', 'seasoning cubes']","{'fish': 300.0, 'vegetables': 100.0, 'seasoning': 50.0}",450.0,25.0,40.0,600.0,30.0
 noodle_dish_0027.jpg,noodle_dish,"['noodles', 'fried toppings', 'vegetables', 'sauce']","{'noodles': 300.0, 'fried toppings': 100.0, 'vegetables': 50.0}",450.0,20.0,15.0,600.0,80.0
 chicken_noodle_soup_0045.jpg,chicken_noodle_soup,"['chicken', 'noodles', 'vegetables', 'broth', 'spices']","{'chicken': 150.0, 'noodles': 100.0, 'vegetables': 100.0}",350.0,10.0,25.0,350.0,40.0
-spicy_chicken_wings_0017.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'sesame seeds', 'dried chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
-egg_0030.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+spicy_chicken_wings_0016.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'sesame seeds', 'dried chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
+egg_0029.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 biryani_0045.jpg,biryani,"['rice', 'spices', 'vegetables', 'meat']","{'rice': 300.0, 'spices': 50.0}",350.0,10.0,6.0,300.0,45.0
 grilled_chicken_salad_0031.jpg,grilled_chicken_salad,"['grilled chicken', 'mixed greens', 'apples', 'blue cheese', 'almonds']","{'chicken': 150.0, 'salad greens': 100.0, 'fruits': 100.0, 'cheese': 30.0}",380.0,20.0,25.0,450.0,35.0
 ice_cream_0030.jpg,ice_cream,"['milk', 'sugar', 'cream', 'flavorings']",{'ice cream': 200.0},200.0,10.0,4.0,250.0,36.0
@@ -12328,7 +12328,7 @@ grilled_shrimp_0048.jpg,grilled_shrimp,"['shrimp', 'olive oil', 'spices']",{'shr
 packaged_snack_0036.jpg,packaged_snack,"['sugar', 'flour', 'oil', 'flavoring']",{'snack': 50.0},50.0,10.0,3.0,200.0,25.0
 braised_pork_ribs_0038.jpg,braised_pork_ribs,"['pork ribs', 'soy sauce', 'green onions', 'sugar']","{'pork ribs': 300.0, 'sauce': 50.0}",350.0,20.0,25.0,350.0,15.0
 mixed_seafood_and_meat_platter_0032.jpg,mixed_seafood_and_meat_platter,"['meat', 'shrimp', 'squid', 'rice', 'soup']","{'meat': 200.0, 'seafood': 150.0, 'rice': 200.0}",550.0,30.0,50.0,800.0,70.0
-spicy_chicken_wings_0018.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'peppers']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0017.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'peppers']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
 mixed_grill_platter_0050.jpg,mixed_grill_platter,"['chicken', 'beef', 'grilled vegetables', 'bread']","{'chicken': 200.0, 'beef': 150.0, 'vegetables': 100.0, 'bread': 50.0}",500.0,30.0,40.0,600.0,50.0
 stir_fried_eggplant_0033.jpg,stir_fried_eggplant,"['eggplant', 'bell pepper', 'garlic', 'soy sauce', 'oil']","{'eggplant': 200.0, 'bell pepper': 50.0, 'oil': 10.0}",260.0,15.0,5.0,250.0,20.0
 grilled_chicken_wings_0041.jpg,grilled_chicken_wings,"['chicken wings', 'lemon', 'seasoning']","{'chicken wings': 300.0, 'lemon': 50.0}",350.0,25.0,30.0,400.0,5.0
@@ -12502,7 +12502,7 @@ melon_0030.jpg,melon,['melon'],{'melon': 300.0},300.0,0.2,1.0,50.0,13.0
 fried_dough_0035.jpg,fried_dough,"['flour', 'water', 'oil', 'salt']",{'dough': 200.0},200.0,20.0,6.0,400.0,50.0
 fresh_peaches_0044.jpg,fresh_peaches,['peach'],{'peach': 300.0},300.0,0.5,3.0,150.0,36.0
 chicken_sandwich_0024.jpg,chicken_sandwich,"['chicken', 'bread', 'lettuce', 'carrots', 'sauce']","{'chicken': 200.0, 'bread': 150.0, 'vegetables': 100.0}",450.0,20.0,30.0,600.0,70.0
-stir_fried_green_vegetables_0032.jpg,stir_fried_green_vegetables,"['green beans', 'garlic', 'chili peppers', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,4.0,150.0,25.0
+stir_fried_green_vegetables_0031.jpg,stir_fried_green_vegetables,"['green beans', 'garlic', 'chili peppers', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,4.0,150.0,25.0
 barbecue_ribs_0031.jpg,barbecue_ribs,"['pork ribs', 'spices', 'sauce']","{'ribs': 400.0, 'sauce': 50.0}",450.0,40.0,50.0,600.0,10.0
 chicken_wrap_0022.jpg,chicken_wrap,"['chicken', 'lettuce', 'tomato', 'sauce', 'tortilla']","{'chicken': 150.0, 'lettuce': 50.0, 'sauce': 20.0, 'tortilla': 100.0}",320.0,10.0,25.0,350.0,40.0
 stuffed_flatbread_0032.jpg,stuffed_flatbread,"['flatbread', 'chicken', 'vegetables', 'sauce']","{'flatbread': 200.0, 'filling': 150.0}",350.0,20.0,15.0,450.0,50.0
@@ -12511,7 +12511,7 @@ stir_fried_shrimp_0027.jpg,stir_fried_shrimp,"['shrimp', 'vegetables', 'rice', '
 stuffed_flatbread_0033.jpg,stuffed_flatbread,"['flour', 'water', 'filling (meat/vegetables)']",{'flatbread': 200.0},200.0,10.0,8.0,300.0,45.0
 mixed_skewers_0049.jpg,mixed_skewers,"['chicken', 'beef', 'lotus root', 'green onions', 'spices']","{'meat': 250.0, 'vegetables': 150.0, 'sauce': 50.0}",450.0,30.0,40.0,600.0,50.0
 shrimp_noodle_soup_0035.jpg,shrimp_noodle_soup,"['noodles', 'shrimp', 'broth', 'fried onions', 'spices']","{'noodles': 200.0, 'shrimp': 100.0, 'broth': 250.0}",550.0,15.0,25.0,450.0,60.0
-egg_0031.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0030.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 meat_and_vegetable_soup_0049.jpg,meat_and_vegetable_soup,"['meat', 'celery', 'broth']","{'meat': 200.0, 'vegetables': 150.0}",350.0,15.0,25.0,350.0,30.0
 strawberry_cake_0031.jpg,strawberry_cake,"['cake', 'strawberries', 'cream', 'sugar']","{'cake': 200.0, 'strawberries': 50.0}",250.0,15.0,5.0,350.0,50.0
 margherita_pizza_0024.jpg,margherita_pizza,"['pizza dough', 'tomato sauce', 'mozzarella cheese', 'basil']",{'pizza': 250.0},250.0,10.0,12.0,285.0,36.0
@@ -12663,7 +12663,7 @@ dumplings_in_broth_0035.jpg,dumplings_in_broth,"['dumplings', 'broth', 'green on
 mixed_platter_0045.jpg,mixed_platter,"['pasta', 'meat', 'vegetables', 'fried spring rolls', 'fruits', 'boiled eggs']","{'pasta': 300.0, 'meat': 200.0, 'fried_spring_rolls': 100.0, 'fruits': 200.0, 'boiled_eggs': 100.0}",900.0,50.0,60.0,1200.0,150.0
 rice_porridge_0040.jpg,rice_porridge,"['rice', 'broth', 'seasoning']","{'rice': 200.0, 'broth': 150.0}",350.0,5.0,10.0,300.0,55.0
 bread_rolls_0044.jpg,bread_rolls,"['flour', 'water', 'yeast', 'sugar', 'salt']",{'bread_roll': 200.0},200.0,5.0,6.0,300.0,55.0
-stir_fried_green_vegetables_0033.jpg,stir_fried_green_vegetables,"['green peppers', 'garlic', 'sesame oil']","{'green peppers': 200.0, 'garlic': 10.0}",210.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0032.jpg,stir_fried_green_vegetables,"['green peppers', 'garlic', 'sesame oil']","{'green peppers': 200.0, 'garlic': 10.0}",210.0,5.0,3.0,150.0,25.0
 spicy_beef_stir_fry_0039.jpg,spicy_beef_stir_fry,"['beef', 'green onions', 'red chili', 'sesame seeds', 'sauce']","{'beef': 300.0, 'vegetables': 100.0, 'sauce': 50.0}",450.0,30.0,40.0,600.0,50.0
 bubble_tea_0026.jpg,bubble_tea,"['tapioca pearls', 'tea', 'sugar', 'milk']","{'tapioca pearls': 100.0, 'tea': 0}",100.0,5.0,2.0,300.0,60.0
 pineapple_0026.jpg,pineapple,['Pineapple'],{'Pineapple': 1000.0},1000.0,1.0,5.0,500.0,130.0
@@ -12712,7 +12712,7 @@ grilled_chicken_with_rice_0022.jpg,grilled_chicken_with_rice,"['chicken', 'rice'
 spicy_stir_fried_meat_0033.jpg,spicy_stir_fried_meat,"['meat', 'green onions', 'chili peppers', 'sauce']","{'meat': 300.0, 'vegetables': 100.0}",400.0,30.0,40.0,600.0,50.0
 shrimp_pasta_0021.jpg,shrimp_pasta,"['shrimp', 'pasta', 'olive oil', 'garlic', 'chili peppers', 'parsley']","{'shrimp': 200.0, 'pasta': 150.0, 'sauce': 50.0}",400.0,15.0,30.0,600.0,80.0
 chicken_salad_0040.jpg,chicken_salad,"['chicken', 'lettuce', 'carrots', 'corn', 'sesame seeds']","{'chicken': 200.0, 'lettuce': 100.0, 'carrots': 50.0, 'corn': 50.0}",400.0,10.0,30.0,350.0,40.0
-egg_0032.jpg,egg,['egg'],{'egg': 50.0},50.0,11.0,13.0,155.0,1.0
+egg_0031.jpg,egg,['egg'],{'egg': 50.0},50.0,11.0,13.0,155.0,1.0
 steamed_clams_0024.jpg,steamed_clams,"['clams', 'garlic', 'butter', 'parsley']",{'clams': 300.0},300.0,2.5,30.0,200.0,0.0
 shrimp_noodle_soup_0038.jpg,shrimp_noodle_soup,"['shrimp', 'noodles', 'broth', 'bean sprouts', 'green onions']","{'shrimp': 100.0, 'noodles': 150.0, 'broth': 200.0, 'vegetables': 50.0}",500.0,10.0,25.0,350.0,45.0
 sushi_and_sashimi_platter_0031.jpg,sushi_and_sashimi_platter,"['salmon', 'tuna', 'shrimp', 'wasabi', 'seaweed']","{'salmon': 200.0, 'tuna': 100.0, 'shrimp': 100.0, 'wasabi': 10.0}",410.0,20.0,50.0,600.0,30.0
@@ -12848,7 +12848,7 @@ eggs_0049.jpg,eggs,"['brown egg', 'white egg']","{'egg_brown': 50.0, 'egg_white'
 plums_0050.jpg,plums,['plum'],{'plum': 200.0},200.0,0.2,0.5,70.0,18.0
 fried_snack_0048.jpg,fried_snack,"['fried dough', 'spices', 'seasoning']",{'snack': 100.0},100.0,15.0,5.0,300.0,40.0
 stir_fried_green_beans_with_meat_0032.jpg,stir_fried_green_beans_with_meat,"['green beans', 'ground meat', 'soy sauce', 'garlic', 'spices']","{'green beans': 300.0, 'ground meat': 100.0}",400.0,15.0,20.0,250.0,10.0
-spicy_chicken_wings_0019.jpg,spicy_chicken_wings,"['chicken', 'green onions', 'red peppers', 'ginger', 'spices']","{'chicken': 300.0, 'vegetables': 50.0}",350.0,20.0,25.0,350.0,10.0
+spicy_chicken_wings_0018.jpg,spicy_chicken_wings,"['chicken', 'green onions', 'red peppers', 'ginger', 'spices']","{'chicken': 300.0, 'vegetables': 50.0}",350.0,20.0,25.0,350.0,10.0
 chicken_rice_bowl_0039.jpg,chicken_rice_bowl,"['rice', 'chicken', 'egg', 'green onions', 'sesame seeds']","{'rice': 250.0, 'chicken': 150.0, 'egg': 100.0, 'vegetables': 50.0}",550.0,20.0,30.0,600.0,70.0
 shrimp_pasta_0022.jpg,shrimp_pasta,"['pasta', 'shrimp', 'tomato sauce', 'seasonings']","{'pasta': 250.0, 'shrimp': 150.0}",400.0,20.0,30.0,600.0,70.0
 braised_pork_ribs_0045.jpg,braised_pork_ribs,"['pork ribs', 'soy sauce', 'sugar', 'sesame seeds']","{'pork ribs': 300.0, 'sauce': 50.0}",350.0,30.0,25.0,400.0,10.0
@@ -13075,7 +13075,7 @@ beef_soup_0040.jpg,beef_soup,"['beef', 'ginger', 'green onion', 'red chili']","{
 decorated_cake_0037.jpg,decorated_cake,"['flour', 'sugar', 'butter', 'eggs', 'frosting']",{'cake': 150.0},150.0,15.0,3.0,350.0,50.0
 cucumber_salad_0034.jpg,cucumber_salad,"['cucumber', 'sesame seeds', 'dressing']","{'cucumber': 300.0, 'dressing': 50.0}",350.0,5.0,3.0,150.0,25.0
 vegetable_pizza_0041.jpg,vegetable_pizza,"['cheese', 'vegetables', 'pizza dough', 'sauce']",{'pizza': 400.0},400.0,35.0,30.0,800.0,90.0
-spicy_chicken_wings_0020.jpg,spicy_chicken_wings,"['chicken wings', 'green beans', 'peanuts', 'spices']","{'chicken wings': 300.0, 'green beans': 50.0, 'peanuts': 30.0}",380.0,25.0,35.0,450.0,10.0
+spicy_chicken_wings_0019.jpg,spicy_chicken_wings,"['chicken wings', 'green beans', 'peanuts', 'spices']","{'chicken wings': 300.0, 'green beans': 50.0, 'peanuts': 30.0}",380.0,25.0,35.0,450.0,10.0
 stir_fried_green_peppers_with_meat_0032.jpg,stir_fried_green_peppers_with_meat,"['meat', 'green peppers', 'garlic', 'soy sauce']","{'meat': 200.0, 'green peppers': 150.0}",350.0,20.0,25.0,350.0,15.0
 dairy_drink_0031.jpg,dairy_drink,"['Milk', 'Sugar', 'Flavoring']",{'Dairy Drink': 200.0},200.0,5.0,6.0,150.0,20.0
 spicy_snack_0029.jpg,spicy_snack,"['spices', 'flour', 'oil']",{'snack': 50.0},50.0,8.0,5.0,150.0,15.0
@@ -13147,7 +13147,7 @@ sashimi_platter_0043.jpg,sashimi_platter,"['salmon', 'shrimp', 'lemon', 'greens'
 stir_fried_noodles_with_vegetables_0037.jpg,stir_fried_noodles_with_vegetables,"['noodles', 'green peppers', 'red peppers', 'garlic']","{'noodles': 200.0, 'vegetables': 150.0}",350.0,5.0,3.0,200.0,35.0
 chicken_rice_bowl_0041.jpg,chicken_rice_bowl,"['chicken', 'rice', 'lettuce', 'mushrooms', 'sauce']","{'chicken': 200.0, 'rice': 150.0, 'vegetables': 100.0}",450.0,20.0,35.0,600.0,70.0
 pho_0038.jpg,pho,"['beef', 'rice noodles', 'broth', 'cilantro', 'chili']","{'beef': 150.0, 'noodles': 200.0, 'broth': 300.0, 'herbs': 50.0}",700.0,10.0,25.0,350.0,40.0
-spicy_chicken_wings_0021.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,30.0,350.0,10.0
+spicy_chicken_wings_0020.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,30.0,350.0,10.0
 beef_noodles_0036.jpg,beef_noodles,"['noodles', 'beef', 'bell peppers', 'onions', 'soy sauce']","{'noodles': 300.0, 'beef': 100.0, 'vegetables': 50.0}",450.0,15.0,25.0,600.0,80.0
 ice_cream_0037.jpg,ice_cream,"['ice cream', 'cherries', 'mint']",{'ice cream': 150.0},150.0,8.0,3.0,200.0,30.0
 seafood_salad_0037.jpg,seafood_salad,"['fish', 'onion', 'chili', 'lime', 'garlic']","{'fish': 200.0, 'vegetables': 100.0}",300.0,10.0,20.0,250.0,15.0
@@ -13319,7 +13319,7 @@ zongzi_0043.jpg,zongzi,"['glutinous rice', 'pork', 'chestnut', 'bamboo leaves']"
 fried_meat_0033.jpg,fried_meat,"['pork', 'spices', 'oil']",{'meat': 300.0},300.0,30.0,25.0,400.0,0.0
 chicken_salad_0050.jpg,chicken_salad,"['chicken', 'lettuce', 'cilantro', 'peppers']","{'chicken': 200.0, 'vegetables': 150.0}",350.0,15.0,25.0,350.0,30.0
 spicy_snack_0032.jpg,spicy_snack,"['spices', 'flour', 'oil']",{'snack': 50.0},50.0,5.0,3.0,150.0,20.0
-stir_fried_green_vegetables_0034.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0033.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
 sushi_and_sashimi_platter_0035.jpg,sushi_and_sashimi_platter,"['salmon', 'tuna', 'shrimp', 'wasabi', 'seaweed']","{'salmon': 200.0, 'tuna': 100.0, 'shrimp': 100.0, 'wasabi': 10.0}",410.0,20.0,40.0,600.0,50.0
 stir_fried_noodles_with_vegetables_0039.jpg,stir_fried_noodles_with_vegetables,"['noodles', 'green onions', 'cucumbers', 'sauce']","{'noodles': 200.0, 'vegetables': 150.0}",350.0,15.0,10.0,350.0,45.0
 tofu_stir_fry_0034.jpg,tofu_stir_fry,"['tofu', 'bok choy', 'soy sauce', 'garlic']","{'tofu': 200.0, 'bok choy': 150.0}",350.0,15.0,20.0,300.0,25.0
@@ -13343,7 +13343,7 @@ garlic_shrimp_0042.jpg,garlic_shrimp,"['shrimp', 'garlic', 'soy sauce', 'green o
 tomato_and_egg_stir_fry_0046.jpg,tomato_and_egg_stir_fry,"['eggs', 'tomatoes', 'onions', 'green onions']","{'eggs': 200.0, 'tomatoes': 150.0, 'onions': 50.0}",400.0,15.0,12.0,250.0,20.0
 pineapple_0034.jpg,pineapple,['pineapple'],{'pineapple': 200.0},200.0,0.1,0.5,50.0,13.1
 raw_beef_0028.jpg,raw_beef,['beef'],{'beef': 300.0},300.0,20.0,18.0,250.0,0.0
-spicy_chicken_wings_0022.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,30.0,350.0,10.0
+spicy_chicken_wings_0021.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,30.0,350.0,10.0
 vegetable_pizza_0043.jpg,vegetable_pizza,"['pizza dough', 'cheese', 'bell peppers', 'onions', 'mushrooms']",{'pizza': 300.0},300.0,10.5,12.0,285.0,36.0
 green_grapes_0044.jpg,green_grapes,['grapes'],{'grapes': 300.0},300.0,0.2,1.1,104.0,27.3
 spicy_beef_stir_fry_0043.jpg,spicy_beef_stir_fry,"['beef', 'bell peppers', 'onions', 'chili peppers', 'soy sauce']","{'beef': 300.0, 'bell peppers': 100.0, 'onions': 50.0, 'chili peppers': 50.0}",500.0,30.0,40.0,600.0,20.0
@@ -13415,7 +13415,7 @@ spicy_fish_dish_0036.jpg,spicy_fish_dish,"['fish', 'chili peppers', 'celery', 'c
 spaghetti_bolognese_0046.jpg,spaghetti_bolognese,"['spaghetti', 'ground meat', 'tomato sauce', 'basil']","{'pasta': 200.0, 'meat sauce': 150.0, 'basil': 5.0}",355.0,20.0,25.0,600.0,70.0
 decorated_cake_0040.jpg,decorated_cake,"['flour', 'sugar', 'butter', 'eggs', 'frosting']",{'cake': 150.0},150.0,15.0,4.0,350.0,50.0
 rice_with_meat_0038.jpg,rice_with_meat,"['rice', 'meat']","{'rice': 300.0, 'meat': 150.0}",450.0,20.0,30.0,600.0,70.0
-spicy_chicken_wings_0023.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,25.0,350.0,10.0
+spicy_chicken_wings_0022.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,25.0,350.0,10.0
 mangosteen_0044.jpg,mangosteen,['Mangosteen'],{'Mangosteen': 300.0},300.0,0.6,0.6,73.0,18.0
 fried_tofu_0042.jpg,fried_tofu,"['tofu', 'garlic', 'chili', 'coriander']","{'tofu': 300.0, 'sauce': 50.0}",350.0,15.0,10.0,250.0,20.0
 baked_oysters_0045.jpg,baked_oysters,"['oysters', 'butter', 'garlic', 'herbs', 'cheese']",{'oysters': 400.0},400.0,15.0,25.0,300.0,10.0
@@ -13497,7 +13497,7 @@ sushi_rolls_0040.jpg,sushi_rolls,"['rice', 'fish', 'seaweed', 'vegetables']","{'
 watermelon_slice_0041.jpg,watermelon_slice,['watermelon'],{'watermelon': 150.0},150.0,0.2,0.6,30.0,7.6
 stir_fried_meat_with_rice_0050.jpg,stir_fried_meat_with_rice,"['beef', 'rice', 'mixed vegetables']","{'meat': 250.0, 'rice': 200.0, 'vegetables': 100.0}",550.0,30.0,40.0,800.0,100.0
 noodle_dish_0033.jpg,noodle_dish,"['noodles', 'vegetables', 'chicken']","{'noodles': 300.0, 'vegetables': 100.0, 'protein': 100.0}",500.0,15.0,20.0,600.0,80.0
-stir_fried_green_vegetables_0035.jpg,stir_fried_green_vegetables,"['green vegetables', 'dried meat', 'garlic']","{'green vegetables': 300.0, 'dried meat': 50.0}",350.0,5.0,4.0,150.0,25.0
+stir_fried_green_vegetables_0034.jpg,stir_fried_green_vegetables,"['green vegetables', 'dried meat', 'garlic']","{'green vegetables': 300.0, 'dried meat': 50.0}",350.0,5.0,4.0,150.0,25.0
 garlic_shrimp_0043.jpg,garlic_shrimp,"['shrimp', 'garlic', 'green onions', 'soy sauce']","{'shrimp': 300.0, 'sauce': 50.0}",350.0,10.0,30.0,250.0,5.0
 mangosteen_0046.jpg,mangosteen,['Mangosteen'],{'Mangosteen': 200.0},200.0,0.6,0.6,73.0,18.0
 mixed_asian_dish_0047.jpg,mixed_asian_dish,"['noodles', 'meat', 'vegetables', 'egg', 'corn']","{'noodles': 200.0, 'meat': 150.0, 'vegetables': 100.0, 'egg': 50.0}",500.0,30.0,40.0,800.0,90.0
@@ -13521,12 +13521,12 @@ sushi_and_sashimi_platter_0036.jpg,sushi_and_sashimi_platter,"['fish', 'rice', '
 sliced_beef_0033.jpg,sliced_beef,['beef'],{'beef': 300.0},300.0,15.0,25.0,250.0,0.0
 mixed_seafood_and_meat_platter_0047.jpg,mixed_seafood_and_meat_platter,"['beef', 'shrimp', 'broccoli', 'noodles', 'scrambled eggs']","{'meat': 200.0, 'shrimp': 100.0, 'vegetables': 150.0, 'noodles': 150.0}",600.0,25.0,40.0,600.0,50.0
 ice_cream_cone_0030.jpg,ice_cream_cone,"['ice cream', 'wafer cone', 'sprinkles', 'cotton candy']","{'ice cream': 150.0, 'cone': 50.0}",200.0,10.0,3.0,250.0,35.0
-egg_0033.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0032.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 spicy_shrimp_0046.jpg,spicy_shrimp,"['shrimp', 'spices', 'oil']","{'shrimp': 250.0, 'sauce': 50.0}",300.0,15.0,30.0,300.0,5.0
 mangosteen_0047.jpg,mangosteen,['Mangosteen'],{'Mangosteen': 200.0},200.0,0.6,0.6,73.0,18.0
 stir_fried_green_beans_with_meat_0040.jpg,stir_fried_green_beans_with_meat,"['green beans', 'meat', 'red chili']","{'green beans': 200.0, 'meat': 100.0}",300.0,10.0,20.0,250.0,15.0
 pears_0047.jpg,pears,['pear'],{'pear': 200.0},200.0,0.3,0.5,100.0,27.0
-stir_fried_green_vegetables_0036.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'garlic': 10.0, 'oil': 10.0}",320.0,5.0,3.0,120.0,15.0
+stir_fried_green_vegetables_0035.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'garlic': 10.0, 'oil': 10.0}",320.0,5.0,3.0,120.0,15.0
 mixed_rice_plate_0035.jpg,mixed_rice_plate,"['rice', 'zucchini', 'egg', 'meatball', 'daikon']","{'rice': 300.0, 'vegetables': 100.0, 'protein': 100.0}",500.0,15.0,20.0,600.0,90.0
 stir_fried_green_peppers_with_meat_0036.jpg,stir_fried_green_peppers_with_meat,"['meat', 'green peppers', 'sauce']","{'meat': 200.0, 'green peppers': 150.0}",350.0,20.0,25.0,400.0,30.0
 scrambled_eggs_0034.jpg,scrambled_eggs,"['eggs', 'green onions']","{'eggs': 200.0, 'green onions': 20.0}",220.0,18.0,20.0,250.0,2.0
@@ -13546,7 +13546,7 @@ strawberry_cake_0041.jpg,strawberry_cake,"['cake', 'strawberries', 'cream']","{'
 korean_bbq_0030.jpg,korean_bbq,"['grilled meat', 'kimchi', 'salad', 'soup']","{'meat': 200.0, 'side dishes': 300.0}",500.0,30.0,40.0,600.0,50.0
 fried_chicken_with_fries_0044.jpg,fried_chicken_with_fries,"['Fried Chicken', 'French Fries']","{'Fried Chicken': 300.0, 'Fries': 150.0}",450.0,45.0,40.0,800.0,60.0
 mangosteen_0048.jpg,mangosteen,['mangosteen'],{'mangosteen': 300.0},300.0,0.6,0.6,73.0,17.0
-egg_0034.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0033.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 noodle_dish_0035.jpg,noodle_dish,"['noodles', 'soy sauce', 'vegetables']","{'noodles': 250.0, 'sauce': 50.0}",300.0,10.0,8.0,300.0,45.0
 sushi_rolls_0042.jpg,sushi_rolls,"['rice', 'fish', 'seaweed', 'vegetables']","{'rice': 150.0, 'fish': 100.0, 'vegetables': 50.0}",300.0,10.0,15.0,300.0,40.0
 tomato_0040.jpg,tomato,['tomato'],{'tomato': 100.0},100.0,0.2,0.9,18.0,3.9
@@ -13554,7 +13554,7 @@ pho_0042.jpg,pho,"['beef', 'rice noodles', 'broth', 'onions', 'cilantro', 'lime'
 pineapple_0037.jpg,pineapple,['Pineapple'],{'Pineapple': 200.0},200.0,0.5,1.0,150.0,37.0
 tomato_0041.jpg,tomato,['tomato'],{'tomato': 150.0},150.0,0.2,1.1,22.0,4.8
 pear_0050.jpg,pear,['pear'],{'pear': 150.0},150.0,0.2,0.3,52.0,14.0
-stir_fried_green_vegetables_0037.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'chili']",{'green vegetables': 200.0},200.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0036.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'chili']",{'green vegetables': 200.0},200.0,5.0,3.0,150.0,25.0
 braised_pork_hocks_0041.jpg,braised_pork_hocks,"['pork hocks', 'beans', 'green onions', 'sauce']","{'pork hocks': 400.0, 'beans': 100.0}",500.0,40.0,30.0,600.0,20.0
 pineapple_0038.jpg,pineapple,['pineapple'],{'pineapple': 1000.0},1000.0,1.0,5.0,500.0,130.0
 spicy_tofu_0045.jpg,spicy_tofu,"['tofu', 'chili sauce', 'garlic', 'green onions']","{'tofu': 300.0, 'sauce': 100.0}",400.0,20.0,15.0,400.0,50.0
@@ -13599,7 +13599,7 @@ spicy_stir_fried_meat_0043.jpg,spicy_stir_fried_meat,"['meat', 'green onions', '
 strawberry_cake_0043.jpg,strawberry_cake,"['cake', 'whipped cream', 'strawberries']","{'cake': 200.0, 'whipped cream': 50.0, 'strawberries': 50.0}",300.0,15.0,4.0,350.0,50.0
 seafood_salad_0040.jpg,seafood_salad,"['fish', 'green onions', 'sesame seeds']","{'fish': 200.0, 'vegetables': 50.0}",250.0,10.0,20.0,250.0,15.0
 steamed_clams_0030.jpg,steamed_clams,"['clams', 'red bell pepper']","{'clams': 300.0, 'red bell pepper': 50.0}",350.0,5.0,30.0,250.0,10.0
-egg_0035.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0034.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 avocado_0037.jpg,avocado,['avocado'],{'avocado': 200.0},200.0,22.0,3.0,240.0,12.0
 boiled_shrimp_0036.jpg,boiled_shrimp,['shrimp'],{'shrimp': 300.0},300.0,2.0,40.0,200.0,0.0
 scrambled_eggs_0035.jpg,scrambled_eggs,['eggs'],{'eggs': 200.0},200.0,15.0,12.0,200.0,2.0
@@ -13617,7 +13617,7 @@ bubble_tea_0032.jpg,bubble_tea,"['milk', 'sugar', 'tapioca pearls', 'fruit syrup
 sushi_rolls_0044.jpg,sushi_rolls,"['rice', 'seaweed', 'fish', 'mayonnaise', 'fried onion']","{'sushi': 200.0, 'seaweed': 20.0}",220.0,10.0,15.0,350.0,50.0
 bibimbap_0049.jpg,bibimbap,"['rice', 'spinach', 'carrots', 'meat', 'egg', 'sauce']","{'rice': 250.0, 'vegetables': 100.0, 'meat': 100.0, 'sauce': 50.0}",500.0,20.0,30.0,600.0,70.0
 grilled_chicken_wings_0047.jpg,grilled_chicken_wings,"['chicken wings', 'seasoning']",{'chicken_wings': 300.0},300.0,20.0,25.0,300.0,0.0
-stir_fried_green_vegetables_0038.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0037.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
 chicken_wrap_0025.jpg,chicken_wrap,"['chicken', 'tortilla', 'tomato', 'cucumber', 'lettuce', 'sauce']","{'chicken': 150.0, 'tortilla': 100.0, 'vegetables': 100.0, 'sauce': 50.0}",400.0,20.0,30.0,600.0,70.0
 cucumber_salad_0039.jpg,cucumber_salad,"['cucumbers', 'sesame oil', 'garlic', 'chili flakes']","{'cucumbers': 300.0, 'sesame oil': 20.0, 'garlic': 10.0}",330.0,8.0,2.0,120.0,10.0
 stir_fried_shrimp_0031.jpg,stir_fried_shrimp,"['shrimp', 'lemon', 'onion', 'sauce']","{'shrimp': 200.0, 'sauce': 50.0}",250.0,10.0,30.0,250.0,5.0
@@ -13687,7 +13687,7 @@ mixed_vegetable_salad_0032.jpg,mixed_vegetable_salad,"['mixed vegetables', 'dres
 beef_noodles_0041.jpg,beef_noodles,"['noodles', 'beef', 'spices']","{'noodles': 200.0, 'beef': 150.0}",350.0,20.0,25.0,600.0,70.0
 sashimi_platter_0050.jpg,sashimi_platter,"['salmon', 'shrimp', 'parsley', 'edible flower']","{'salmon': 300.0, 'shrimp': 100.0}",400.0,20.0,40.0,400.0,0.0
 saut_ed_greens_0049.jpg,saut_ed_greens,"['broccoli rabe', 'garlic', 'oil']","{'greens': 300.0, 'garlic': 10.0}",310.0,7.0,5.0,150.0,20.0
-stir_fried_green_vegetables_0039.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'red pepper', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0038.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'red pepper', 'oil']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
 stir_fried_eggplant_0040.jpg,stir_fried_eggplant,"['eggplant', 'green chili', 'red chili', 'sesame seeds', 'soy sauce']","{'eggplant': 300.0, 'sauce': 50.0}",350.0,15.0,5.0,250.0,20.0
 pan_fried_dumplings_0034.jpg,pan_fried_dumplings,"['dumpling dough', 'filling', 'oil', 'spices']","{'dumpling': 200.0, 'spices': 10.0}",210.0,10.0,5.0,250.0,35.0
 spicy_shrimp_stir_fry_0042.jpg,spicy_shrimp_stir_fry,"['shrimp', 'vegetables', 'spices', 'sauce']","{'shrimp': 300.0, 'vegetables': 100.0}",400.0,20.0,30.0,450.0,40.0
@@ -13784,7 +13784,7 @@ steamed_clams_0033.jpg,steamed_clams,"['clams', 'garlic', 'green onions']","{'cl
 spicy_snack_0035.jpg,spicy_snack,"['flour', 'spices', 'oil']",{'snack': 100.0},100.0,10.0,5.0,200.0,30.0
 tacos_0036.jpg,tacos,"['ground beef', 'taco shells', 'lettuce', 'tomatoes', 'cheese']","{'ground beef': 150.0, 'taco shells': 0, 'lettuce': 50.0, 'tomatoes': 50.0, 'cheese': 30.0}",280.0,20.0,25.0,350.0,30.0
 bubble_tea_0035.jpg,bubble_tea,"['milk', 'tapioca pearls', 'sugar']","{'milk': 0, 'tapioca pearls': 100.0, 'sugar': 20.0}",120.0,5.0,2.0,300.0,60.0
-spicy_chicken_wings_0024.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0023.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
 beef_rice_bowl_0031.jpg,beef_rice_bowl,"['rice', 'beef', 'cucumber', 'chili', 'onion']","{'rice': 200.0, 'beef': 150.0, 'cucumber': 100.0}",450.0,20.0,30.0,600.0,70.0
 vegetable_fritters_0031.jpg,vegetable_fritters,"['vegetables', 'flour', 'spices']","{'vegetables': 200.0, 'batter': 100.0}",300.0,10.0,5.0,250.0,35.0
 pears_0050.jpg,pears,['Pears'],{'Pears': 200.0},200.0,0.3,0.5,100.0,27.0
@@ -13830,10 +13830,10 @@ spicy_stir_fried_meat_0045.jpg,spicy_stir_fried_meat,"['meat', 'spicy sauce', 'g
 stuffed_flatbread_0047.jpg,stuffed_flatbread,"['flour', 'water', 'filling (e.g., spinach, cheese)']",{'flatbread': 200.0},200.0,10.0,8.0,300.0,45.0
 stir_fried_eggplant_0043.jpg,stir_fried_eggplant,"['eggplant', 'oil', 'garlic', 'pepper']","{'eggplant': 300.0, 'oil': 20.0, 'garlic': 10.0, 'pepper': 50.0}",380.0,15.0,5.0,250.0,30.0
 garlic_shrimp_0046.jpg,garlic_shrimp,"['shrimp', 'garlic', 'green onions', 'sauce']","{'shrimp': 300.0, 'sauce': 50.0}",350.0,10.0,30.0,250.0,5.0
-spicy_chicken_wings_0025.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'chili peppers']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
+spicy_chicken_wings_0024.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'chili peppers']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
 spicy_tofu_0049.jpg,spicy_tofu,"['tofu', 'soy sauce', 'chili', 'garlic', 'cilantro']","{'tofu': 300.0, 'sauce': 50.0}",350.0,15.0,20.0,250.0,10.0
 korean_bbq_0035.jpg,korean_bbq,"['beef', 'lettuce', 'kimchi', 'sauce']","{'beef': 200.0, 'lettuce': 100.0, 'side dishes': 200.0}",500.0,40.0,50.0,600.0,30.0
-egg_0036.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0035.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 soft_serve_ice_cream_0046.jpg,soft_serve_ice_cream,"['soft serve ice cream', 'cone']",{'ice cream': 150.0},150.0,10.0,4.0,250.0,36.0
 mixed_vegetable_and_meat_dish_0036.jpg,mixed_vegetable_and_meat_dish,"['meat', 'potatoes', 'carrots', 'bread']","{'meat': 200.0, 'vegetables': 150.0, 'bread': 100.0}",450.0,20.0,25.0,600.0,80.0
 hainanese_chicken_rice_0039.jpg,hainanese_chicken_rice,"['chicken', 'rice', 'cucumber', 'sauce']","{'chicken': 250.0, 'rice': 150.0}",400.0,20.0,40.0,600.0,60.0
@@ -13859,7 +13859,7 @@ chicken_wrap_0028.jpg,chicken_wrap,"['chicken', 'pita bread', 'lettuce', 'tomato
 lemon_0037.jpg,lemon,['lemon'],{'lemon': 100.0},100.0,0.3,1.1,29.0,9.3
 spicy_chicken_dish_0031.jpg,spicy_chicken_dish,"['chicken', 'spices', 'sauce']","{'chicken': 300.0, 'spices': 50.0, 'sauce': 100.0}",450.0,25.0,30.0,600.0,50.0
 baked_oysters_0049.jpg,baked_oysters,"['oysters', 'cheese', 'butter', 'seasonings']",{'oysters': 200.0},200.0,20.0,15.0,300.0,10.0
-bubble_tea_0038.jpg,bubble_tea,"['tapioca pearls', 'tea', 'sugar']","{'tapioca pearls': 100.0, 'tea': 0}",100.0,0.5,1.0,150.0,35.0
+https://file.b18a.io/7833278116600106305_785283_.png,bubble_tea,"['tapioca pearls', 'tea', 'sugar']","{'tapioca pearls': 100.0, 'tea': 0}",100.0,0.5,1.0,150.0,35.0
 steamed_clams_0034.jpg,steamed_clams,"['clams', 'garlic', 'butter']",{'clams': 300.0},300.0,2.0,25.0,150.0,5.0
 braised_pork_belly_with_rice_0046.jpg,braised_pork_belly_with_rice,"['pork belly', 'rice', 'egg', 'soy sauce', 'spices']","{'pork_belly': 250.0, 'rice': 200.0, 'egg': 100.0}",550.0,30.0,40.0,600.0,50.0
 cheesecake_0035.jpg,cheesecake,"['cheese', 'sugar', 'eggs', 'crust', 'cream']","{'cheesecake': 150.0, 'beverage': 0}",150.0,25.0,6.0,450.0,50.0
@@ -13898,7 +13898,7 @@ grilled_chicken_salad_0042.jpg,grilled_chicken_salad,"['grilled chicken', 'mixed
 ice_cream_0043.jpg,ice_cream,"['milk', 'sugar', 'cream', 'flavoring']",{'ice cream': 150.0},150.0,10.0,3.0,250.0,35.0
 cucumber_salad_0047.jpg,cucumber_salad,"['cucumbers', 'sesame oil', 'chili', 'cilantro']","{'cucumbers': 300.0, 'sesame oil': 10.0, 'chili': 10.0}",320.0,5.0,2.0,80.0,10.0
 mixed_asian_dish_0050.jpg,mixed_asian_dish,"['rice', 'meat', 'sauce', 'vegetables']","{'rice': 200.0, 'meat': 300.0, 'sauce': 100.0}",600.0,40.0,50.0,800.0,60.0
-bubble_tea_0039.jpg,bubble_tea,"['tea', 'milk', 'tapioca pearls', 'sugar']",{'Bubble tea': 0},0.0,5.0,2.0,300.0,60.0
+bubble_tea_0038.jpg,bubble_tea,"['tea', 'milk', 'tapioca pearls', 'sugar']",{'Bubble tea': 0},0.0,5.0,2.0,300.0,60.0
 grilled_chicken_salad_0043.jpg,grilled_chicken_salad,"['grilled chicken', 'mixed greens', 'carrots', 'pomegranate seeds', 'onions']","{'chicken': 150.0, 'mixed greens': 200.0}",350.0,15.0,25.0,350.0,30.0
 sliced_beef_0034.jpg,sliced_beef,['beef'],{'beef': 200.0},200.0,15.0,20.0,250.0,0.0
 baked_oysters_0050.jpg,baked_oysters,"['oysters', 'peanuts', 'sauce', 'herbs']","{'oysters': 300.0, 'toppings': 50.0}",350.0,15.0,20.0,250.0,10.0
@@ -13912,12 +13912,12 @@ mixed_vegetable_and_meat_dish_0037.jpg,mixed_vegetable_and_meat_dish,"['rice', '
 fried_eggs_0036.jpg,fried_eggs,['eggs'],{'egg': 0},0.0,15.0,18.0,210.0,1.0
 fried_dough_0043.jpg,fried_dough,"['flour', 'water', 'oil', 'salt']",{'dough': 200.0},200.0,15.0,4.0,300.0,35.0
 meatballs_0038.jpg,meatballs,"['meat', 'sauce', 'lettuce']","{'meatballs': 300.0, 'lettuce': 50.0}",350.0,20.0,15.0,400.0,50.0
-spicy_chicken_wings_0026.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce']","{'chicken wings': 200.0, 'sauce': 50.0}",250.0,15.0,20.0,250.0,5.0
+spicy_chicken_wings_0025.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce']","{'chicken wings': 200.0, 'sauce': 50.0}",250.0,15.0,20.0,250.0,5.0
 cucumber_salad_0048.jpg,cucumber_salad,"['cucumber', 'garlic']","{'cucumber': 300.0, 'garlic': 50.0}",350.0,0.5,2.0,50.0,10.0
-stir_fried_green_vegetables_0040.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'chili', 'soy sauce']",{'vegetables': 300.0},300.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0039.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'chili', 'soy sauce']",{'vegetables': 300.0},300.0,5.0,3.0,150.0,25.0
 vegetable_pizza_0049.jpg,vegetable_pizza,"['pizza dough', 'cheese', 'tomato', 'onion', 'bell pepper', 'mushrooms']",{'pizza': 300.0},300.0,12.0,15.0,300.0,36.0
 braised_pork_hocks_0044.jpg,braised_pork_hocks,"['pork hocks', 'spices', 'sauce']","{'pork hocks': 300.0, 'sauce': 50.0}",350.0,40.0,30.0,600.0,20.0
-spicy_chicken_wings_0027.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce']",{'chicken wings': 300.0},300.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0026.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce']",{'chicken wings': 300.0},300.0,25.0,30.0,400.0,5.0
 green_apple_0039.jpg,green_apple,['green apple'],{'apple': 182.0},182.0,0.3,0.5,95.0,25.0
 braised_pork_belly_with_rice_0047.jpg,braised_pork_belly_with_rice,"['pork belly', 'rice', 'egg', 'snap peas']","{'pork_belly': 200.0, 'rice': 150.0, 'egg': 50.0, 'peas': 30.0}",430.0,30.0,35.0,600.0,50.0
 pineapple_0041.jpg,pineapple,['pineapple'],{'pineapple': 1000.0},1000.0,1.0,5.0,500.0,130.0
@@ -13933,7 +13933,7 @@ seafood_stew_0043.jpg,seafood_stew,"['crab', 'vegetables', 'spices', 'sauce']","
 scrambled_eggs_0040.jpg,scrambled_eggs,"['eggs', 'green onions', 'black sesame seeds']","{'eggs': 200.0, 'green onions': 20.0}",220.0,18.0,12.0,250.0,2.0
 shrimp_pasta_0032.jpg,shrimp_pasta,"['pasta', 'shrimp', 'broccoli', 'sauce']","{'pasta': 200.0, 'shrimp': 150.0, 'broccoli': 100.0}",450.0,20.0,30.0,600.0,70.0
 cookies_0037.jpg,cookies,"['flour', 'sugar', 'butter', 'eggs', 'black sesame seeds']",{'cookies': 200.0},200.0,7.0,2.5,150.0,20.0
-egg_0037.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0036.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 dairy_drink_0036.jpg,dairy_drink,"['Milk', 'Sugar', 'Flavoring']",{'Dairy Drink': 200.0},200.0,5.0,8.0,150.0,20.0
 mixed_vegetable_salad_0035.jpg,mixed_vegetable_salad,"['mixed vegetables', 'nuts', 'sesame seeds', 'spices']","{'vegetables': 300.0, 'nuts': 50.0}",350.0,15.0,10.0,350.0,45.0
 tofu_stir_fry_0042.jpg,tofu_stir_fry,"['tofu', 'sauce', 'vegetables']","{'tofu': 200.0, 'sauce': 50.0, 'vegetables': 100.0}",350.0,20.0,25.0,350.0,30.0
@@ -13958,7 +13958,7 @@ meatballs_0039.jpg,meatballs,"['meat', 'sauce', 'lettuce']","{'meatballs': 250.0
 vegetable_stew_0036.jpg,vegetable_stew,"['mixed vegetables', 'broth', 'spices']","{'vegetables': 400.0, 'broth': 200.0}",600.0,15.0,10.0,300.0,30.0
 margherita_pizza_0029.jpg,margherita_pizza,"['mozzarella cheese', 'tomato sauce', 'basil', 'pizza dough']",{'pizza': 300.0},300.0,10.5,12.0,285.0,36.0
 barbecue_ribs_0042.jpg,barbecue_ribs,"['pork ribs', 'barbecue sauce']",{'ribs': 300.0},300.0,25.0,20.0,350.0,5.0
-spicy_chicken_wings_0028.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'sesame seeds']","{'chicken wings': 500.0, 'sauce': 50.0}",550.0,50.0,60.0,800.0,20.0
+spicy_chicken_wings_0027.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'sesame seeds']","{'chicken wings': 500.0, 'sauce': 50.0}",550.0,50.0,60.0,800.0,20.0
 pan_fried_dumplings_0035.jpg,pan_fried_dumplings,"['dumpling dough', 'meat filling', 'vegetables', 'oil']",{'dumplings': 250.0},250.0,10.0,8.0,300.0,45.0
 soft_serve_ice_cream_0047.jpg,soft_serve_ice_cream,"['soft serve ice cream', 'wafer cone']","{'ice cream': 200.0, 'cone': 50.0}",250.0,10.0,4.0,250.0,36.0
 ice_cream_0045.jpg,ice_cream,['ice cream'],{'ice cream': 150.0},150.0,10.0,3.0,200.0,30.0
@@ -13975,7 +13975,7 @@ chicken_rice_bowl_0050.jpg,chicken_rice_bowl,"['rice', 'chicken', 'egg', 'pickle
 chicken_wrap_0029.jpg,chicken_wrap,"['wrap', 'chicken', 'vegetables', 'sauce']","{'wrap': 200.0, 'filling': 100.0}",300.0,10.0,15.0,300.0,40.0
 grilled_chicken_salad_0044.jpg,grilled_chicken_salad,"['grilled chicken', 'mixed greens', 'bell peppers', 'onions', 'cherry tomatoes', 'salad dressing']","{'chicken': 200.0, 'salad': 150.0, 'dressing': 50.0}",400.0,25.0,40.0,600.0,30.0
 rice_porridge_0046.jpg,rice_porridge,"['rice', 'vegetables']","{'rice': 200.0, 'vegetables': 50.0}",250.0,1.0,3.0,150.0,30.0
-spicy_chicken_wings_0029.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0028.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
 margherita_pizza_0030.jpg,margherita_pizza,"['pizza dough', 'tomato sauce', 'mozzarella cheese', 'basil']",{'pizza': 250.0},250.0,10.0,12.0,250.0,30.0
 green_apple_0040.jpg,green_apple,['green apple'],{'apple': 150.0},150.0,0.1,0.5,30.0,8.0
 spicy_fish_dish_0041.jpg,spicy_fish_dish,"['fish', 'dried chili', 'green onion', 'vegetables']","{'fish': 200.0, 'vegetables': 150.0}",350.0,15.0,25.0,350.0,30.0
@@ -13990,7 +13990,7 @@ shrimp_pasta_0034.jpg,shrimp_pasta,"['pasta', 'shrimp', 'tomato sauce', 'bell pe
 cheeseburger_with_fries_0040.jpg,cheeseburger_with_fries,"['beef patty', 'cheddar cheese', 'lettuce', 'tomato', 'burger bun', 'french fries']","{'burger': 300.0, 'fries': 150.0}",450.0,50.0,40.0,900.0,80.0
 vegetable_stew_0037.jpg,vegetable_stew,"['potatoes', 'carrots', 'green peppers', 'sauce']","{'vegetables': 300.0, 'sauce': 50.0}",350.0,10.0,5.0,250.0,35.0
 tacos_0037.jpg,tacos,"['tortilla', 'beef', 'chicken', 'onion', 'cilantro', 'lime', 'radish']","{'taco': 300.0, 'lime': 50.0, 'radish': 30.0}",380.0,30.0,25.0,600.0,50.0
-stir_fried_green_vegetables_0041.jpg,stir_fried_green_vegetables,"['green beans', 'chili peppers', 'black beans']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0040.jpg,stir_fried_green_vegetables,"['green beans', 'chili peppers', 'black beans']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
 pineapple_0042.jpg,pineapple,['Pineapple'],{'Pineapple': 900.0},900.0,1.2,4.5,452.0,115.5
 fried_chicken_with_fries_0046.jpg,fried_chicken_with_fries,"['fried chicken', 'fries', 'cheese sauce', 'sesame seeds']","{'fried chicken': 300.0, 'fries': 150.0}",450.0,40.0,30.0,800.0,80.0
 sushi_rolls_0047.jpg,sushi_rolls,"['rice', 'seaweed', 'fish', 'vegetables']","{'rice': 150.0, 'fish': 50.0, 'vegetables': 50.0}",250.0,10.0,15.0,300.0,40.0
@@ -14029,8 +14029,8 @@ raw_beef_0037.jpg,raw_beef,['beef'],{'beef': 200.0},200.0,20.0,25.0,250.0,0.0
 ice_cream_cone_0035.jpg,ice_cream_cone,"['ice cream', 'cone']","{'ice cream': 150.0, 'cone': 30.0}",180.0,8.0,3.0,200.0,30.0
 ice_cream_0047.jpg,ice_cream,"['ice cream', 'strawberry syrup']",{'ice cream': 150.0},150.0,10.0,4.0,250.0,36.0
 stir_fried_eggplant_0047.jpg,stir_fried_eggplant,"['eggplant', 'garlic', 'soy sauce', 'green onions', 'ground meat']","{'eggplant': 300.0, 'sauce': 50.0}",350.0,10.0,5.0,200.0,25.0
-spicy_chicken_wings_0030.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
-egg_0038.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+spicy_chicken_wings_0029.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
+egg_0037.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 melon_0040.jpg,melon,['melon'],{'melon': 300.0},300.0,0.2,1.0,50.0,13.0
 spicy_snack_0039.jpg,spicy_snack,"['spices', 'flour', 'oil']",{'snack': 100.0},100.0,8.0,3.0,150.0,15.0
 korean_bbq_0036.jpg,korean_bbq,"['beef', 'pork', 'squid', 'octopus', 'sauces']","{'beef': 200.0, 'pork': 200.0, 'seafood': 150.0, 'sauces': 50.0}",600.0,80.0,100.0,1200.0,30.0
@@ -14073,7 +14073,7 @@ zongzi_0049.jpg,zongzi,"['glutinous rice', 'pork', 'bamboo leaves', 'mushrooms']
 hainanese_chicken_rice_0040.jpg,hainanese_chicken_rice,"['chicken', 'pork', 'rice', 'cucumber', 'preserved egg']","{'chicken': 200.0, 'pork': 150.0, 'rice': 250.0, 'cucumber': 50.0, 'egg': 50.0}",700.0,25.0,40.0,700.0,80.0
 sushi_and_sashimi_platter_0042.jpg,sushi_and_sashimi_platter,"['salmon', 'tuna', 'shrimp', 'egg', 'rice', 'vegetables']","{'sushi': 300.0, 'sashimi': 200.0, 'side dishes': 300.0}",800.0,30.0,50.0,800.0,70.0
 noodle_soup_with_egg_0034.jpg,noodle_soup_with_egg,"['noodles', 'egg', 'bok choy', 'spinach', 'broth']","{'noodles': 200.0, 'egg': 50.0, 'vegetables': 100.0}",350.0,15.0,20.0,450.0,60.0
-egg_0039.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0038.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 shrimp_noodles_0044.jpg,shrimp_noodles,"['shrimp', 'noodles', 'bell peppers', 'sausage', 'sauce']","{'shrimp': 200.0, 'noodles': 250.0, 'vegetables': 100.0}",550.0,20.0,30.0,600.0,70.0
 margherita_pizza_0034.jpg,margherita_pizza,"['pizza dough', 'tomato sauce', 'mozzarella cheese', 'basil']",{'pizza': 300.0},300.0,10.5,12.0,285.0,36.0
 dim_sum_0037.jpg,dim_sum,"['shrimp', 'pork', 'beef', 'broccoli', 'rice flour']","{'shrimp dumplings': 200.0, 'siu mai': 150.0, 'beef dish': 100.0, 'broccoli': 50.0}",500.0,20.0,30.0,600.0,80.0
@@ -14108,12 +14108,12 @@ green_grapes_0050.jpg,green_grapes,['green grapes'],{'grapes': 300.0},300.0,0.2,
 watermelon_slice_0045.jpg,watermelon_slice,['watermelon'],{'watermelon': 200.0},200.0,0.2,0.9,46.0,11.6
 grilled_chicken_salad_0048.jpg,grilled_chicken_salad,"['lettuce', 'cherry tomatoes', 'grilled chicken']","{'lettuce': 150.0, 'cherry tomatoes': 100.0, 'grilled chicken': 100.0}",350.0,15.0,25.0,350.0,30.0
 barbecue_ribs_0044.jpg,barbecue_ribs,"['pork ribs', 'barbecue sauce', 'green onions', 'sesame seeds']","{'ribs': 400.0, 'sauce': 50.0}",450.0,40.0,50.0,600.0,10.0
-spicy_chicken_wings_0031.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'chili', 'mint']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0030.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'chili', 'mint']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
 sliced_beef_0037.jpg,sliced_beef,"['beef', 'green vegetables']","{'beef': 200.0, 'vegetables': 50.0}",250.0,20.0,30.0,350.0,10.0
 stir_fried_green_peppers_with_meat_0039.jpg,stir_fried_green_peppers_with_meat,"['green peppers', 'meat']","{'green peppers': 200.0, 'meat': 150.0}",350.0,15.0,25.0,350.0,30.0
 ice_cream_0050.jpg,ice_cream,"['milk', 'sugar', 'cream', 'strawberry flavor']",{'ice cream': 150.0},150.0,10.0,4.0,250.0,36.0
 braised_pork_belly_with_rice_0049.jpg,braised_pork_belly_with_rice,"['pork belly', 'rice', 'sauce']","{'pork_belly': 200.0, 'rice': 150.0, 'sauce': 50.0}",400.0,40.0,30.0,600.0,50.0
-spicy_chicken_wings_0032.jpg,spicy_chicken_wings,"['chicken wings', 'green peppers', 'red peppers', 'soy sauce', 'garlic']","{'chicken wings': 300.0, 'green peppers': 20.0, 'red peppers': 10.0}",330.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0031.jpg,spicy_chicken_wings,"['chicken wings', 'green peppers', 'red peppers', 'soy sauce', 'garlic']","{'chicken wings': 300.0, 'green peppers': 20.0, 'red peppers': 10.0}",330.0,25.0,30.0,400.0,5.0
 dim_sum_0038.jpg,dim_sum,"['dumplings', 'sauce', 'pork', 'vegetables', 'rice rolls']","{'dumplings': 200.0, 'sauce': 50.0, 'rolls': 150.0}",400.0,25.0,30.0,600.0,70.0
 chicken_sandwich_0034.jpg,chicken_sandwich,"['chicken', 'bun', 'cheese', 'vegetables', 'sauce']","{'chicken': 150.0, 'bun': 100.0, 'cheese': 30.0, 'vegetables': 50.0}",330.0,30.0,35.0,600.0,45.0
 green_apple_0041.jpg,green_apple,['green apple'],{'apple': 150.0},150.0,0.2,0.3,52.0,14.0
@@ -14136,7 +14136,7 @@ avocado_0040.jpg,avocado,['avocado'],{'avocado': 200.0},200.0,15.0,2.0,160.0,9.0
 green_apple_0042.jpg,green_apple,['green apple'],{'apple': 182.0},182.0,0.3,0.5,95.0,25.0
 spicy_meat_stew_0039.jpg,spicy_meat_stew,"['pork', 'bean sprouts', 'green onions', 'spicy sauce']","{'meat': 300.0, 'vegetables': 100.0, 'sauce': 50.0}",450.0,30.0,40.0,600.0,50.0
 steamed_crabs_0046.jpg,steamed_crabs,"['crabs', 'dipping sauce']","{'crabs': 500.0, 'dipping sauce': 50.0}",550.0,5.0,25.0,300.0,10.0
-bubble_tea_0040.jpg,bubble_tea,"['milk', 'sugar', 'tapioca pearls', 'tea']","{'milk': 200.0, 'sugar': 30.0, 'tapioca pearls': 50.0}",280.0,10.0,5.0,300.0,45.0
+bubble_tea_0039.jpg,bubble_tea,"['milk', 'sugar', 'tapioca pearls', 'tea']","{'milk': 200.0, 'sugar': 30.0, 'tapioca pearls': 50.0}",280.0,10.0,5.0,300.0,45.0
 beef_rice_bowl_0035.jpg,beef_rice_bowl,"['beef', 'rice', 'egg', 'onion', 'sauce']","{'beef': 200.0, 'rice': 150.0, 'egg': 100.0}",450.0,20.0,35.0,600.0,70.0
 watermelon_slice_0046.jpg,watermelon_slice,['watermelon'],{'watermelon': 200.0},200.0,0.2,0.6,30.0,7.6
 melon_0042.jpg,melon,['melon'],{'melon': 300.0},300.0,0.2,0.5,60.0,15.0
@@ -14155,7 +14155,7 @@ stuffed_flatbread_0049.jpg,stuffed_flatbread,"['flatbread', 'spinach', 'onion', 
 grilled_chicken_with_rice_0036.jpg,grilled_chicken_with_rice,"['chicken', 'rice', 'lettuce', 'cucumber', 'tomato', 'carrot']","{'chicken': 200.0, 'rice': 150.0, 'vegetables': 100.0}",450.0,25.0,40.0,700.0,80.0
 boiled_shrimp_0041.jpg,boiled_shrimp,"['shrimp', 'seasoning']",{'shrimp': 300.0},300.0,2.0,40.0,200.0,0.0
 beef_noodles_0043.jpg,beef_noodles,"['noodles', 'beef', 'vegetables', 'sauce']","{'noodles': 200.0, 'beef': 150.0, 'vegetables': 50.0}",400.0,20.0,30.0,600.0,70.0
-spicy_chicken_wings_0033.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'peanuts']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
+spicy_chicken_wings_0032.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'peanuts']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
 pineapple_0044.jpg,pineapple,['Pineapple'],{'Pineapple': 100.0},100.0,0.1,0.5,50.0,13.1
 noodle_soup_with_egg_0036.jpg,noodle_soup_with_egg,"['noodles', 'meat', 'egg', 'broth', 'vegetables']","{'noodles': 200.0, 'meat': 100.0, 'egg': 50.0}",350.0,20.0,30.0,600.0,70.0
 korean_bbq_0037.jpg,korean_bbq,"['beef', 'pork', 'salad', 'sauces']","{'beef': 200.0, 'pork': 150.0, 'salad': 100.0, 'sauce': 50.0}",500.0,50.0,60.0,800.0,30.0
@@ -14254,7 +14254,7 @@ cookies_0039.jpg,cookies,"['flour', 'sugar', 'butter', 'chocolate', 'green tea p
 spicy_snack_0041.jpg,spicy_snack,"['flour', 'spices', 'vegetable oil']",{'snack': 100.0},100.0,5.0,3.0,150.0,22.0
 watermelon_slice_0048.jpg,watermelon_slice,['watermelon'],{'watermelon': 150.0},150.0,0.2,0.6,30.0,7.6
 cookies_0040.jpg,cookies,"['flour', 'sugar', 'butter', 'eggs']",{'cookies': 50.0},50.0,7.0,2.0,150.0,20.0
-bubble_tea_0041.jpg,bubble_tea,"['milk', 'tapioca pearls', 'sugar']","{'milk': 0, 'tapioca pearls': 50.0, 'sugar': 20.0}",70.0,10.0,5.0,300.0,50.0
+bubble_tea_0040.jpg,bubble_tea,"['milk', 'tapioca pearls', 'sugar']","{'milk': 0, 'tapioca pearls': 50.0, 'sugar': 20.0}",70.0,10.0,5.0,300.0,50.0
 fried_tofu_0045.jpg,fried_tofu,"['tofu', 'oil', 'salt']",{'tofu': 500.0},500.0,24.0,20.0,400.0,30.0
 sushi_and_sashimi_platter_0046.jpg,sushi_and_sashimi_platter,"['salmon', 'sushi rice', 'wasabi', 'seaweed', 'fish roe']","{'salmon': 200.0, 'sushi rice': 150.0, 'wasabi': 10.0}",360.0,20.0,30.0,500.0,50.0
 rice_with_meat_0043.jpg,rice_with_meat,"['rice', 'meat']","{'rice': 250.0, 'meat': 100.0}",350.0,10.0,15.0,350.0,50.0
@@ -14266,9 +14266,9 @@ roast_duck_0038.jpg,roast_duck,"['duck', 'soy sauce', 'spices']","{'duck': 300.0
 shrimp_noodles_0050.jpg,shrimp_noodles,"['shrimp', 'noodles', 'garlic', 'green onions', 'sauce']","{'shrimp': 200.0, 'noodles': 150.0, 'sauce': 50.0}",400.0,10.0,30.0,400.0,50.0
 lemon_0041.jpg,lemon,['lemon'],{'lemon': 100.0},100.0,0.1,1.1,34.0,9.3
 assorted_snacks_0042.jpg,assorted_snacks,['various snacks'],"{'snack1': 50.0, 'snack2': 50.0, 'snack3': 50.0}",150.0,15.0,5.0,300.0,40.0
-stir_fried_green_vegetables_0042.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'garlic': 10.0}",310.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0041.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic', 'oil']","{'green vegetables': 300.0, 'garlic': 10.0}",310.0,5.0,3.0,150.0,25.0
 cheesecake_0037.jpg,cheesecake,"['cream cheese', 'sugar', 'graham cracker crust', 'strawberry']",{'cheesecake': 150.0},150.0,18.0,6.0,257.0,20.0
-stir_fried_green_vegetables_0043.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic']","{'green vegetables': 200.0, 'garlic': 10.0}",210.0,0.5,2.0,50.0,10.0
+stir_fried_green_vegetables_0042.jpg,stir_fried_green_vegetables,"['green vegetables', 'garlic']","{'green vegetables': 200.0, 'garlic': 10.0}",210.0,0.5,2.0,50.0,10.0
 vegetable_stew_0041.jpg,vegetable_stew,"['vegetables', 'sauce', 'meat']","{'vegetables': 300.0, 'sauce': 50.0}",350.0,15.0,20.0,350.0,40.0
 boiled_shrimp_0044.jpg,boiled_shrimp,['shrimp'],{'shrimp': 300.0},300.0,2.0,40.0,200.0,0.0
 spicy_meat_stew_0043.jpg,spicy_meat_stew,"['meat', 'spices', 'vegetables', 'sauce']","{'meat': 200.0, 'sauce': 150.0}",350.0,20.0,25.0,350.0,15.0
@@ -14290,7 +14290,7 @@ barbecue_ribs_0048.jpg,barbecue_ribs,"['pork ribs', 'barbecue sauce']",{'ribs': 
 sushi_and_sashimi_platter_0047.jpg,sushi_and_sashimi_platter,"['salmon', 'tuna', 'seaweed', 'wasabi', 'radish', 'lettuce']","{'salmon': 200.0, 'tuna': 100.0, 'vegetables': 50.0, 'wasabi': 10.0}",360.0,20.0,50.0,600.0,30.0
 chicken_biryani_0036.jpg,chicken_biryani,"['rice', 'chicken', 'vegetables', 'spices']","{'rice': 300.0, 'chicken': 100.0, 'vegetables': 50.0}",450.0,15.0,30.0,600.0,85.0
 decorated_cake_0042.jpg,decorated_cake,"['flour', 'sugar', 'butter', 'eggs', 'frosting']",{'cake': 150.0},150.0,10.0,3.0,250.0,35.0
-stir_fried_green_vegetables_0044.jpg,stir_fried_green_vegetables,['green vegetables'],{'vegetables': 200.0},200.0,0.2,1.5,50.0,12.0
+stir_fried_green_vegetables_0043.jpg,stir_fried_green_vegetables,['green vegetables'],{'vegetables': 200.0},200.0,0.2,1.5,50.0,12.0
 latte_0038.jpg,latte,"['milk', 'coffee']",{'milk': 0},0.0,5.0,3.0,150.0,20.0
 soft_serve_ice_cream_0048.jpg,soft_serve_ice_cream,"['soft serve ice cream', 'waffle cone']","{'ice cream': 200.0, 'cone': 30.0}",230.0,10.0,4.0,250.0,36.0
 hainanese_chicken_rice_0043.jpg,hainanese_chicken_rice,"['chicken', 'rice', 'lettuce']","{'chicken': 500.0, 'rice': 200.0}",700.0,30.0,50.0,600.0,60.0
@@ -14317,7 +14317,7 @@ steamed_crabs_0049.jpg,steamed_crabs,['crab'],{'crab': 500.0},500.0,5.0,30.0,200
 raw_beef_0040.jpg,raw_beef,['beef'],{'beef': 300.0},300.0,20.0,25.0,250.0,0.0
 boiled_shrimp_0045.jpg,boiled_shrimp,"['shrimp', 'spices']",{'shrimp': 500.0},500.0,2.0,40.0,200.0,0.0
 latte_0039.jpg,latte,"['milk', 'coffee']","{'milk': 200.0, 'coffee': 30.0}",230.0,7.0,5.0,150.0,15.0
-egg_0040.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0039.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 tomato_0049.jpg,tomato,['tomato'],{'tomato': 150.0},150.0,0.2,1.1,22.0,4.8
 spicy_meat_stew_0044.jpg,spicy_meat_stew,"['meat', 'green onions', 'spices', 'vegetables']","{'meat': 300.0, 'vegetables': 200.0}",500.0,30.0,40.0,600.0,50.0
 grilled_chicken_skewers_0039.jpg,grilled_chicken_skewers,"['chicken', 'spices']",{'chicken': 250.0},250.0,15.0,25.0,300.0,0.0
@@ -14325,7 +14325,7 @@ soft_serve_ice_cream_0049.jpg,soft_serve_ice_cream,"['soft serve ice cream', 'wa
 assorted_snacks_0044.jpg,assorted_snacks,"['chips', 'cookies', 'candy']","{'snack1': 100.0, 'snack2': 150.0, 'snack3': 50.0}",300.0,20.0,5.0,500.0,70.0
 sushi_rolls_0048.jpg,sushi_rolls,"['rice', 'nori', 'cucumber', 'carrot', 'ham', 'egg']","{'rice': 200.0, 'vegetables': 50.0, 'meat': 50.0}",300.0,10.0,12.0,300.0,40.0
 boiled_peanuts_0048.jpg,boiled_peanuts,['peanuts'],{'peanuts': 350.0},350.0,49.24,25.8,567.0,16.13
-bubble_tea_0042.jpg,bubble_tea,"['milk', 'tapioca pearls', 'sugar']","{'milk': 0, 'tapioca pearls': 100.0, 'sugar': 20.0}",120.0,5.0,3.0,300.0,60.0
+bubble_tea_0041.jpg,bubble_tea,"['milk', 'tapioca pearls', 'sugar']","{'milk': 0, 'tapioca pearls': 100.0, 'sugar': 20.0}",120.0,5.0,3.0,300.0,60.0
 steamed_crabs_0050.jpg,steamed_crabs,"['crab', 'soy sauce']","{'crab': 500.0, 'dipping sauce': 50.0}",550.0,10.0,80.0,400.0,0.0
 noodle_dish_0040.jpg,noodle_dish,"['noodles', 'green onions', 'broth']","{'noodles': 250.0, 'vegetables': 100.0}",350.0,5.0,10.0,350.0,60.0
 fried_dough_0048.jpg,fried_dough,"['dough', 'filling']","{'dough': 200.0, 'filling': 50.0}",250.0,10.0,5.0,250.0,35.0
@@ -14347,7 +14347,7 @@ dim_sum_0043.jpg,dim_sum,"['buns', 'meat', 'vegetables']","{'buns': 300.0, 'meat
 chicken_wings_0049.jpg,chicken_wings,"['chicken wings', 'green onions', 'soy sauce', 'garlic']","{'chicken wings': 250.0, 'green onions': 20.0}",270.0,15.0,25.0,300.0,5.0
 hainanese_chicken_rice_0044.jpg,hainanese_chicken_rice,"['chicken', 'sauce']","{'chicken': 300.0, 'sauce': 50.0}",350.0,15.0,30.0,350.0,5.0
 grilled_chicken_salad_0049.jpg,grilled_chicken_salad,"['grilled chicken', 'lettuce', 'cucumber', 'carrot', 'red cabbage', 'dressing']","{'chicken': 250.0, 'salad': 150.0}",400.0,30.0,50.0,600.0,20.0
-bubble_tea_0043.jpg,bubble_tea,"['tapioca pearls', 'milk', 'sugar']","{'tapioca pearls': 100.0, 'milk': 200.0, 'sugar': 30.0}",330.0,10.0,5.0,300.0,50.0
+bubble_tea_0042.jpg,bubble_tea,"['tapioca pearls', 'milk', 'sugar']","{'tapioca pearls': 100.0, 'milk': 200.0, 'sugar': 30.0}",330.0,10.0,5.0,300.0,50.0
 tofu_stir_fry_0046.jpg,tofu_stir_fry,"['tofu', 'tomato sauce', 'green onions']","{'tofu': 250.0, 'sauce': 50.0, 'vegetables': 100.0}",400.0,20.0,15.0,350.0,30.0
 pho_0048.jpg,pho,"['beef', 'rice noodles', 'broth', 'bean sprouts', 'green onions', 'herbs']","{'beef': 150.0, 'noodles': 200.0, 'broth': 0, 'vegetables': 50.0}",400.0,15.0,30.0,450.0,50.0
 stir_fried_noodles_with_vegetables_0045.jpg,stir_fried_noodles_with_vegetables,"['noodles', 'broccoli', 'carrots', 'meat']","{'noodles': 200.0, 'broccoli': 100.0, 'carrots': 50.0, 'meat': 100.0}",450.0,15.0,25.0,450.0,60.0
@@ -14369,7 +14369,7 @@ spicy_meat_stew_0045.jpg,spicy_meat_stew,"['meat', 'spicy sauce', 'green onions'
 fried_eggs_0040.jpg,fried_eggs,['eggs'],{'eggs': 500.0},500.0,25.0,30.0,350.0,2.0
 mixed_rice_plate_0041.jpg,mixed_rice_plate,"['rice', 'grilled meat', 'fried egg', 'cucumber', 'lettuce', 'carrot', 'sauce']","{'rice': 200.0, 'meat': 150.0, 'egg': 50.0, 'vegetables': 100.0}",500.0,30.0,40.0,800.0,100.0
 beef_rice_bowl_0037.jpg,beef_rice_bowl,"['beef', 'rice', 'onions', 'sesame seeds', 'soup', 'kimchi']","{'beef': 200.0, 'rice': 300.0, 'soup': 150.0, 'kimchi': 50.0}",700.0,25.0,40.0,700.0,80.0
-spicy_chicken_wings_0034.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'green onions']","{'chicken wings': 300.0, 'seasoning': 10.0}",310.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0033.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'green onions']","{'chicken wings': 300.0, 'seasoning': 10.0}",310.0,25.0,30.0,400.0,5.0
 dairy_drink_0043.jpg,dairy_drink,"['milk', 'sugar', 'flavoring']",{'bottle': 220.0},220.0,5.0,8.0,150.0,20.0
 dairy_drink_0044.jpg,dairy_drink,"['Milk', 'Sugar', 'Flavoring']",{'Dairy Drink': 200.0},200.0,5.0,6.0,150.0,20.0
 soft_serve_ice_cream_0050.jpg,soft_serve_ice_cream,"['soft serve ice cream', 'cone']","{'ice cream': 150.0, 'cone': 30.0}",180.0,10.0,4.0,250.0,36.0
@@ -14411,7 +14411,7 @@ shrimp_pasta_0038.jpg,shrimp_pasta,"['pasta', 'shrimp', 'cream', 'garlic', 'pars
 steamed_clams_0042.jpg,steamed_clams,"['clams', 'garlic', 'green onions', 'bell peppers', 'soy sauce']","{'clams': 300.0, 'vegetables': 50.0}",350.0,10.0,20.0,250.0,15.0
 pineapple_0046.jpg,pineapple,['pineapple'],{'pineapple': 900.0},900.0,1.2,4.3,452.0,117.2
 hainanese_chicken_rice_0045.jpg,hainanese_chicken_rice,"['rice', 'chicken', 'soup', 'cabbage', 'lime']","{'rice': 300.0, 'chicken': 200.0, 'soup': 150.0}",650.0,30.0,50.0,800.0,90.0
-egg_0041.jpg,egg,['egg'],{'egg': 50.0},50.0,11.0,13.0,155.0,1.0
+egg_0040.jpg,egg,['egg'],{'egg': 50.0},50.0,11.0,13.0,155.0,1.0
 latte_0041.jpg,latte,"['espresso', 'milk']","{'milk': 0, 'espresso': 0}",0.0,7.0,6.0,150.0,15.0
 fried_dough_0050.jpg,fried_dough,"['dough', 'oil']",{'dough': 250.0},250.0,15.0,10.0,300.0,35.0
 spicy_chicken_stew_0033.jpg,spicy_chicken_stew,"['chicken', 'dried chili peppers', 'vegetables', 'sauce']","{'chicken': 200.0, 'vegetables': 150.0, 'sauce': 100.0}",450.0,30.0,40.0,600.0,50.0
@@ -14427,7 +14427,7 @@ dumplings_in_broth_0050.jpg,dumplings_in_broth,"['dumplings', 'broth', 'vegetabl
 boiled_shrimp_0047.jpg,boiled_shrimp,"['shrimp', 'spices']","{'shrimp': 300.0, 'spices': 10.0}",310.0,2.0,40.0,200.0,0.5
 raw_beef_0041.jpg,raw_beef,['beef'],{'beef': 300.0},300.0,20.0,22.0,250.0,0.0
 pan_fried_dumplings_0041.jpg,pan_fried_dumplings,"['flour', 'water', 'filling (meat/vegetables)', 'oil']",{'dumplings': 300.0},300.0,10.0,6.0,250.0,35.0
-stir_fried_green_vegetables_0045.jpg,stir_fried_green_vegetables,"['green beans', 'broccoli', 'chili peppers', 'garlic']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,4.0,150.0,25.0
+stir_fried_green_vegetables_0044.jpg,stir_fried_green_vegetables,"['green beans', 'broccoli', 'chili peppers', 'garlic']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,4.0,150.0,25.0
 decorated_cake_0043.jpg,decorated_cake,"['flour', 'sugar', 'butter', 'eggs', 'cream', 'decorative flowers']",{'cake': 150.0},150.0,15.0,4.0,350.0,50.0
 dim_sum_0046.jpg,dim_sum,"['dumplings', 'beef', 'noodles', 'vegetables']","{'dumplings': 200.0, 'beef': 150.0, 'noodles': 100.0}",450.0,20.0,30.0,600.0,80.0
 vegetable_fritters_0036.jpg,vegetable_fritters,"['zucchini', 'carrots', 'flour', 'olive oil', 'spices']","{'fritters': 250.0, 'olive oil': 10.0}",260.0,20.0,5.0,300.0,30.0
@@ -14444,10 +14444,10 @@ noodle_soup_with_egg_0040.jpg,noodle_soup_with_egg,"['noodles', 'meat', 'egg', '
 pineapple_0047.jpg,pineapple,['pineapple'],{'pineapple': 1000.0},1000.0,1.0,5.0,500.0,130.0
 chicken_wrap_0037.jpg,chicken_wrap,"['chicken', 'tortilla', 'tomato', 'onion', 'lettuce', 'sauce']","{'chicken': 200.0, 'tortilla': 100.0, 'vegetables': 50.0, 'sauce': 50.0}",400.0,25.0,30.0,600.0,50.0
 beef_rice_bowl_0038.jpg,beef_rice_bowl,"['beef', 'rice', 'seaweed', 'vegetables', 'spices']","{'beef': 200.0, 'rice': 250.0, 'vegetables': 100.0}",550.0,20.0,30.0,600.0,70.0
-stir_fried_green_vegetables_0046.jpg,stir_fried_green_vegetables,"['asparagus', 'garlic', 'chili']","{'asparagus': 200.0, 'garlic': 20.0, 'chili': 10.0}",230.0,5.0,4.0,150.0,25.0
+stir_fried_green_vegetables_0045.jpg,stir_fried_green_vegetables,"['asparagus', 'garlic', 'chili']","{'asparagus': 200.0, 'garlic': 20.0, 'chili': 10.0}",230.0,5.0,4.0,150.0,25.0
 grilled_chicken_salad_0050.jpg,grilled_chicken_salad,"['grilled chicken', 'lettuce', 'carrots', 'cabbage', 'sauce']","{'chicken': 200.0, 'salad': 150.0, 'sauce': 30.0}",380.0,30.0,40.0,600.0,50.0
 peking_duck_0045.jpg,peking_duck,"['duck', 'cucumbers', 'scallions', 'hoisin sauce']","{'duck': 200.0, 'vegetables': 150.0, 'sauce': 50.0}",400.0,30.0,40.0,600.0,50.0
-stir_fried_green_vegetables_0047.jpg,stir_fried_green_vegetables,"['green vegetables', 'peanuts', 'garlic', 'oil']","{'green vegetables': 300.0, 'peanuts': 50.0}",350.0,7.0,5.0,150.0,20.0
+stir_fried_green_vegetables_0046.jpg,stir_fried_green_vegetables,"['green vegetables', 'peanuts', 'garlic', 'oil']","{'green vegetables': 300.0, 'peanuts': 50.0}",350.0,7.0,5.0,150.0,20.0
 spicy_fish_dish_0046.jpg,spicy_fish_dish,"['fish', 'green onions', 'dried chili', 'garlic', 'sauce']","{'fish': 300.0, 'green onions': 50.0, 'dried chili': 10.0}",360.0,15.0,30.0,350.0,5.0
 fried_tofu_0046.jpg,fried_tofu,"['tofu', 'soy sauce', 'spices', 'oil']","{'tofu': 250.0, 'sauce': 50.0}",300.0,20.0,15.0,300.0,25.0
 steamed_clams_0044.jpg,steamed_clams,"['clams', 'garlic', 'parsley', 'olive oil']",{'clams': 350.0},350.0,2.5,30.0,200.0,5.0
@@ -14491,7 +14491,7 @@ beef_rice_bowl_0039.jpg,beef_rice_bowl,"['rice', 'beef', 'tomato sauce', 'vegeta
 beef_rice_bowl_0040.jpg,beef_rice_bowl,"['rice', 'beef', 'bok choy', 'pickled vegetables']","{'rice': 250.0, 'beef': 100.0, 'vegetables': 100.0}",450.0,20.0,30.0,600.0,70.0
 seafood_salad_0048.jpg,seafood_salad,"['seafood', 'tomatoes', 'peppers', 'onions', 'spices']","{'seafood': 200.0, 'vegetables': 150.0}",350.0,15.0,25.0,350.0,30.0
 raw_beef_0042.jpg,raw_beef,['beef'],{'beef': 300.0},300.0,20.0,18.0,250.0,0.0
-stir_fried_green_vegetables_0048.jpg,stir_fried_green_vegetables,"['green bell pepper', 'garlic', 'oil']","{'green bell pepper': 200.0, 'garlic': 10.0}",210.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0047.jpg,stir_fried_green_vegetables,"['green bell pepper', 'garlic', 'oil']","{'green bell pepper': 200.0, 'garlic': 10.0}",210.0,5.0,3.0,150.0,25.0
 dairy_drink_0047.jpg,dairy_drink,"['Milk', 'Sugar', 'Flavoring']",{'Dairy Drink': 200.0},200.0,5.0,6.0,150.0,20.0
 tacos_0041.jpg,tacos,"['ground beef', 'tortilla', 'lettuce', 'tomato', 'lime', 'chili']","{'beef': 150.0, 'tortilla': 100.0, 'vegetables': 100.0}",350.0,15.0,20.0,350.0,30.0
 pan_fried_dumplings_0042.jpg,pan_fried_dumplings,"['dumpling wrappers', 'vegetables', 'meat (optional)', 'oil']",{'dumplings': 250.0},250.0,10.0,12.0,300.0,40.0
@@ -14536,7 +14536,7 @@ barbecue_ribs_0050.jpg,barbecue_ribs,"['pork ribs', 'barbecue sauce']",{'ribs': 
 mixed_rice_plate_0042.jpg,mixed_rice_plate,"['rice', 'chicken', 'vegetables', 'sauce']","{'rice': 250.0, 'chicken': 100.0, 'vegetables': 50.0, 'sauce': 30.0}",430.0,20.0,25.0,600.0,80.0
 noodle_soup_with_egg_0041.jpg,noodle_soup_with_egg,"['noodles', 'egg', 'ground meat', 'broth', 'cilantro']","{'noodles': 200.0, 'egg': 100.0, 'meat': 50.0, 'broth': 150.0}",500.0,20.0,25.0,600.0,70.0
 green_apple_0046.jpg,green_apple,['green apple'],{'apple': 150.0},150.0,0.2,0.3,52.0,14.0
-stir_fried_green_vegetables_0049.jpg,stir_fried_green_vegetables,"['green vegetables', 'oil', 'seasoning']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
+stir_fried_green_vegetables_0048.jpg,stir_fried_green_vegetables,"['green vegetables', 'oil', 'seasoning']","{'green vegetables': 300.0, 'oil': 10.0}",310.0,5.0,3.0,150.0,25.0
 roast_duck_0043.jpg,roast_duck,"['duck', 'soy sauce', 'spices']",{'duck': 500.0},500.0,30.0,50.0,600.0,0.0
 sushi_and_sashimi_platter_0049.jpg,sushi_and_sashimi_platter,"['salmon', 'tuna', 'shrimp', 'rice', 'wasabi', 'soy sauce']","{'sushi': 300.0, 'sashimi': 200.0, 'side dishes': 300.0}",800.0,30.0,50.0,800.0,70.0
 seafood_salad_0050.jpg,seafood_salad,"['seafood', 'lettuce', 'carrots', 'chili', 'sauce']","{'seafood': 200.0, 'vegetables': 150.0}",350.0,10.0,20.0,300.0,30.0
@@ -14576,15 +14576,15 @@ lemon_0044.jpg,lemon,['lemon'],{'lemon': 200.0},200.0,0.1,1.1,34.0,11.1
 stir_fried_green_beans_with_meat_0047.jpg,stir_fried_green_beans_with_meat,"['green beans', 'meat', 'garlic', 'ginger']","{'green beans': 200.0, 'meat': 150.0}",350.0,15.0,25.0,350.0,30.0
 cheesecake_0041.jpg,cheesecake,"['cream cheese', 'sugar', 'crust', 'fruit topping']",{'cheesecake': 200.0},200.0,15.0,5.0,350.0,50.0
 green_apple_0048.jpg,green_apple,['apple'],{'apple': 182.0},182.0,0.3,0.5,95.0,25.0
-egg_0042.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0041.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 seafood_stew_0046.jpg,seafood_stew,"['crab', 'spices', 'vegetables', 'sauce']","{'crab': 300.0, 'sauce': 100.0, 'vegetables': 50.0}",450.0,30.0,40.0,600.0,50.0
 vegetable_fritters_0038.jpg,vegetable_fritters,"['green beans', 'carrots', 'batter']","{'vegetables': 200.0, 'batter': 100.0}",300.0,15.0,10.0,300.0,35.0
-stir_fried_green_vegetables_0050.jpg,stir_fried_green_vegetables,"['green beans', 'spices', 'oil']","{'green vegetables': 300.0, 'oil': 20.0}",320.0,7.0,5.0,150.0,20.0
+stir_fried_green_vegetables_0049.jpg,stir_fried_green_vegetables,"['green beans', 'spices', 'oil']","{'green vegetables': 300.0, 'oil': 20.0}",320.0,7.0,5.0,150.0,20.0
 tacos_0043.jpg,tacos,"['tortilla', 'beef', 'chicken', 'pineapple', 'cilantro', 'onion', 'salsa']","{'taco': 300.0, 'salsa': 50.0, 'lime': 30.0}",380.0,40.0,50.0,800.0,70.0
 raw_beef_0044.jpg,raw_beef,['beef'],{'beef': 300.0},300.0,15.0,25.0,250.0,0.0
 spicy_fish_dish_0048.jpg,spicy_fish_dish,"['fish', 'dried chili', 'green onions', 'sesame seeds', 'spices']","{'fish': 200.0, 'vegetables': 150.0, 'sauce': 100.0}",450.0,30.0,40.0,600.0,50.0
 assorted_snacks_0050.jpg,assorted_snacks,"['chocolate', 'coconut']","{'snack1': 50.0, 'snack2': 50.0}",100.0,10.0,2.0,200.0,30.0
-egg_0043.jpg,egg,['egg'],{'egg': 0},0.0,11.0,13.0,155.0,1.0
+egg_0042.jpg,egg,['egg'],{'egg': 0},0.0,11.0,13.0,155.0,1.0
 dairy_drink_0049.jpg,dairy_drink,"['Milk', 'Sugar', 'Flavoring']",{'Dairy Drink': 200.0},200.0,4.5,6.0,120.0,12.0
 vegetable_stew_0048.jpg,vegetable_stew,"['carrots', 'potatoes', 'onions', 'broth']","{'carrots': 200.0, 'potatoes': 150.0, 'onions': 50.0}",400.0,2.0,3.0,150.0,30.0
 stir_fried_green_beans_with_meat_0048.jpg,stir_fried_green_beans_with_meat,"['green beans', 'meat']","{'green beans': 300.0, 'meat': 50.0}",350.0,5.0,10.0,150.0,20.0
@@ -14596,11 +14596,11 @@ vegetable_fritters_0039.jpg,vegetable_fritters,"['vegetables', 'flour', 'oil', '
 stir_fried_green_peppers_with_meat_0046.jpg,stir_fried_green_peppers_with_meat,"['green peppers', 'meat', 'egg']","{'meat': 200.0, 'green peppers': 150.0, 'egg': 50.0}",400.0,20.0,30.0,450.0,25.0
 pan_fried_dumplings_0044.jpg,pan_fried_dumplings,"['dumpling wrappers', 'ground meat', 'vegetables', 'oil']",{'dumplings': 200.0},200.0,15.0,10.0,300.0,35.0
 steamed_clams_0046.jpg,steamed_clams,"['clams', 'garlic', 'green onions', 'chili']","{'clams': 300.0, 'sauce': 50.0}",350.0,5.0,25.0,200.0,10.0
-egg_0044.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0043.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 seafood_stew_0047.jpg,seafood_stew,"['crab', 'green onions', 'vegetables', 'spices']","{'crab': 200.0, 'vegetables': 150.0, 'sauce': 100.0}",450.0,30.0,40.0,600.0,50.0
 roast_duck_0047.jpg,roast_duck,"['duck', 'soy sauce', 'green onions']","{'duck': 300.0, 'sauce': 50.0}",350.0,20.0,30.0,350.0,5.0
 beef_rice_bowl_0042.jpg,beef_rice_bowl,"['beef', 'rice', 'egg', 'green onions', 'soy sauce']","{'beef': 200.0, 'rice': 150.0, 'egg': 100.0}",450.0,25.0,40.0,600.0,60.0
-spicy_chicken_wings_0035.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'seasoning']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
+spicy_chicken_wings_0034.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'seasoning']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
 sliced_beef_0047.jpg,sliced_beef,['beef'],{'beef': 300.0},300.0,35.0,40.0,500.0,0.0
 grilled_chicken_with_rice_0039.jpg,grilled_chicken_with_rice,"['grilled chicken', 'rice', 'fried egg', 'cucumber', 'tomato', 'sauce']","{'chicken': 200.0, 'rice': 150.0, 'vegetables': 100.0, 'sauce': 50.0}",500.0,30.0,40.0,700.0,60.0
 korean_bbq_0041.jpg,korean_bbq,"['beef', 'pork', 'chicken', 'kimchi', 'salad']","{'beef': 200.0, 'pork': 200.0, 'chicken': 150.0, 'kimchi': 100.0, 'salad': 100.0}",750.0,80.0,90.0,1200.0,50.0
@@ -14627,12 +14627,12 @@ noodle_dish_0045.jpg,noodle_dish,"['noodles', 'sauce', 'chili', 'green onions']"
 ice_cream_cone_0041.jpg,ice_cream_cone,"['ice cream', 'cone']","{'ice cream': 150.0, 'cone': 30.0}",180.0,8.0,3.0,200.0,30.0
 stir_fried_shrimp_0044.jpg,stir_fried_shrimp,"['shrimp', 'vegetables', 'sauce']","{'shrimp': 200.0, 'vegetables': 150.0}",350.0,15.0,25.0,350.0,30.0
 shrimp_pasta_0042.jpg,shrimp_pasta,"['pasta', 'shrimp', 'spinach', 'cherry tomatoes', 'cream', 'spices']","{'pasta': 200.0, 'shrimp': 100.0, 'spinach': 50.0, 'tomatoes': 50.0}",400.0,20.0,30.0,600.0,70.0
-bubble_tea_0044.jpg,bubble_tea,"['tapioca pearls', 'milk', 'sugar']","{'tapioca pearls': 100.0, 'milk': 0, 'sugar': 30.0}",130.0,5.0,3.0,300.0,60.0
+bubble_tea_0043.jpg,bubble_tea,"['tapioca pearls', 'milk', 'sugar']","{'tapioca pearls': 100.0, 'milk': 0, 'sugar': 30.0}",130.0,5.0,3.0,300.0,60.0
 cookies_0045.jpg,cookies,"['flour', 'sugar', 'butter', 'chocolate chips']",{'cookies': 100.0},100.0,7.0,2.0,150.0,20.0
 steamed_fish_with_sauce_0043.jpg,steamed_fish_with_sauce,"['fish', 'soy sauce', 'ginger', 'garlic', 'green onions', 'chili peppers']","{'fish': 300.0, 'sauce': 50.0}",350.0,15.0,30.0,350.0,5.0
-egg_0045.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0044.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 decorated_cake_0045.jpg,decorated_cake,"['cake base', 'frosting', 'decorations']",{'cake': 200.0},200.0,15.0,5.0,350.0,50.0
-spicy_chicken_wings_0036.jpg,spicy_chicken_wings,"['chicken wings', 'red chili', 'green bell pepper', 'onion', 'sesame seeds']","{'chicken wings': 300.0, 'vegetables': 50.0}",350.0,25.0,30.0,400.0,10.0
+spicy_chicken_wings_0035.jpg,spicy_chicken_wings,"['chicken wings', 'red chili', 'green bell pepper', 'onion', 'sesame seeds']","{'chicken wings': 300.0, 'vegetables': 50.0}",350.0,25.0,30.0,400.0,10.0
 pan_fried_dumplings_0045.jpg,pan_fried_dumplings,"['dumpling wrappers', 'vegetables', 'meat (optional)', 'sesame oil', 'green onions']",{'dumplings': 250.0},250.0,15.0,10.0,300.0,35.0
 seafood_stew_0049.jpg,seafood_stew,"['fish', 'vegetables', 'spices', 'broth']","{'fish': 200.0, 'vegetables': 150.0, 'broth': 0}",350.0,15.0,30.0,450.0,50.0
 mixed_rice_plate_0044.jpg,mixed_rice_plate,"['rice', 'chicken', 'beans', 'tomatoes', 'green peppers']","{'rice': 250.0, 'meat': 150.0, 'vegetables': 100.0}",500.0,20.0,30.0,600.0,70.0
@@ -14644,7 +14644,7 @@ spicy_shrimp_stir_fry_0050.jpg,spicy_shrimp_stir_fry,"['shrimp', 'red peppers', 
 stir_fried_green_peppers_with_meat_0049.jpg,stir_fried_green_peppers_with_meat,"['green peppers', 'meat', 'soy sauce', 'garlic']","{'green peppers': 200.0, 'meat': 150.0}",350.0,20.0,25.0,350.0,15.0
 noodle_soup_with_egg_0044.jpg,noodle_soup_with_egg,"['noodles', 'egg', 'carrots', 'green onions']","{'noodles': 200.0, 'egg': 50.0, 'carrots': 30.0, 'green onions': 20.0}",300.0,10.0,12.0,300.0,40.0
 noodle_soup_with_egg_0045.jpg,noodle_soup_with_egg,"['noodles', 'egg', 'broth', 'spices']","{'noodles': 200.0, 'egg': 50.0, 'broth': 100.0}",350.0,10.0,12.0,250.0,30.0
-bubble_tea_0045.jpg,bubble_tea,"['milk', 'tapioca pearls', 'syrup']","{'milk': 0, 'tapioca pearls': 100.0, 'syrup': 30.0}",130.0,10.0,5.0,300.0,45.0
+bubble_tea_0044.jpg,bubble_tea,"['milk', 'tapioca pearls', 'syrup']","{'milk': 0, 'tapioca pearls': 100.0, 'syrup': 30.0}",130.0,10.0,5.0,300.0,45.0
 spicy_snack_0042.jpg,spicy_snack,"['corn', 'spices', 'oil']",{'snack': 50.0},50.0,8.0,2.0,150.0,18.0
 sliced_beef_0049.jpg,sliced_beef,['beef'],{'beef': 200.0},200.0,20.0,20.0,250.0,0.0
 spicy_meat_stew_0048.jpg,spicy_meat_stew,"['meat', 'potatoes', 'carrots', 'dumplings', 'spices']","{'meat': 200.0, 'vegetables': 150.0, 'dumplings': 100.0}",450.0,25.0,30.0,600.0,70.0
@@ -14709,10 +14709,10 @@ latte_0043.jpg,latte,"['milk', 'coffee', 'sugar']","{'milk': 0, 'coffee': 0, 'su
 melon_0047.jpg,melon,['melon'],{'melon': 300.0},300.0,0.2,0.5,60.0,15.0
 pan_fried_dumplings_0047.jpg,pan_fried_dumplings,"['dough', 'vegetables', 'meat']",{'dumplings': 250.0},250.0,15.0,10.0,300.0,35.0
 pan_fried_dumplings_0048.jpg,pan_fried_dumplings,"['dumpling wrappers', 'ground meat', 'vegetables', 'oil']",{'dumplings': 250.0},250.0,15.0,10.0,300.0,35.0
-egg_0046.jpg,egg,['egg'],{'egg': 50.0},50.0,11.0,13.0,155.0,1.0
+egg_0045.jpg,egg,['egg'],{'egg': 50.0},50.0,11.0,13.0,155.0,1.0
 fried_meat_0049.jpg,fried_meat,"['meat', 'oil', 'seasoning']",{'meat': 100.0},100.0,10.0,12.0,150.0,5.0
 ice_cream_cone_0042.jpg,ice_cream_cone,"['ice cream', 'wafer cone']","{'ice cream': 150.0, 'cone': 30.0}",180.0,10.0,4.0,250.0,36.0
-egg_0047.jpg,egg,['egg'],{'egg': 50.0},50.0,5.0,6.0,70.0,1.0
+egg_0046.jpg,egg,['egg'],{'egg': 50.0},50.0,5.0,6.0,70.0,1.0
 vegetable_fritters_0041.jpg,vegetable_fritters,"['zucchini', 'shrimp', 'flour', 'green onions']","{'vegetables': 200.0, 'shrimp': 50.0}",250.0,10.0,15.0,250.0,30.0
 chicken_biryani_0040.jpg,chicken_biryani,"['rice', 'chicken', 'spices', 'vegetables']","{'rice': 300.0, 'chicken': 100.0, 'vegetables': 50.0}",450.0,20.0,30.0,600.0,70.0
 shrimp_pasta_0044.jpg,shrimp_pasta,"['shrimp', 'pasta', 'tomato sauce', 'garlic', 'olive oil']","{'shrimp': 200.0, 'pasta': 150.0, 'sauce': 50.0}",400.0,15.0,30.0,600.0,80.0
@@ -14740,8 +14740,8 @@ steamed_fish_with_sauce_0045.jpg,steamed_fish_with_sauce,"['fish', 'garlic', 'gr
 fried_eggs_0047.jpg,fried_eggs,"['eggs', 'oil', 'salt', 'pepper']",{'egg': 100.0},100.0,14.0,12.0,180.0,1.0
 cheesecake_0044.jpg,cheesecake,"['cream cheese', 'sugar', 'eggs', 'graham cracker crust', 'fruit topping']",{'cheesecake': 150.0},150.0,20.0,6.0,350.0,30.0
 meatballs_0046.jpg,meatballs,"['ground meat', 'spices', 'vegetables']",{'meatballs': 300.0},300.0,20.0,25.0,300.0,5.0
-bubble_tea_0046.jpg,bubble_tea,"['Milk', 'Tapioca pearls', 'Sugar', 'Tea']",{'Bubble tea': 0},0.0,5.0,3.0,300.0,60.0
-bubble_tea_0047.jpg,bubble_tea,"['Milk', 'Tapioca pearls', 'Sugar']",{'Bubble tea': 0},0.0,5.0,3.0,300.0,60.0
+bubble_tea_0045.jpg,bubble_tea,"['Milk', 'Tapioca pearls', 'Sugar', 'Tea']",{'Bubble tea': 0},0.0,5.0,3.0,300.0,60.0
+bubble_tea_0046.jpg,bubble_tea,"['Milk', 'Tapioca pearls', 'Sugar']",{'Bubble tea': 0},0.0,5.0,3.0,300.0,60.0
 scrambled_eggs_0046.jpg,scrambled_eggs,['eggs'],{'eggs': 200.0},200.0,15.0,12.0,200.0,1.0
 avocado_0047.jpg,avocado,['avocado'],{'avocado': 2000.0},2000.0,220.0,30.0,2400.0,120.0
 stir_fried_green_peppers_with_meat_0050.jpg,stir_fried_green_peppers_with_meat,"['green peppers', 'meat', 'potatoes']","{'green peppers': 200.0, 'meat': 150.0}",350.0,20.0,25.0,350.0,30.0
@@ -14761,7 +14761,7 @@ fried_chicken_with_fries_0048.jpg,fried_chicken_with_fries,"['fried chicken', 'f
 chicken_wrap_0046.jpg,chicken_wrap,"['chicken', 'flatbread', 'lettuce', 'tomato', 'cucumber', 'sauce']","{'chicken': 150.0, 'flatbread': 100.0, 'vegetables': 100.0, 'sauce': 50.0}",400.0,20.0,30.0,500.0,50.0
 meatballs_0047.jpg,meatballs,"['meat', 'sauce', 'lettuce']","{'meatballs': 250.0, 'lettuce': 50.0}",300.0,15.0,20.0,300.0,25.0
 spaghetti_with_tomato_sauce_0049.jpg,spaghetti_with_tomato_sauce,"['spaghetti', 'tomatoes', 'ground meat', 'olive oil', 'spices']","{'pasta': 300.0, 'tomatoes': 100.0, 'olive oil': 10.0}",410.0,15.0,20.0,600.0,85.0
-spicy_chicken_wings_0037.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0036.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
 margherita_pizza_0039.jpg,margherita_pizza,"['pizza dough', 'tomato sauce', 'mozzarella cheese', 'basil']",{'pizza': 250.0},250.0,10.5,12.0,285.0,36.0
 latte_0044.jpg,latte,"['milk', 'coffee', 'flavored syrup']","{'milk': 0, 'coffee': 0, 'syrup': 0}",0.0,5.0,6.0,150.0,20.0
 fried_chicken_with_fries_0049.jpg,fried_chicken_with_fries,"['fried chicken', 'fries', 'cheese sauce', 'sesame seeds', 'ketchup']","{'fried chicken': 300.0, 'fries': 150.0}",450.0,40.0,30.0,800.0,80.0
@@ -14775,8 +14775,8 @@ latte_0045.jpg,latte,"['espresso', 'whole milk']","{'milk': 0, 'coffee': 0}",0.0
 stir_fried_noodles_with_meat_0050.jpg,stir_fried_noodles_with_meat,"['noodles', 'beef', 'bell peppers', 'garlic', 'chili peppers']","{'noodles': 200.0, 'meat': 150.0, 'vegetables': 100.0}",450.0,25.0,30.0,600.0,70.0
 beef_rice_bowl_0045.jpg,beef_rice_bowl,"['beef', 'rice', 'guacamole', 'red peppers', 'onions']","{'beef': 200.0, 'rice': 250.0, 'guacamole': 100.0}",550.0,20.0,30.0,600.0,70.0
 spicy_chicken_stew_0037.jpg,spicy_chicken_stew,"['chicken', 'spices', 'vegetables', 'herbs']","{'chicken': 300.0, 'vegetables': 100.0}",400.0,30.0,40.0,600.0,20.0
-egg_0048.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
-bubble_tea_0048.jpg,bubble_tea,"['tapioca pearls', 'milk', 'sugar', 'tea']",{'drink': 0},0.0,5.0,3.0,250.0,45.0
+egg_0047.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+bubble_tea_0047.jpg,bubble_tea,"['tapioca pearls', 'milk', 'sugar', 'tea']",{'drink': 0},0.0,5.0,3.0,250.0,45.0
 shrimp_pasta_0047.jpg,shrimp_pasta,"['pasta', 'shrimp', 'cream', 'garlic', 'cheese']","{'pasta': 300.0, 'shrimp': 100.0, 'cream': 50.0}",450.0,20.0,30.0,600.0,70.0
 chicken_wrap_0047.jpg,chicken_wrap,"['chicken', 'wrap', 'vegetables', 'spices']","{'chicken': 150.0, 'wrap': 200.0, 'vegetables': 50.0}",400.0,20.0,25.0,450.0,50.0
 korean_bbq_0043.jpg,korean_bbq,"['beef', 'pork', 'rice', 'cabbage', 'sauces']","{'beef': 200.0, 'pork': 200.0, 'rice': 150.0, 'vegetables': 100.0, 'sauces': 50.0}",700.0,70.0,80.0,1200.0,100.0
@@ -14794,13 +14794,13 @@ cookies_0050.jpg,cookies,"['flour', 'sugar', 'butter', 'eggs']",{'cookies': 200.
 noodle_soup_with_egg_0048.jpg,noodle_soup_with_egg,"['noodles', 'egg', 'broth', 'vegetables']","{'noodles': 200.0, 'egg': 50.0, 'broth': 100.0}",350.0,10.0,15.0,350.0,50.0
 vegetable_noodle_soup_0048.jpg,vegetable_noodle_soup,"['noodles', 'bean sprouts', 'green onions', 'bell peppers', 'spices']","{'noodles': 200.0, 'vegetables': 150.0}",350.0,10.0,15.0,300.0,45.0
 melon_0049.jpg,melon,['melon'],{'melon': 500.0},500.0,0.4,1.5,150.0,36.0
-egg_0049.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0048.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 avocado_0048.jpg,avocado,['avocado'],{'avocado': 200.0},200.0,15.0,2.0,160.0,9.0
 ice_cream_cone_0043.jpg,ice_cream_cone,"['ice cream', 'wafer cone']","{'ice cream': 150.0, 'cone': 30.0}",180.0,8.0,3.0,200.0,30.0
 ice_cream_cone_0044.jpg,ice_cream_cone,"['ice cream', 'wafer cone']","{'ice cream': 100.0, 'cone': 30.0}",130.0,5.0,2.0,150.0,25.0
 spicy_snack_0046.jpg,spicy_snack,"['spices', 'flour', 'oil']",{'snack': 50.0},50.0,5.0,3.0,150.0,20.0
 cheesecake_0046.jpg,cheesecake,"['cheese', 'sugar', 'eggs', 'coffee']","{'cheesecake': 150.0, 'coffee': 200.0}",350.0,25.0,8.0,450.0,45.0
-bubble_tea_0049.jpg,bubble_tea,"['milk', 'sugar', 'tapioca pearls', 'tea']","{'drink': 0, 'tapioca pearls': 100.0}",100.0,5.0,3.0,300.0,60.0
+bubble_tea_0048.jpg,bubble_tea,"['milk', 'sugar', 'tapioca pearls', 'tea']","{'drink': 0, 'tapioca pearls': 100.0}",100.0,5.0,3.0,300.0,60.0
 mixed_rice_plate_0048.jpg,mixed_rice_plate,"['rice', 'vegetables', 'meat', 'egg']","{'rice': 250.0, 'vegetables': 100.0, 'protein': 150.0}",500.0,20.0,30.0,600.0,80.0
 cheesecake_0047.jpg,cheesecake,"['cream cheese', 'sugar', 'eggs', 'graham cracker crust']",{'cheesecake': 150.0},150.0,22.0,6.0,350.0,30.0
 spicy_chicken_dish_0041.jpg,spicy_chicken_dish,"['chicken', 'spices', 'lotus root']","{'chicken': 200.0, 'spices': 50.0, 'vegetables': 100.0}",350.0,25.0,35.0,450.0,20.0
@@ -14813,11 +14813,11 @@ fried_eggs_0049.jpg,fried_eggs,['eggs'],{'egg': 100.0},100.0,14.0,12.0,180.0,1.0
 melon_0050.jpg,melon,['melon'],{'melon': 300.0},300.0,0.2,0.5,60.0,15.0
 shrimp_pasta_0048.jpg,shrimp_pasta,"['shrimp', 'pasta', 'cream sauce', 'chives']","{'shrimp': 200.0, 'pasta': 150.0, 'sauce': 100.0}",450.0,25.0,30.0,600.0,60.0
 spicy_chicken_stew_0038.jpg,spicy_chicken_stew,"['chicken', 'spices', 'green onions', 'sauce']","{'chicken': 300.0, 'sauce': 100.0}",400.0,30.0,40.0,600.0,20.0
-egg_0050.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
+egg_0049.jpg,egg,['egg'],{'egg': 50.0},50.0,4.8,6.3,68.0,0.6
 fried_chicken_with_fries_0050.jpg,fried_chicken_with_fries,"['fried chicken', 'fries', 'seasoning']","{'chicken': 200.0, 'fries': 150.0}",350.0,30.0,40.0,600.0,50.0
 ice_cream_cone_0045.jpg,ice_cream_cone,"['ice cream', 'wafer cone']","{'ice cream': 150.0, 'cone': 30.0}",180.0,8.0,3.0,200.0,30.0
 spicy_chicken_stew_0039.jpg,spicy_chicken_stew,"['chicken', 'eggs', 'spices', 'vegetables']","{'chicken': 300.0, 'eggs': 100.0, 'vegetables': 50.0}",450.0,30.0,40.0,600.0,20.0
-bubble_tea_0050.jpg,bubble_tea,"['milk', 'tapioca pearls', 'sugar']","{'milk': 0, 'tapioca pearls': 100.0, 'sugar': 20.0}",120.0,5.0,3.0,300.0,60.0
+bubble_tea_0049.jpg,bubble_tea,"['milk', 'tapioca pearls', 'sugar']","{'milk': 0, 'tapioca pearls': 100.0, 'sugar': 20.0}",120.0,5.0,3.0,300.0,60.0
 decorated_cake_0048.jpg,decorated_cake,"['flour', 'sugar', 'butter', 'cream', 'decorations']",{'cake': 200.0},200.0,15.0,5.0,350.0,50.0
 steamed_fish_with_sauce_0047.jpg,steamed_fish_with_sauce,"['fish', 'sauce', 'vegetables']","{'fish': 300.0, 'sauce': 50.0}",350.0,15.0,30.0,350.0,10.0
 mixed_rice_plate_0049.jpg,mixed_rice_plate,"['rice', 'grilled meat', 'fried egg', 'cucumber', 'lettuce', 'carrot', 'sauce']","{'rice': 200.0, 'meat': 150.0, 'egg': 50.0, 'vegetables': 100.0}",500.0,30.0,25.0,700.0,85.0
@@ -14833,7 +14833,7 @@ tacos_0046.jpg,tacos,"['beef', 'tortilla', 'lettuce', 'tomato']","{'beef': 150.0
 latte_0046.jpg,latte,"['milk', 'espresso']","{'milk': 200.0, 'espresso': 30.0}",230.0,5.0,3.0,120.0,15.0
 noodle_soup_with_egg_0050.jpg,noodle_soup_with_egg,"['noodles', 'egg', 'spinach', 'broth', 'seasoning']","{'noodles': 200.0, 'egg': 100.0, 'vegetables': 50.0}",350.0,20.0,25.0,600.0,80.0
 spicy_snack_0047.jpg,spicy_snack,"['spices', 'snack base']",{'snack': 50.0},50.0,5.0,10.0,150.0,20.0
-spicy_chicken_wings_0038.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,30.0,350.0,10.0
+spicy_chicken_wings_0037.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,30.0,350.0,10.0
 shrimp_pasta_0049.jpg,shrimp_pasta,"['pasta', 'shrimp', 'cherry tomatoes', 'olive oil', 'herbs']","{'pasta': 200.0, 'shrimp': 100.0, 'tomatoes': 50.0}",350.0,15.0,25.0,600.0,80.0
 tacos_0047.jpg,tacos,"['taco shell', 'shrimp', 'lettuce', 'mint', 'bean sprouts']","{'taco_shell': 200.0, 'shrimp': 100.0, 'vegetables': 50.0}",350.0,20.0,15.0,400.0,45.0
 spicy_snack_0048.jpg,spicy_snack,"['fried dough', 'spices', 'seasoning']",{'snack': 100.0},100.0,15.0,10.0,250.0,20.0
@@ -14869,7 +14869,7 @@ vegetable_noodle_soup_0050.jpg,vegetable_noodle_soup,"['noodles', 'vegetables', 
 chicken_wrap_0049.jpg,chicken_wrap,"['chicken', 'carrots', 'cucumbers', 'wrap']","{'chicken': 200.0, 'vegetables': 100.0, 'wrap': 50.0}",350.0,15.0,30.0,400.0,40.0
 mixed_vegetable_salad_0044.jpg,mixed_vegetable_salad,"['lettuce', 'tomatoes', 'cucumber', 'bell pepper', 'basil']","{'lettuce': 100.0, 'tomatoes': 150.0, 'cucumber': 100.0, 'bell pepper': 50.0}",400.0,5.0,4.0,150.0,25.0
 pan_fried_dumplings_0050.jpg,pan_fried_dumplings,"['dumpling wrappers', 'ground meat', 'vegetables', 'sesame oil']",{'dumplings': 250.0},250.0,15.0,12.0,300.0,30.0
-spicy_chicken_wings_0039.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'seasoning']","{'chicken_wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0038.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'seasoning']","{'chicken_wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
 margherita_pizza_0044.jpg,margherita_pizza,"['pizza dough', 'tomato sauce', 'mozzarella cheese', 'basil']",{'pizza': 250.0},250.0,10.0,12.0,285.0,36.0
 grilled_chicken_skewers_0046.jpg,grilled_chicken_skewers,"['chicken', 'bell peppers', 'onions']","{'chicken': 200.0, 'vegetables': 50.0}",250.0,15.0,20.0,250.0,5.0
 meatballs_0049.jpg,meatballs,"['ground meat', 'herbs', 'spices']",{'meatballs': 400.0},400.0,20.0,25.0,300.0,5.0
@@ -14885,10 +14885,10 @@ grilled_chicken_with_rice_0041.jpg,grilled_chicken_with_rice,"['rice', 'grilled 
 korean_bbq_0047.jpg,korean_bbq,"['beef', 'kimchi', 'garlic', 'spinach', 'sesame seeds']","{'meat': 200.0, 'kimchi': 100.0, 'vegetables': 50.0}",350.0,30.0,40.0,600.0,50.0
 stir_fried_shrimp_0047.jpg,stir_fried_shrimp,"['shrimp', 'green onions', 'cilantro', 'chili peppers']","{'shrimp': 200.0, 'vegetables': 100.0}",300.0,10.0,20.0,250.0,15.0
 margherita_pizza_0045.jpg,margherita_pizza,"['pizza dough', 'tomato sauce', 'mozzarella cheese', 'basil']",{'pizza slice': 150.0},150.0,10.5,12.0,285.0,36.0
-spicy_chicken_wings_0040.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red peppers']","{'chicken': 300.0, 'sauce': 50.0}",350.0,20.0,25.0,350.0,15.0
+spicy_chicken_wings_0039.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red peppers']","{'chicken': 300.0, 'sauce': 50.0}",350.0,20.0,25.0,350.0,15.0
 grilled_chicken_skewers_0048.jpg,grilled_chicken_skewers,"['chicken', 'sauce']","{'chicken': 200.0, 'sauce': 50.0}",250.0,15.0,20.0,250.0,10.0
 mixed_vegetable_salad_0045.jpg,mixed_vegetable_salad,"['lotus root', 'vegetables', 'chicken']","{'lotus_root': 150.0, 'vegetables': 100.0, 'chicken': 100.0}",350.0,10.0,15.0,250.0,30.0
-spicy_chicken_wings_0041.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0040.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
 spicy_chicken_stew_0042.jpg,spicy_chicken_stew,"['chicken', 'vegetables', 'spices', 'sauce']","{'chicken': 300.0, 'vegetables': 150.0, 'sauce': 100.0}",550.0,30.0,40.0,600.0,50.0
 vegetable_fritters_0045.jpg,vegetable_fritters,"['vegetables', 'flour', 'spices', 'oil']",{'vegetable fritters': 300.0},300.0,10.0,5.0,250.0,35.0
 lemon_0049.jpg,lemon,['lemon'],{'lemon': 200.0},200.0,0.3,1.1,29.0,9.3
@@ -14900,7 +14900,7 @@ chicken_wrap_0050.jpg,chicken_wrap,"['chicken', 'lettuce', 'tomato', 'wrap', 'sa
 vegetable_fritters_0046.jpg,vegetable_fritters,"['potato', 'carrot', 'flour', 'spices']","{'potato': 150.0, 'carrot': 50.0, 'flour': 100.0}",300.0,12.0,5.0,250.0,30.0
 korean_bbq_0048.jpg,korean_bbq,"['grilled meat', 'vegetables', 'sauces']","{'meat': 300.0, 'side dishes': 200.0}",500.0,50.0,60.0,800.0,30.0
 grilled_chicken_with_rice_0043.jpg,grilled_chicken_with_rice,"['chicken', 'rice', 'lettuce', 'cucumber', 'tomato', 'carrots']","{'chicken': 200.0, 'rice': 150.0, 'vegetables': 100.0}",450.0,25.0,40.0,700.0,80.0
-spicy_chicken_wings_0042.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'pepper']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
+spicy_chicken_wings_0041.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'garlic', 'pepper']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
 spicy_chicken_dish_0043.jpg,spicy_chicken_dish,"['chicken', 'spices', 'sauce']","{'chicken': 200.0, 'spices': 50.0}",250.0,25.0,35.0,450.0,20.0
 beef_rice_bowl_0049.jpg,beef_rice_bowl,"['rice', 'beef', 'egg', 'wasabi']","{'rice': 200.0, 'beef': 150.0, 'egg': 50.0}",400.0,30.0,40.0,600.0,50.0
 grilled_chicken_skewers_0049.jpg,grilled_chicken_skewers,"['chicken', 'spices', 'lettuce']","{'chicken': 200.0, 'sauce': 50.0}",250.0,10.0,20.0,250.0,5.0
@@ -14909,9 +14909,9 @@ tacos_0049.jpg,tacos,"['tortilla', 'ground beef', 'cheese', 'lettuce', 'tomato',
 cheeseburger_with_fries_0047.jpg,cheeseburger_with_fries,"['beef patty', 'cheese', 'burger bun', 'lettuce', 'tomato', 'fries']","{'burger': 250.0, 'fries': 150.0}",400.0,40.0,35.0,800.0,60.0
 spicy_chicken_stew_0043.jpg,spicy_chicken_stew,"['chicken', 'green onions', 'dried chilies', 'spices']","{'chicken': 300.0, 'vegetables': 100.0}",400.0,20.0,30.0,450.0,15.0
 margherita_pizza_0046.jpg,margherita_pizza,"['pizza dough', 'mozzarella cheese', 'tomato sauce', 'basil']",{'pizza': 300.0},300.0,10.5,12.0,285.0,36.0
-spicy_chicken_wings_0043.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'vegetables', 'sesame seeds']","{'chicken wings': 300.0, 'sauce': 100.0, 'vegetables': 50.0}",450.0,30.0,40.0,600.0,20.0
+spicy_chicken_wings_0042.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'vegetables', 'sesame seeds']","{'chicken wings': 300.0, 'sauce': 100.0, 'vegetables': 50.0}",450.0,30.0,40.0,600.0,20.0
 rice_with_meat_0050.jpg,rice_with_meat,"['rice', 'meat']","{'rice': 250.0, 'meat': 100.0}",350.0,5.0,10.0,300.0,55.0
-spicy_chicken_wings_0044.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce']",{'chicken_wings': 300.0},300.0,25.0,30.0,400.0,10.0
+spicy_chicken_wings_0043.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce']",{'chicken_wings': 300.0},300.0,25.0,30.0,400.0,10.0
 spicy_chicken_dish_0044.jpg,spicy_chicken_dish,"['chicken', 'spices', 'green onions', 'sauce']","{'chicken': 300.0, 'sauce': 100.0}",400.0,40.0,50.0,600.0,10.0
 spicy_chicken_dish_0045.jpg,spicy_chicken_dish,"['chicken', 'spices', 'lotus root', 'green onions']","{'chicken': 300.0, 'spices': 50.0, 'vegetables': 100.0}",450.0,30.0,50.0,600.0,20.0
 chicken_biryani_0042.jpg,chicken_biryani,"['rice', 'chicken', 'spices', 'green chilies', 'coriander']","{'rice': 300.0, 'chicken': 150.0, 'spices': 50.0}",500.0,20.0,30.0,600.0,70.0
@@ -14942,8 +14942,8 @@ chicken_biryani_0045.jpg,chicken_biryani,"['chicken', 'rice', 'spices', 'tomatoe
 cheesecake_0050.jpg,cheesecake,"['cream cheese', 'sugar', 'butter', 'graham cracker crust', 'raspberries', 'whipped cream']",{'cheesecake': 100.0},100.0,15.0,5.0,250.0,30.0
 grilled_chicken_with_rice_0045.jpg,grilled_chicken_with_rice,"['rice', 'grilled chicken', 'sauce']","{'rice': 300.0, 'grilled chicken': 150.0, 'sauce': 50.0}",500.0,20.0,30.0,600.0,70.0
 margherita_pizza_0049.jpg,margherita_pizza,"['mozzarella cheese', 'tomato sauce', 'basil', 'olive oil']",{'pizza': 400.0},400.0,30.0,35.0,800.0,90.0
-spicy_chicken_wings_0045.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'red chili peppers', 'garlic']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
-spicy_chicken_wings_0046.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0044.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'red chili peppers', 'garlic']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
+spicy_chicken_wings_0045.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,5.0
 chicken_sandwich_0046.jpg,chicken_sandwich,"['chicken', 'lettuce', 'bread', 'sauce']","{'chicken': 150.0, 'lettuce': 50.0, 'bread': 100.0}",300.0,20.0,25.0,450.0,40.0
 margherita_pizza_0050.jpg,margherita_pizza,"['pizza dough', 'tomato sauce', 'mozzarella cheese', 'basil', 'cherry tomatoes']",{'pizza': 300.0},300.0,10.5,12.0,285.0,36.0
 ice_cream_cone_0050.jpg,ice_cream_cone,"['ice cream', 'cone', 'chocolate topping']",{'ice cream cone': 200.0},200.0,15.0,5.0,300.0,40.0
@@ -14958,7 +14958,7 @@ cheeseburger_with_fries_0049.jpg,cheeseburger_with_fries,"['hamburger bun', 'bee
 mixed_vegetable_and_meat_dish_0049.jpg,mixed_vegetable_and_meat_dish,"['meat', 'corn', 'peas', 'mushrooms']","{'meat': 200.0, 'corn': 150.0, 'peas': 100.0, 'mushrooms': 100.0}",550.0,25.0,30.0,600.0,60.0
 cheeseburger_with_fries_0050.jpg,cheeseburger_with_fries,"['beef patty', 'cheese', 'lettuce', 'tomato', 'burger bun', 'french fries']","{'burger': 250.0, 'fries': 150.0}",400.0,40.0,30.0,800.0,80.0
 stir_fried_shrimp_0049.jpg,stir_fried_shrimp,"['shrimp', 'green onions', 'red chili peppers', 'garlic']","{'shrimp': 250.0, 'vegetables': 100.0}",350.0,10.0,25.0,300.0,15.0
-spicy_chicken_wings_0047.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,30.0,350.0,10.0
+spicy_chicken_wings_0046.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,30.0,350.0,10.0
 korean_bbq_0049.jpg,korean_bbq,"['beef', 'chicken', 'green peppers', 'lettuce', 'bread']","{'meat': 300.0, 'vegetables': 150.0, 'bread': 200.0}",650.0,80.0,70.0,1200.0,100.0
 spicy_chicken_stew_0047.jpg,spicy_chicken_stew,"['chicken', 'cilantro', 'green onions', 'spices', 'sauce']","{'chicken': 300.0, 'vegetables': 150.0}",450.0,30.0,40.0,600.0,20.0
 grilled_chicken_with_rice_0046.jpg,grilled_chicken_with_rice,"['chicken', 'rice', 'lettuce', 'spices']","{'chicken': 200.0, 'rice': 150.0, 'lettuce': 50.0}",400.0,30.0,40.0,600.0,50.0
@@ -14969,12 +14969,12 @@ mixed_vegetable_salad_0048.jpg,mixed_vegetable_salad,"['lettuce', 'tomatoes', 'c
 stir_fried_shrimp_0050.jpg,stir_fried_shrimp,"['shrimp', 'green onions', 'red chili', 'soy sauce']","{'shrimp': 250.0, 'sauce': 50.0}",300.0,15.0,25.0,300.0,10.0
 vegetable_fritters_0048.jpg,vegetable_fritters,"['flour', 'vegetables', 'oil']",{'fritters': 200.0},200.0,15.0,6.0,300.0,35.0
 latte_0048.jpg,latte,"['espresso', 'whole milk']","{'milk': 200.0, 'espresso': 30.0}",230.0,6.0,6.0,120.0,12.0
-spicy_chicken_wings_0048.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce']",{'chicken wings': 300.0},300.0,25.0,30.0,400.0,5.0
+spicy_chicken_wings_0047.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce']",{'chicken wings': 300.0},300.0,25.0,30.0,400.0,5.0
 scrambled_eggs_0050.jpg,scrambled_eggs,"['eggs', 'sauce', 'green onions']","{'eggs': 200.0, 'sauce': 50.0}",250.0,20.0,25.0,300.0,5.0
 chicken_biryani_0047.jpg,chicken_biryani,"['rice', 'chicken', 'spices', 'vegetables', 'lemon']","{'rice': 300.0, 'chicken': 200.0, 'vegetables': 50.0}",550.0,30.0,40.0,800.0,90.0
 chicken_sandwich_0048.jpg,chicken_sandwich,"['bread', 'chicken', 'lettuce', 'tomato']","{'bread': 150.0, 'chicken': 100.0, 'vegetables': 50.0}",300.0,15.0,20.0,400.0,50.0
 meatballs_0050.jpg,meatballs,"['ground meat', 'breadcrumbs', 'egg', 'spices', 'sauce']",{'meatballs': 400.0},400.0,30.0,40.0,600.0,20.0
-spicy_chicken_wings_0049.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,30.0,400.0,10.0
+spicy_chicken_wings_0048.jpg,spicy_chicken_wings,"['chicken wings', 'spicy sauce', 'green onions', 'red chili']","{'chicken wings': 300.0, 'sauce': 50.0}",350.0,20.0,30.0,400.0,10.0
 steamed_clams_0049.jpg,steamed_clams,"['clams', 'green onions', 'sauce']","{'clams': 300.0, 'sauce': 50.0}",350.0,10.0,20.0,250.0,15.0
 steamed_clams_0050.jpg,steamed_clams,"['clams', 'celery']","{'clams': 300.0, 'celery': 50.0}",350.0,3.5,25.0,200.0,5.0
 grilled_chicken_with_rice_0047.jpg,grilled_chicken_with_rice,"['chicken', 'rice', 'vegetables']","{'chicken': 200.0, 'rice': 150.0, 'vegetables': 100.0}",450.0,20.0,40.0,600.0,70.0
@@ -14990,7 +14990,7 @@ vegetable_fritters_0049.jpg,vegetable_fritters,"['vegetables', 'batter', 'spices
 mixed_vegetable_salad_0049.jpg,mixed_vegetable_salad,"['green beans', 'onions', 'chili peppers', 'garlic', 'coriander']","{'vegetables': 300.0, 'spices': 50.0}",350.0,5.0,3.0,150.0,20.0
 latte_0049.jpg,latte,"['espresso', 'whole milk']","{'milk': 200.0, 'espresso': 30.0}",230.0,6.0,6.0,120.0,12.0
 mixed_vegetable_salad_0050.jpg,mixed_vegetable_salad,"['lettuce', 'red cabbage', 'carrots', 'salad dressing']","{'lettuce': 100.0, 'cabbage': 50.0, 'carrots': 30.0, 'dressing': 20.0}",200.0,7.0,3.0,150.0,20.0
-spicy_chicken_wings_0050.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce', 'chili']","{'chicken_wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
+spicy_chicken_wings_0049.jpg,spicy_chicken_wings,"['chicken wings', 'spices', 'sauce', 'chili']","{'chicken_wings': 300.0, 'sauce': 50.0}",350.0,25.0,30.0,400.0,10.0
 spicy_chicken_stew_0049.jpg,spicy_chicken_stew,"['chicken', 'red chili', 'green chili', 'cilantro', 'spices']","{'chicken': 300.0, 'vegetables': 100.0}",400.0,25.0,30.0,450.0,20.0
 spicy_chicken_dish_0048.jpg,spicy_chicken_dish,"['chicken', 'spices', 'sauce']","{'chicken': 200.0, 'sauce': 50.0, 'spices': 10.0}",260.0,25.0,35.0,450.0,10.0
 vegetable_fritters_0050.jpg,vegetable_fritters,"['vegetables', 'flour', 'egg', 'spices']","{'vegetables': 200.0, 'batter': 100.0}",300.0,15.0,10.0,250.0,20.0
