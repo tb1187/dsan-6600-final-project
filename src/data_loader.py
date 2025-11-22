@@ -14,6 +14,8 @@ class FoodDataset(Dataset):
             csv_path: str, # where cleaned-food-data.csv is stored
             img_dir: str, # data/data/images
             portion_macro_cols: Sequence[str]= ("portion_total_g", "calories_kcal", "protein_g", "fat_g", "carbohydrate_g"),
+            target_mean = None,
+            target_std = None,
             transform: Optional[transforms.Compose] = None
     ):
         super().__init__()
@@ -27,6 +29,15 @@ class FoodDataset(Dataset):
         valid_mask = self.df["image_url"].apply(lambda name: os.path.exists(os.path.join(self.img_dir, name)))
         self.df = self.df[valid_mask].reset_index(drop = True)
         self.targets = self.df[self.portion_macro_cols].values.astype("float32")
+
+        # Normalize targets
+        if target_mean is not None:
+            self.target_mean = target_mean
+            self.target_std = target_std
+            self.targets = (self.targets - target_mean) / target_std
+        else:
+            self.target_mean = None
+            self.target_std = None
 
     def __getitem__(self, idx):
         row = self.df.iloc[idx]
