@@ -156,7 +156,7 @@ def main():
     download_images(df)
 
     # Save dataset
-    df.to_csv("./cleaned-food-data.csv", index = False)
+    df.to_csv("data/cleaned-food-data.csv", index = False)
 
 if __name__ == "__main__":
     main()
