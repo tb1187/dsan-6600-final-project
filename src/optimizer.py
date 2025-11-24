@@ -9,10 +9,10 @@ class Optimizer:
     def __init__(
         self,
         model,
-        train_data,
-        val_data,
-        epochs=20,
-        lr=1e-4,
+        train_data, # Training data from the loader class
+        val_data, # Validation data from the loader class
+        epochs=20, # Epochs for training, can be increased as needed
+        lr=1e-4, # Initial learning rate
         device="cuda",
         use_scheduler=True, #dynamically adjusts learning rate
         patience=3 #for early stopping
@@ -40,10 +40,10 @@ class Optimizer:
         criterion = nn.MSELoss()
         optimizer = torch.optim.Adam(model.parameters(), lr=self.lr)
 
-        # LR Scheduler
+        # LR Scheduler (This scheduler decreases learning rate when loss increases)
         scheduler = (
             torch.optim.lr_scheduler.ReduceLROnPlateau(
-                optimizer, mode="min", patience=1, factor=0.1)
+                optimizer, mode="min", patience=1, factor=0.1) 
             if self.use_scheduler
             else None
         )
@@ -57,7 +57,7 @@ class Optimizer:
 
             # Training
             model.train()
-            train_loss = 0.0
+            train_loss = 0.0 # initialize training loss
 
             for images, dish_ids, targets in tqdm(
                 self.train_data,
@@ -67,6 +67,7 @@ class Optimizer:
                 dish_ids = dish_ids.to(self.device)
                 targets = targets.to(self.device)
 
+                # Compute loss; backprop to improve gradients
                 optimizer.zero_grad()
                 preds = model(images, dish_ids)
                 loss = criterion(preds, targets)
@@ -75,14 +76,15 @@ class Optimizer:
 
                 train_loss += loss.item() * images.size(0)
 
+            # Append training loss of epoch to list for later plotting
             train_loss /= len(self.train_data.dataset)
             self.training_losses.append(train_loss)
 
-
             # Validation
             model.eval()
-            val_loss = 0.0
+            val_loss = 0.0 # initialize validation loss
 
+            # Compute validation loss
             with torch.no_grad():
                 for images, dish_ids, targets in tqdm(
                     self.val_data,
@@ -96,6 +98,7 @@ class Optimizer:
                     loss = criterion(preds, targets)
                     val_loss += loss.item() * images.size(0)
 
+            # Append validation loss of epoch to list for later plotting
             val_loss /= len(self.val_data.dataset)
             self.validation_losses.append(val_loss)
 
