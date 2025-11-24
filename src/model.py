@@ -5,7 +5,9 @@ import torchvision.models as models
 class FoodRegressor(nn.Module):
     def __init__(self, 
                  pretrained_model_name = "resnet18", # pretrained model, can tune later 
+                 num_dishes: int = 300, # number of dishes in dataset (300 now)
                  hidden_dim: int = 512, # size of regression head, can tune later 
+                 dish_emb_dim: int = 32, # embedding dimension for dish IDs, can tune later
                  dropout: float = 0.0, # dropout rate, can tune later
                  out_dim: int = 5, # portion + macros
                  freeze_pretrained: bool = False): # Parameter to freeze the pretrained model weights
@@ -34,9 +36,14 @@ class FoodRegressor(nn.Module):
 
         self.pretrained_model = pretrained_model # set pretrained model
 
+        # Create dish embedding layer
+        self.dish_embedding = nn.Embedding(num_embeddings=num_dishes, embedding_dim=dish_emb_dim, max_norm=1)
+
         # Create the regression head
         # This will either be a 512-512 connection or a 2048-512 connection depending on model
-        layers = [nn.Linear(feat_dim, hidden_dim), nn.ReLU(inplace = True)]
+        # Concatenate embedding dimension prior to substantiating layers
+        input_dim = feat_dim + dish_emb_dim
+        layers = [nn.Linear(input_dim, hidden_dim), nn.ReLU(inplace = True)]
 
         # Conditionally add dropout
         if dropout > 0.0:
@@ -48,8 +55,10 @@ class FoodRegressor(nn.Module):
         # Initialize the regression head
         self.reg_head = nn.Sequential(*layers)
 
-    def forward(self, x):
+    def forward(self, x, dish_ids):
         features = self.pretrained_model(x) # feature generation using pretrained model
-        output = self.reg_head(features) # regression output
+        dish_vec = self.dish_embedding(dish_ids) # vector of embeddings
+        combined = torch.cat([features, dish_vec], dim=1) # combine features with embeddings
+        output = self.reg_head(combined) # regression output
         return output
 

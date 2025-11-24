@@ -39,6 +39,14 @@ class FoodDataset(Dataset):
             self.target_mean = None
             self.target_std = None
 
+        # Create dish name -> ID mapping for future embedding in the model
+        dish_names = sorted(self.df["dish_name"].unique())
+        self.dish_to_id = {dish: i for i, dish in enumerate(dish_names)}
+        self.id_to_dish = {i: dish for dish, i in self.dish_to_id.items()}
+
+        self.dish_ids = self.df["dish_name"].apply(lambda d: self.dish_to_id[d]).values.astype("int64")
+
+
     def __getitem__(self, idx):
         row = self.df.iloc[idx]
 
@@ -51,9 +59,14 @@ class FoodDataset(Dataset):
         if self.transform is not None:
             image = self.transform(image)
 
+        # Extract dish IDs
+        dish_id = self.dish_ids[idx]
+        dish_id = torch.tensor(dish_id, dtype=torch.long) # convert to tensor for future handling
+
         target = torch.from_numpy(self.targets[idx]) # Targets
 
-        return image, target
+        return image, dish_id, target
     
     def __len__(self):
         return len(self.df)
+    
