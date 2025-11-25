@@ -133,7 +133,7 @@ class Optimizer:
 
 
     # Plot Loss Curve
-    def plot(self):
+    def plot(self, save_path = None):
         plt.figure(figsize=(8, 5))
         plt.plot(self.training_losses, label="Training Loss", marker="o")
         plt.plot(self.validation_losses, label="Validation Loss", marker="o")
@@ -142,4 +142,8 @@ class Optimizer:
         plt.title("Training vs Validation Loss")
         plt.grid(True)
         plt.legend()
+
+        if save_path is not None:
+            plt.savefig(save_path, dpi = 300, bbox_inches = "tight")
+            
         plt.show()
