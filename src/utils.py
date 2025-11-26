@@ -9,9 +9,3 @@ def get_transforms(img_size = 224):
         transforms.Normalize(mean = [0.485, 0.456, 0.406], std = [0.229, 0.224, 0.225]) # Derived from ImageNet
     ])
     return transform
-
-def load_model(path="best_regressor.pt", device="cpu"):
-    model = FoodRegressorModel().to(device)
-    model.load_state_dict(torch.load(path, map_location=device))
-    model.eval()
-    return model
