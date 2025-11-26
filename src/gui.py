@@ -7,10 +7,6 @@ from data_loader import FoodDataset
 from utils import get_transforms
 from optimizer import Optimizer
 from PIL import Image
-
-# ----------------------------
-# PYQT5 IMPORTS
-# ----------------------------
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QTextEdit,
     QVBoxLayout, QHBoxLayout, QLineEdit, QComboBox, QFileDialog
@@ -19,9 +15,7 @@ from PyQt5.QtGui import QPixmap
 from PyQt5.QtCore import Qt
 
 
-# ----------------------------
 # Load model function
-# ----------------------------
 def load_model(path="./models/model_1.pt", device="cpu"):
     model = FoodRegressor().to(device)
     model.load_state_dict(torch.load(path, map_location=device))
@@ -29,9 +23,7 @@ def load_model(path="./models/model_1.pt", device="cpu"):
     return model
 
 
-# ----------------------------
 # GUI Application
-# ----------------------------
 class AppGUI(QWidget):
 
     def __init__(self):
@@ -44,9 +36,7 @@ class AppGUI(QWidget):
         self.regressor = load_model(device=self.device)
         self.image_path = None
 
-        # ---------------------------
         # IMAGE DISPLAY AREA
-        # ---------------------------
         self.image_label = QLabel("No image selected.\nClick 'Upload Image' to choose a meal photo.")
         self.image_label.setAlignment(Qt.AlignCenter)
         self.image_label.setMinimumHeight(350)
@@ -59,9 +49,7 @@ class AppGUI(QWidget):
             }
         """)
 
-        # ---------------------------
         # Buttons: Upload + Analyze
-        # ---------------------------
         self.upload_button = QPushButton("Upload Image")
         self.upload_button.clicked.connect(self.upload_image)
         self.upload_button.setStyleSheet("""
@@ -100,9 +88,7 @@ class AppGUI(QWidget):
         buttons_row.addWidget(self.upload_button)
         buttons_row.addWidget(self.run_button)
 
-        # ---------------------------
         # PHYSICAL STATS INPUTS
-        # ---------------------------
         self.height_input = QLineEdit()
         self.height_input.setPlaceholderText("Height")
         self.height_input.setStyleSheet("padding: 6px; border-radius: 6px; font-size: 15px;")
@@ -132,9 +118,7 @@ class AppGUI(QWidget):
             }
         """)
 
-        # ---------------------------
         # OUTPUT BOX
-        # ---------------------------
         self.output_box = QTextEdit()
         self.output_box.setReadOnly(True)
         self.output_box.setStyleSheet("""
@@ -145,9 +129,7 @@ class AppGUI(QWidget):
             }
         """)
 
-        # ---------------------------
         # LAYOUT
-        # ---------------------------
         layout = QVBoxLayout()
         layout.setContentsMargins(20, 20, 20, 20)
         layout.setSpacing(16)
@@ -171,9 +153,8 @@ class AppGUI(QWidget):
 
         self.setLayout(layout)
 
-    # ==================================================
+
     # File upload
-    # ==================================================
     def upload_image(self):
         file_path, _ = QFileDialog.getOpenFileName(
             self,
@@ -194,9 +175,8 @@ class AppGUI(QWidget):
         self.image_label.setPixmap(pixmap)
         self.run_button.setEnabled(True)
 
-    # ==================================================
+
     # MODEL INFERENCE
-    # ==================================================
     def run_inference(self):
 
         if not self.image_path:
