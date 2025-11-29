@@ -176,7 +176,7 @@ class AppGUI(QWidget):
         self.run_button.setEnabled(True)
 
 
-    # MODEL INFERENCE
+    # MODEL INFERENCE (Needs to be changed once LLM wrapper implemented)
     def run_inference(self):
 
         if not self.image_path:
