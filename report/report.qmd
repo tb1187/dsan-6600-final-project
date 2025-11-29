@@ -12,7 +12,7 @@ link-citations: true
 
 # Abstract
 
-Accurate dieting requires manual input from the individual, requiring them to carefully measure the portion, macros, and quality of their food. Recent developments in the deep learning space attempt to automate this process, leveraging convolutional neural network (CNN) architectures to predict food types with semantic image segmentation as well as food volumne using pixel distances from the camera. However, no one has accurately solved this issue yet. We add the body of research by building a multimodal graphical user interface (GUI) that leverages a CNN to predict portion sizes and macros as well as a LLM wrapper that gives personalized dietary advice based on the food's content. The CNN is trained on the MM-Food-100K dataset - a state of the art food dataset contianing information about ingredients used, portion size, nutritional profile, cooking method, and more. The developed CNN used ResNet18 pretrained weights, a regression head size of 512, and a dropout rate of __. The LLM wrapper used leverages OpenAI's __ model to generate personalized dietary advice based on food macros, physical characteristics, and dietary goals. This is integrated into a simple GUI that consolodates the process into a simple, easy to use platform. The trained model performed well, achieving a MSE of __. With this GUI, users are able to get real-time improvements to their diet, helping them achieve their goals faster.
+Accurate dieting requires manual input from the individual, requiring them to carefully measure the portion, macros, and quality of their food. Recent developments in the deep learning space attempt to automate this process, leveraging convolutional neural network (CNN) architectures to predict food types with semantic image segmentation as well as food volumne using pixel distances from the camera. However, no one has accurately solved this issue yet. We add the body of research by building a multimodal graphical user interface (GUI) that leverages a CNN to predict portion sizes and macros as well as a LLM wrapper that gives personalized dietary advice based on the food's content. The CNN is trained on the MM-Food-100K dataset - a state of the art food dataset contianing information about ingredients used, portion size, nutritional profile, cooking method, and more. The developed CNN used ResNet18 pretrained weights, a regression head size of 512, and a dropout rate of _ (fill in the blank). The LLM wrapper used leverages OpenAI's model (fill in exact model) to generate personalized dietary advice based on food macros, physical characteristics, and dietary goals. This is integrated into a simple GUI that consolodates the process into a simple, easy to use platform. The trained model performed well, achieving a MSE of __. With this GUI, users are able to get real-time improvements to their diet, helping them achieve their goals faster.
 
 # 1. Introduction
 
@@ -22,16 +22,6 @@ Automated food recognition and nutritional estimation are emerging research area
 # 2. Related Work
 
 Tyler should do this part since he is more familiar with the literature.
-
-Summarize 3–6 works related to:
-- Food image classification datasets  
-- Food portion estimation  
-- CNNs for regression  
-- GUI-based ML applications  
-
-Example inline citations:  
-Food recognition approaches have advanced significantly in recent years @bossard2014food101.  
-Image-based nutrition estimation remains an active research area @myers2015im2calories.
 
 # 3. Methods
 
