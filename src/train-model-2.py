@@ -7,7 +7,6 @@ from optimizer import Optimizer
 import torch
 from torch.utils.data import Subset
 from torch.utils.data import DataLoader
-import numpy as np
 import json
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -25,12 +24,15 @@ base_dataset = FoodDataset(
 print("Filtered dataset size:", len(base_dataset))
 
 n = len(base_dataset) # total samples
-n_val = int(n * 0.2) # 80-20 train val split
-n_train = n - n_val
+n_test = int(n * 0.15)
+n_val = int(n * 0.15) # 70-15-15 train val test split
+n_train = n - n_val - n_test
 
 all_indices = torch.randperm(n) # shuffle the data
+
 train_indices = all_indices[:n_train].tolist() # indices for training samples
-val_indices = all_indices[n_train:].tolist() # indices for val samples
+val_indices = all_indices[n_train:n_train + n_val].tolist() # indices for val samples
+test_indices  = all_indices[n_train + n_val:].tolist() # indices to test samples
 
 targets_all = base_dataset.targets # all of the targets in the base dataset
 train_targets = targets_all[train_indices]
@@ -53,6 +55,7 @@ dataset = FoodDataset(
 
 train_dataset = Subset(dataset, train_indices)
 val_dataset = Subset(dataset, val_indices)
+test_dataset = Subset(dataset, test_indices)
 
 train_loader = DataLoader(train_dataset, batch_size = 32, shuffle = True)
 val_loader = DataLoader(val_dataset, batch_size = 32, shuffle = False)
@@ -94,10 +97,14 @@ results = {
     "train_losses": opt.training_losses,
     "val_losses": opt.validation_losses,
     "target_mean": target_mean.tolist(),
-    "target_std": target_std.tolist()
+    "target_std": target_std.tolist(),
+    "train_indices": train_indices,
+    "val_indices": val_indices,
+    "test_indices": test_indices,
+    "num_dishes": num_dishes,
 }
 
 with open("../models/model2_metadata.json", "w") as f:
     json.dump(results, f, indent=4)
 
-print(f"Saved plot to {plot_save_path}")
+print(f"Saved training metadata")

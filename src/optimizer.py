@@ -108,18 +108,15 @@ class Optimizer:
 
 
             # Early Stopping Considerations (check to see if model is overfitting)
-            if val_loss > train_loss:
-                overfit_counter += 1 # if 3, early stopping initiated
-            else:
-                overfit_counter = 0  # reset when not overfitting
-
-            # Track best model weights
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
-                best_weights = copy.deepcopy(model.state_dict()) #writes 'best weights' to variable
+                best_weights = copy.deepcopy(model.state_dict())
+                overfit_counter = 0 # reset when not overfitting
+            else:
+                overfit_counter += 1  # add to counter when no improvement
 
             # Check stopping condition
-            if overfit_counter == self.patience:
+            if overfit_counter >= self.patience:
                 print("Early stopping activated due to overfitting.")
                 print(f"Restoring best model (val_loss={best_val_loss:.4f})\n")
                 model.load_state_dict(best_weights)
