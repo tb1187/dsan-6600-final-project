@@ -4,9 +4,12 @@ import torch.nn as nn
 from torchvision import transforms
 from model import FoodRegressor
 from data_loader import FoodDataset
+from llm_wrapper import generate_nutrition_advice
 from utils import get_transforms
 from optimizer import Optimizer
 from PIL import Image
+import json
+import numpy as np
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QTextEdit,
     QVBoxLayout, QHBoxLayout, QLineEdit, QComboBox, QFileDialog
@@ -16,7 +19,7 @@ from PyQt5.QtCore import Qt
 
 
 # Load model function
-def load_model(path="./models/model_1.pt", device="cpu"):
+def load_model(path="../models/model_1.pt", device="cpu"):
     model = FoodRegressor().to(device)
     model.load_state_dict(torch.load(path, map_location=device))
     model.eval()
@@ -153,6 +156,13 @@ class AppGUI(QWidget):
 
         self.setLayout(layout)
 
+        # Load the saved mean and std dev from the model metadata for denormalization
+        with open("../models/model1_metadata.json") as f:
+            metadata = json.load(f)
+
+        self.target_mean = np.array(metadata["target_mean"])
+        self.target_std = np.array(metadata["target_std"])
+
 
     # File upload
     def upload_image(self):
@@ -190,9 +200,15 @@ class AppGUI(QWidget):
         transformations = get_transforms()
         img_tensor = transformations(img).unsqueeze(0).to(self.device)
 
+        # Define a dummy dish id to pass to the model
+        dummy_id = torch.tensor([0], dtype = torch.long).to(self.device)
+
         # Run model
         with torch.no_grad():
-            macros = self.regressor(img_tensor).cpu().numpy()[0]
+            macros = self.regressor(img_tensor, dummy_id).cpu().numpy()[0]
+
+        # Denormalize
+        macros = macros * self.target_std + self.target_mean
 
         # Format output (assuming: [portion, calories, protein, fat, carbs])
         macro_text = (
@@ -203,7 +219,23 @@ class AppGUI(QWidget):
             f"Carbs:    {macros[4]:.2f} g\n"
         )
 
-        self.output_box.setPlainText(macro_text)
+        # Format user profile for llm input
+        user_profile = {
+            "height": self.height_input.text(),
+            "weight": self.weight_input.text(),
+            "age": self.age_input.text()
+        }
+
+        # Format user goal for llm input
+        goal = self.goal_dropdown.currentText()
+
+        # Format user notes for llm input
+        notes = self.user_input.toPlainText()
+
+        # Generate recommendation
+        rec = generate_nutrition_advice(macro_text, user_profile, goal, notes)
+
+        self.output_box.setPlainText(macro_text + "\n" + rec)
 
 
 # ----------------------------
