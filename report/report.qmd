@@ -1,7 +1,7 @@
 ---
 title: "Personalized Nutritional Recommendations from Food Images Using a Multimodal GUI"
 author: "Chase Clemence & Tyler Blue"
-date: "`r format(Sys.Date(), '%Y-%m-%d')`"
+date: "today"
 format:
   pdf:
     toc: true
