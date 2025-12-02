@@ -26,7 +26,7 @@ def generate_nutrition_advice(macros, user_profile, goal, user_notes = ""):
     Provide a nutritional recommendation considering the following:
     - Provide friendly advice that is encouraging to the user.
     - Find something positive to say about the meal.
-    - Find at least one thing to improve upon. 
+    - Find at least one thing to improve upson. 
     - Say how the meal they just ate fits into their goal if applicable ({goal}).
     - Provide tips for the user next meal. Provide general tips such as types of food or specific ingredients, not entire recipes/meals.
     - Only make recommendations based on the information available to you. If the user doesn't provide certain information, use what you have. 
