@@ -53,7 +53,7 @@ Model 1: Frozen Backbone
 The first model served as a baseline for our approach and all pretrained layers of Resnet-18 were frozen. Model 1 was trained for 15 epochs using the ADAM optimizer and an intial learning rate of 1e-4. We also implemented a scheduler that reduced the learning rate by a factor of 0.1 whenever validation loss failed to improve, along with early stopping with patience = 3 to prevent unecessary training. Despite the stability of this model, it was limited in its ability to adapt to food imagery.
 
 Model 2: Unfrozen Backbone
-The second model relaxed the constraints of the baseline and unfroze the entire ResNet-18 backbone. Model 2 was trained for 20 epochs using the ADAM optimizer and a more cautious learning rate of 3e-5. The scheduler and early stopping of Model 1 were also implemented in Model 2. Although unfrozen backbones typically improve feature learning, Model 2 exhibited severe overfitting and validation loss collapse..
+The second model relaxed the constraints of the baseline and unfroze the entire ResNet-18 backbone. Model 2 was trained for 20 epochs using the ADAM optimizer and a more cautious learning rate of 3e-5. The scheduler and early stopping of Model 1 were also implemented in Model 2. Although unfrozen backbones typically improve feature learning, Model 2 exhibited severe overfitting and validation loss collapse.
 
 Model 3: 
 The third model corrects Model 2's overfitting. The same 70/15/15 split was used and Model 3 was trained for 20 epochs using the ADAM optimizer and a restored learning rate of 1e-4. The scheduler and early stopping were also implemented. 
@@ -68,6 +68,18 @@ Figure 2 (below Right) shows the training and validation loss curves for Model 3
 
 Maybe say something about what model 2 indicates and what the next step would be. 
 
+::: {#fig-losscurves layout="[2]"}
+
+![
+Model 2 training vs validation loss
+](assets/model2_loss.png)
+
+![
+Model 3 training vs validation loss
+](assets/model3_loss.png)
+
+:::
+
 ## 4.2 Model 2 Evaluation
 
 To assess performance, Model 2 and 3 were evaluated on the 15% test split. Metrics were computed after denormalizing predictions and returning them to their original units. Performance was measure using Mean Absolute Error (MAE) and Mean Squared Error (MSE). Model 2 achieved an MAE of __ and and MSE of __ on the test set. This indicates that ____. * 
@@ -77,6 +89,8 @@ Have some general discussion about what this actually means.
 # 5. GUI System Design
 
 The GUI was implemented in Python using the PyQt5 framework to provide an intuitive, user-friendly front end for real-time nutritional prediction. Upon launching the application, the user is presented with a large image display panel, input fields for height, weight, and age, a dietary-goal selector, and an optional free-text box for additional context. The interface includes two primary controls: an Upload Image button for selecting a local food photograph and an Analyze Meal button that triggers the prediction pipeline. Once an image is selected, it is previewed within the GUI, and the regressor model is loaded onto either a CPU or GPU depending on hardware availability. When the user initiates analysis, the application applies the same transformation pipeline used during training, converts the input image to a PyTorch tensor, and performs inference in evaluation mode to generate predicted portion weight and macronutrient values. From there, the portion weight and macronutrient values are fed into the LLM wrapper that generates dietary advice based on the information given in the display panel. The output formatted into a human-readable report and displayed within a dedicated, read-only panel. The layout is organized using a combination of horizontal and vertical PyQt5 containers, and custom stylesheets are applied throughout to ensure a polished, modern visual aesthetic. Overall, the GUI tightly integrates the trained CNN model with a responsive interface, enabling seamless meal analysis without requiring the user to manually interact with the underlying code or model artifacts.
+
+![Prototype GUI].(assets/app_screenshot.png){fig-align="center" width="80%""}
 
 ## 5.1 LLM Wrapper
 
